@@ -1,0 +1,10918 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:47:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5007817818,
+  "lat": 44.9469183,
+  "lon": 20.2777070,
+  "tags": {
+    "addr:city": "Нови Бановци",
+    "addr:housenumber": "22",
+    "addr:postcode": "22304",
+    "addr:street": "Босанска",
+    "industrial": "slaughterhouse",
+    "landuse": "industrial",
+    "name": "Pivka S",
+    "name:sr": "Пивка с",
+    "name:sr-Latn": "Pivka s",
+    "phone": "+381 22 341159",
+    "website": "https://www.pivkap.si/"
+  }
+},
+{
+  "type": "way",
+  "id": 39701427,
+  "center": {
+    "lat": 44.8157835,
+    "lon": 20.5211593
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Миријевски булевар",
+    "alt_name": "ГСП Карабурма;Погон Карабурма;GSP Karaburma;Pogon Karaburma",
+    "depot": "bus",
+    "industrial": "depot",
+    "int_name": "GSP Beograd (Saobracajni pogon „Karaburma”)",
+    "landuse": "industrial",
+    "name": "ГСП Београд (Саобраћајни погон „Карабурма”)",
+    "name:sr": "ГСП Београд (Саобраћајни погон „Карабурма”)",
+    "name:sr-Latn": "GSP Beograd (Saobraćajni pogon „Karaburma”)",
+    "operator": "ГСП Београд",
+    "website": "https://www.gsp.rs/naslovna.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 48862019,
+  "center": {
+    "lat": 44.8634002,
+    "lon": 20.2074205
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 67062959,
+  "center": {
+    "lat": 44.9718307,
+    "lon": 20.6901496
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 67237635,
+  "center": {
+    "lat": 44.9472984,
+    "lon": 20.6698696
+  },
+  "tags": {
+    "industrial": "brickyard",
+    "int_name": "Ciglana Pesic",
+    "landuse": "industrial",
+    "man_made": "works",
+    "name": "Циглана Пешић",
+    "name:sr": "Циглана Пешић"
+  }
+},
+{
+  "type": "way",
+  "id": 67237679,
+  "center": {
+    "lat": 44.9360122,
+    "lon": 20.6656456
+  },
+  "tags": {
+    "contact:website": "http://www.skrobarajabuka.rs",
+    "industrial": "factory",
+    "int_name": "Jabuka",
+    "landuse": "industrial",
+    "man_made": "works",
+    "name": "Јабука",
+    "name:sr": "Јабука",
+    "name:sr-Latn": "Jabuka",
+    "product": "starch"
+  }
+},
+{
+  "type": "way",
+  "id": 67247655,
+  "center": {
+    "lat": 44.9997450,
+    "lon": 20.6390147
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 67247668,
+  "center": {
+    "lat": 45.0006549,
+    "lon": 20.6408192
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 67397302,
+  "center": {
+    "lat": 44.9241542,
+    "lon": 20.4415538
+  },
+  "tags": {
+    "int_name": "Frikom",
+    "landuse": "industrial",
+    "name": "Фриком"
+  }
+},
+{
+  "type": "way",
+  "id": 67397313,
+  "center": {
+    "lat": 44.9302282,
+    "lon": 20.4418384
+  },
+  "tags": {
+    "int_name": "PKB - Imlek",
+    "landuse": "industrial",
+    "name": "ПКБ - Имлек"
+  }
+},
+{
+  "type": "way",
+  "id": 67793395,
+  "center": {
+    "lat": 44.9310265,
+    "lon": 20.4075189
+  },
+  "tags": {
+    "int_name": "Fabrika secera",
+    "landuse": "industrial",
+    "name": "Фабрика шећера"
+  }
+},
+{
+  "type": "way",
+  "id": 67896209,
+  "center": {
+    "lat": 44.9258153,
+    "lon": 20.4282015
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 67896289,
+  "center": {
+    "lat": 44.9445978,
+    "lon": 20.4189909
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 68321066,
+  "center": {
+    "lat": 44.8389162,
+    "lon": 20.6640496
+  },
+  "tags": {
+    "industrial": "chemical",
+    "int_name": "HIP Azotara",
+    "landuse": "industrial",
+    "name": "ХИП Азотара",
+    "name:sr": "ХИП Азотара",
+    "name:sr-Latn": "HIP Azotara",
+    "website": "https://azotara.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 68321105,
+  "center": {
+    "lat": 44.8329090,
+    "lon": 20.6890208
+  },
+  "tags": {
+    "industrial": "refinery",
+    "int_name": "NIS Rafinerija nafte Pancevo",
+    "landuse": "industrial",
+    "name": "НИС Рафинерија нафте Панчево",
+    "name:ru": "НПЗ Панчево",
+    "name:sr": "НИС Рафинерија нафте Панчево",
+    "name:sr-Latn": "NIS Rafinerija nafte Pančevo",
+    "operator": "Naftna Industrija Srbije",
+    "operator:sr": "Нафтна индустрија Србије",
+    "substance": "oil",
+    "website": "https://www.nis.rs/",
+    "wikidata": "Q110046218"
+  }
+},
+{
+  "type": "way",
+  "id": 68321166,
+  "center": {
+    "lat": 44.8578142,
+    "lon": 20.6609116
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 68327816,
+  "center": {
+    "lat": 44.8990458,
+    "lon": 20.6334363
+  },
+  "tags": {
+    "int_name": "Fabrika aviona Utva",
+    "landuse": "industrial",
+    "name": "Фабрика авиона Утва",
+    "name:sr": "Фабрика авиона Утва",
+    "name:sr-Latn": "Fabrika aviona Utva"
+  }
+},
+{
+  "type": "way",
+  "id": 139888262,
+  "center": {
+    "lat": 44.7196573,
+    "lon": 20.3098073
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 180603118,
+  "center": {
+    "lat": 44.6527019,
+    "lon": 20.0072797
+  },
+  "tags": {
+    "int_name": "Termoelektrana Nikola Tesla B",
+    "landuse": "industrial",
+    "name": "Термоелектрана Никола Тесла Б",
+    "name:de": "Wärmekraftwerke Nikola Tesla B",
+    "name:en": "TPP Nicola Tesla B",
+    "name:sr": "Термоелектрана Никола Тесла Б",
+    "name:sr-Latn": "Termoelektrana Nikola Tesla B",
+    "operator": "Електропривреда Србије",
+    "operator:wikidata": "Q1327532",
+    "plant:method": "combustion",
+    "plant:output:electricity": "1300 MW",
+    "plant:source": "coal",
+    "power": "plant",
+    "ref": "ТЕНТ Б",
+    "ref:EU:ENTSOE_EIC": "34WETL-TENTB---B",
+    "start_date": "1983",
+    "website": "https://www.eps.rs/cir/tent/Pages/Proizvodni_kapaciteti.aspx",
+    "wikidata": "Q11991316"
+  }
+},
+{
+  "type": "way",
+  "id": 208980866,
+  "center": {
+    "lat": 44.8409600,
+    "lon": 20.2185117
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 208980867,
+  "center": {
+    "lat": 44.8080420,
+    "lon": 20.2388007
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 232234180,
+  "center": {
+    "lat": 44.8763778,
+    "lon": 20.1336723
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 232234182,
+  "center": {
+    "lat": 44.8705692,
+    "lon": 20.1078890
+  },
+  "tags": {
+    "barrier": "wall",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 233656752,
+  "center": {
+    "lat": 44.8078498,
+    "lon": 20.4064395
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:pak": "191646",
+    "addr:postcode": "11073",
+    "addr:street": "Др Агостина Нета",
+    "alt_name": "ГСП Нови Београд;Погон Нови Београд;GSP Novi Beograd;Pogon Novi Beograd",
+    "depot": "bus;tram",
+    "industrial": "depot",
+    "int_name": "GSP Beograd (Saobracajni pogon „Novi Beograd”)",
+    "landuse": "industrial",
+    "name": "ГСП Београд (Саобраћајни погон „Нови Београд”)",
+    "name:sr": "ГСП Београд (Саобраћајни погон „Нови Београд”)",
+    "name:sr-Latn": "GSP Beograd (Saobraćajni pogon „Novi Beograd”)",
+    "operator": "ГСП Београд",
+    "ref:RS:kucni_broj": "3169451",
+    "website": "https://www.gsp.rs/naslovna.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 233656755,
+  "center": {
+    "lat": 44.8082146,
+    "lon": 20.4080549
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:pak": "191646",
+    "addr:postcode": "11073",
+    "addr:street": "Др Агостина Нета",
+    "depot": "bus",
+    "industrial": "depot",
+    "int_name": "GSP Beograd (Saobracajni pogon „Novi Beograd”)",
+    "landuse": "industrial",
+    "name": "ГСП Београд (Саобраћајни погон „Нови Београд”)",
+    "name:sr": "ГСП Београд (Саобраћајни погон „Нови Београд”)",
+    "name:sr-Latn": "GSP Beograd (Saobraćajni pogon „Novi Beograd”)",
+    "operator": "ГСП Београд",
+    "website": "https://www.gsp.rs/naslovna.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 242397298,
+  "center": {
+    "lat": 44.8142418,
+    "lon": 20.5289941
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 254323290,
+  "center": {
+    "lat": 44.7245496,
+    "lon": 20.2327295
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 254323439,
+  "center": {
+    "lat": 44.7241213,
+    "lon": 20.2124094
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 254386692,
+  "center": {
+    "lat": 44.7264161,
+    "lon": 20.2180430
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 259281403,
+  "center": {
+    "lat": 44.8391974,
+    "lon": 20.3919677
+  },
+  "tags": {
+    "int_name": "Navip",
+    "landuse": "industrial",
+    "name": "Навип",
+    "name:sr": "Навип",
+    "name:sr-Latn": "Navip"
+  }
+},
+{
+  "type": "way",
+  "id": 259281414,
+  "center": {
+    "lat": 44.8400843,
+    "lon": 20.3946958
+  },
+  "tags": {
+    "int_name": "Impa",
+    "landuse": "industrial",
+    "name": "Импа",
+    "name:sr": "Импа",
+    "name:sr-Latn": "Impa"
+  }
+},
+{
+  "type": "way",
+  "id": 265427295,
+  "center": {
+    "lat": 44.7906296,
+    "lon": 20.5155316
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "8",
+    "addr:postcode": "11000",
+    "addr:street": "Мите Ружића",
+    "int_name": "Kluz",
+    "landuse": "industrial",
+    "name": "Клуз",
+    "name:sr": "Клуз",
+    "name:sr-Latn": "Kluz",
+    "ref:RS:kucni_broj": "3607404",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 282777990,
+  "center": {
+    "lat": 44.6735980,
+    "lon": 20.1919456
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 282790084,
+  "center": {
+    "lat": 44.6678465,
+    "lon": 20.1683807
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 284048031,
+  "center": {
+    "lat": 44.6680487,
+    "lon": 20.7261079
+  },
+  "tags": {
+    "industrial": "port",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 284859554,
+  "center": {
+    "lat": 44.6608739,
+    "lon": 20.1031505
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 286296457,
+  "center": {
+    "lat": 44.7733729,
+    "lon": 20.5163202
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Аутопут за Ниш",
+    "alt_name": "ГСП Космај;Погон Космај;GSP Kosmaj;Pogon Kosmaj",
+    "depot": "bus",
+    "industrial": "depot",
+    "int_name": "GSP Beograd (Saobracajni pogon „Kosmaj”)",
+    "landuse": "industrial",
+    "name": "ГСП Београд (Саобраћајни погон „Космај”)",
+    "name:sr": "ГСП Београд (Саобраћајни погон „Космај”)",
+    "name:sr-Latn": "GSP Beograd (Saobraćajni pogon „Kosmaj”)",
+    "operator": "ГСП Београд",
+    "website": "https://www.gsp.rs/naslovna.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 287384825,
+  "center": {
+    "lat": 44.8083484,
+    "lon": 20.3603206
+  },
+  "tags": {
+    "int_name": "Grand kafa",
+    "landuse": "industrial",
+    "name": "Гранд кафа"
+  }
+},
+{
+  "type": "way",
+  "id": 287860367,
+  "center": {
+    "lat": 44.7877766,
+    "lon": 20.4218056
+  },
+  "tags": {
+    "int_name": "Stara secerana",
+    "landuse": "industrial",
+    "name": "Стара шећерана",
+    "name:sr": "Стара шећерана",
+    "name:sr-Latn": "Stara šećerana",
+    "wikidata": "Q3502849",
+    "wikipedia": "sr:Фабрика шећера (споменик)"
+  }
+},
+{
+  "type": "way",
+  "id": 293290250,
+  "center": {
+    "lat": 44.8501094,
+    "lon": 20.4878880
+  },
+  "tags": {
+    "int_name": "Dunavgrad",
+    "landuse": "industrial",
+    "name": "Дунавград",
+    "name:sr": "Дунавград",
+    "name:sr-Latn": "Dunavgrad",
+    "official_name": "Фабрика сокова и сирћета „Дунавград”",
+    "official_name:sr-Latn": "Fabrika sokova i sirćeta „Dunavgrad”"
+  }
+},
+{
+  "type": "way",
+  "id": 303023408,
+  "center": {
+    "lat": 44.8434135,
+    "lon": 20.5047727
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 316301974,
+  "center": {
+    "lat": 44.8558969,
+    "lon": 20.4848275
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 326151564,
+  "center": {
+    "lat": 44.8367675,
+    "lon": 20.3489966
+  },
+  "tags": {
+    "industrial": "factory",
+    "int_name": "Ikarbus",
+    "landuse": "industrial",
+    "name": "Икарбус",
+    "name:sr": "Икарбус",
+    "name:sr-Latn": "Ikarbus"
+  }
+},
+{
+  "type": "way",
+  "id": 345053794,
+  "center": {
+    "lat": 44.8508001,
+    "lon": 20.3914869
+  },
+  "tags": {
+    "addr:city": "Земун",
+    "addr:postcode": "11080",
+    "addr:street": "Тршћанска",
+    "int_name": "INSA - Industrija satova",
+    "landuse": "industrial",
+    "name": "ИНСА - Индустрија сатова",
+    "name:sr": "ИНСА - Индустрија сатова",
+    "name:sr-Latn": "INSA - Industrija satova"
+  }
+},
+{
+  "type": "way",
+  "id": 345084863,
+  "center": {
+    "lat": 44.8535297,
+    "lon": 20.3883923
+  },
+  "tags": {
+    "addr:street": "Цара Душана",
+    "landuse": "industrial",
+    "name": "Телеоптик",
+    "name:en": "Teleoptik",
+    "name:sr": "Телеоптик",
+    "name:sr-Latn": "Teleoptik"
+  }
+},
+{
+  "type": "way",
+  "id": 358500639,
+  "center": {
+    "lat": 44.7220624,
+    "lon": 20.5427277
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 358500640,
+  "center": {
+    "lat": 44.7219862,
+    "lon": 20.5403946
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 367733359,
+  "center": {
+    "lat": 44.9556280,
+    "lon": 20.1962178
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 367733360,
+  "center": {
+    "lat": 44.9556382,
+    "lon": 20.1975115
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 367931319,
+  "center": {
+    "lat": 45.0445270,
+    "lon": 20.0979531
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 367931326,
+  "center": {
+    "lat": 45.0447469,
+    "lon": 20.1029550
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 373695227,
+  "center": {
+    "lat": 44.7781915,
+    "lon": 20.4988889
+  },
+  "tags": {
+    "int_name": "Elektrodistribucija Beograd (Pogon Niski put)",
+    "landuse": "industrial",
+    "name": "Електродистрибуција Београд (Погон Нишки пут)"
+  }
+},
+{
+  "type": "way",
+  "id": 378852113,
+  "center": {
+    "lat": 44.8363123,
+    "lon": 20.6759653
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 380894334,
+  "center": {
+    "lat": 44.7772730,
+    "lon": 20.5114524
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 381175307,
+  "center": {
+    "lat": 44.7792158,
+    "lon": 20.5034147
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 382875587,
+  "center": {
+    "lat": 44.6574665,
+    "lon": 20.2448168
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Прва Искра",
+    "name:en": "Prva Iskra",
+    "name:sr": "Прва Искра",
+    "name:sr-Latn": "Prva Iskra"
+  }
+},
+{
+  "type": "way",
+  "id": 384162302,
+  "center": {
+    "lat": 44.8831677,
+    "lon": 20.6534106
+  },
+  "tags": {
+    "landuse": "industrial",
+    "power": "plant"
+  }
+},
+{
+  "type": "way",
+  "id": 384904333,
+  "center": {
+    "lat": 44.8929562,
+    "lon": 20.6712655
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904336,
+  "center": {
+    "lat": 44.8959603,
+    "lon": 20.6706054
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904337,
+  "center": {
+    "lat": 44.8968382,
+    "lon": 20.6729757
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904338,
+  "center": {
+    "lat": 44.8979447,
+    "lon": 20.6750593
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904339,
+  "center": {
+    "lat": 44.8976137,
+    "lon": 20.6721278
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904340,
+  "center": {
+    "lat": 44.8986815,
+    "lon": 20.6731651
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904341,
+  "center": {
+    "lat": 44.8992487,
+    "lon": 20.6724256
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904342,
+  "center": {
+    "lat": 44.8965513,
+    "lon": 20.6768166
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904344,
+  "center": {
+    "lat": 44.8972408,
+    "lon": 20.6786201
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904345,
+  "center": {
+    "lat": 44.8958299,
+    "lon": 20.6790265
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904347,
+  "center": {
+    "lat": 44.8946232,
+    "lon": 20.6806801
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904352,
+  "center": {
+    "lat": 44.8969722,
+    "lon": 20.6832851
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904354,
+  "center": {
+    "lat": 44.8950167,
+    "lon": 20.6847684
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904368,
+  "center": {
+    "lat": 44.8947692,
+    "lon": 20.6730550
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 384904372,
+  "center": {
+    "lat": 44.8937124,
+    "lon": 20.6676990
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 387960650,
+  "center": {
+    "lat": 44.7527138,
+    "lon": 20.4010648
+  },
+  "tags": {
+    "industrial": "water_treatment",
+    "int_name": "Proizvodni pogon Bele Vode, JKP BVK",
+    "landuse": "industrial",
+    "name": "Производни погон Беле Воде, ЈКП БВК"
+  }
+},
+{
+  "type": "way",
+  "id": 387960652,
+  "center": {
+    "lat": 44.7507277,
+    "lon": 20.4007302
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 387960653,
+  "center": {
+    "lat": 44.7520916,
+    "lon": 20.3962631
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 387960654,
+  "center": {
+    "lat": 44.7501240,
+    "lon": 20.3983781
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 388043960,
+  "center": {
+    "lat": 44.7536756,
+    "lon": 20.3976640
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 388043997,
+  "center": {
+    "lat": 44.7716389,
+    "lon": 20.3727115
+  },
+  "tags": {
+    "industrial": "water_treatment",
+    "int_name": "Proizvodni pogon Makis, JKP BVK",
+    "landuse": "industrial",
+    "name": "Производни погон Макиш, ЈКП БВК"
+  }
+},
+{
+  "type": "way",
+  "id": 388044003,
+  "center": {
+    "lat": 44.7762064,
+    "lon": 20.3750224
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 388044004,
+  "center": {
+    "lat": 44.7710907,
+    "lon": 20.3690647
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 388044005,
+  "center": {
+    "lat": 44.7698201,
+    "lon": 20.3682996
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 388045125,
+  "center": {
+    "lat": 44.7714601,
+    "lon": 20.3619086
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 388638602,
+  "center": {
+    "lat": 44.7459319,
+    "lon": 20.3564787
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 389971035,
+  "center": {
+    "lat": 44.8470460,
+    "lon": 20.6572173
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 390716597,
+  "center": {
+    "lat": 44.8508504,
+    "lon": 20.4011024
+  },
+  "tags": {
+    "alt_name": "ГСП Земун;Погон Земун;GSP Zemun;Pogon Zemun",
+    "depot": "bus",
+    "industrial": "depot",
+    "int_name": "GSP Beograd (Saobracajni pogon Zemun)",
+    "landuse": "industrial",
+    "name": "ГСП Београд (Саобраћајни погон Земун)",
+    "name:sr": "ГСП Београд (Саобраћајни погон Земун)",
+    "name:sr-Latn": "GSP Beograd (Saobraćajni pogon Zemun)"
+  }
+},
+{
+  "type": "way",
+  "id": 390731443,
+  "center": {
+    "lat": 44.8056635,
+    "lon": 20.3960749
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 392135035,
+  "center": {
+    "lat": 44.7557881,
+    "lon": 20.4472455
+  },
+  "tags": {
+    "int_name": "Elektrodistribucija",
+    "landuse": "industrial",
+    "name": "Електродистрибуција",
+    "name:sr": "Електродистрибуција",
+    "name:sr-Latn": "Elektrodistribucija"
+  }
+},
+{
+  "type": "way",
+  "id": 392148832,
+  "center": {
+    "lat": 44.7533565,
+    "lon": 20.4653146
+  },
+  "tags": {
+    "addr:housenumber": "62",
+    "addr:street": "Бањички пут",
+    "landuse": "industrial",
+    "name": "Messer Tehnogas"
+  }
+},
+{
+  "type": "way",
+  "id": 392308390,
+  "center": {
+    "lat": 44.7426011,
+    "lon": 20.4391453
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 392308391,
+  "center": {
+    "lat": 44.7369804,
+    "lon": 20.4352216
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 392308392,
+  "center": {
+    "lat": 44.7363602,
+    "lon": 20.4410672
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 392690636,
+  "center": {
+    "lat": 44.7360857,
+    "lon": 20.4158048
+  },
+  "tags": {
+    "int_name": "Toplana „Cerak”",
+    "landuse": "industrial",
+    "name": "Топлана „Церак”",
+    "name:en": "Cerak Heating Plant",
+    "name:sr": "Топлана „Церак”",
+    "name:sr-Latn": "Toplana „Cerak”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "232 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 395706458,
+  "center": {
+    "lat": 44.8521532,
+    "lon": 20.6438414
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 395713827,
+  "center": {
+    "lat": 44.7354635,
+    "lon": 20.4333526
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 396713238,
+  "center": {
+    "lat": 44.7962275,
+    "lon": 20.4510657
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "5",
+    "addr:postcode": "11000",
+    "addr:street": "Булевар војводе Путника",
+    "building": "industrial",
+    "fax": "+381 11 2648964",
+    "industrial": "brewery",
+    "int_name": "Beogradska industrija piva",
+    "landuse": "industrial",
+    "name": "Београдска индустрија пива",
+    "name:sr": "Београдска индустрија пива",
+    "name:sr-Latn": "Beogradska industrija piva",
+    "phone": "+381 11 2652322",
+    "website": "https://bip.rs/",
+    "wikidata": "Q2877087",
+    "wikipedia": "sr:БИП"
+  }
+},
+{
+  "type": "way",
+  "id": 397839394,
+  "center": {
+    "lat": 44.9204986,
+    "lon": 20.5533398
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 398042984,
+  "center": {
+    "lat": 44.7999228,
+    "lon": 20.4837760
+  },
+  "tags": {
+    "access": "private",
+    "barrier": "fence",
+    "boundary": "water_protection_area",
+    "fence_type": "railing",
+    "int_name": "Uza zona sanitarne zastite Beogradskog vodovoda",
+    "landuse": "industrial",
+    "man_made": "water_works",
+    "name": "Ужа зона санитарне заштите Београдског водовода",
+    "name:sr": "Ужа зона санитарне заштите Београдског водовода",
+    "name:sr-Latn": "Uža zona sanitarne zaštite Beogradskog vodovoda",
+    "operator": "ЈКП „Београдски водовод и канализација”"
+  }
+},
+{
+  "type": "way",
+  "id": 398206958,
+  "center": {
+    "lat": 44.7965133,
+    "lon": 20.4852878
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Uza zona sanitarne zastite Beogradskog vodovoda",
+    "landuse": "industrial",
+    "man_made": "water_works",
+    "name": "Ужа зона санитарне заштите Београдског водовода",
+    "name:sr": "Ужа зона санитарне заштите Београдског водовода",
+    "name:sr-Latn": "Uža zona sanitarne zaštite Beogradskog vodovoda",
+    "operator": "ЈКП „Београдски водовод и канализација”"
+  }
+},
+{
+  "type": "way",
+  "id": 401693611,
+  "center": {
+    "lat": 44.7627246,
+    "lon": 20.4861436
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 401957566,
+  "center": {
+    "lat": 44.7866451,
+    "lon": 20.4645014
+  },
+  "tags": {
+    "int_name": "Poljoprivredni kombinat Beograd",
+    "landuse": "industrial",
+    "name": "Пољопривредни комбинат Београд",
+    "name:sr": "Пољопривредни комбинат Београд",
+    "name:sr-Latn": "Poljoprivredni kombinat Beograd"
+  }
+},
+{
+  "type": "way",
+  "id": 404114003,
+  "center": {
+    "lat": 44.8492555,
+    "lon": 20.3983987
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 407674611,
+  "center": {
+    "lat": 44.5641465,
+    "lon": 20.5770494
+  },
+  "tags": {
+    "int_name": "Baza Beograd Puta",
+    "landuse": "industrial",
+    "name": "База Београд Пута",
+    "name:sr": "База Београд Пута",
+    "name:sr-Latn": "Baza Beograd Puta"
+  }
+},
+{
+  "type": "way",
+  "id": 409832110,
+  "center": {
+    "lat": 44.8425824,
+    "lon": 20.3875605
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 414680437,
+  "center": {
+    "lat": 44.7111422,
+    "lon": 20.3740604
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 414841018,
+  "center": {
+    "lat": 44.7321336,
+    "lon": 20.3782411
+  },
+  "tags": {
+    "int_name": "Toplana „Zeleznik”",
+    "landuse": "industrial",
+    "name": "Топлана „Железник”",
+    "name:en": "Železnik Heating Plant",
+    "name:sr": "Топлана „Железник”",
+    "name:sr-Latn": "Toplana „Železnik”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 421964038,
+  "center": {
+    "lat": 44.7704378,
+    "lon": 20.5192284
+  },
+  "tags": {
+    "industrial": "depot",
+    "int_name": "Lasta",
+    "landuse": "industrial",
+    "name": "Ласта",
+    "name:sr": "Ласта",
+    "name:sr-Latn": "Lasta"
+  }
+},
+{
+  "type": "way",
+  "id": 432361576,
+  "center": {
+    "lat": 44.7796094,
+    "lon": 20.4986769
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 434443599,
+  "center": {
+    "lat": 44.8693051,
+    "lon": 20.3499329
+  },
+  "tags": {
+    "barrier": "fence",
+    "industrial": "factory",
+    "landuse": "industrial",
+    "name": "Ball Beverage Packaging"
+  }
+},
+{
+  "type": "way",
+  "id": 434687041,
+  "center": {
+    "lat": 44.8523673,
+    "lon": 20.6463740
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 456094556,
+  "center": {
+    "lat": 44.7758911,
+    "lon": 20.3752740
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 456181151,
+  "center": {
+    "lat": 44.7803925,
+    "lon": 20.3844060
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Ada A",
+    "landuse": "industrial",
+    "name": "Ада А"
+  }
+},
+{
+  "type": "way",
+  "id": 457353546,
+  "center": {
+    "lat": 44.7959045,
+    "lon": 20.3278357
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550913,
+  "center": {
+    "lat": 44.8092397,
+    "lon": 20.2430719
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550914,
+  "center": {
+    "lat": 44.8107406,
+    "lon": 20.2402259
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550915,
+  "center": {
+    "lat": 44.8135344,
+    "lon": 20.2365960
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "dEUS System"
+  }
+},
+{
+  "type": "way",
+  "id": 457550916,
+  "center": {
+    "lat": 44.8137844,
+    "lon": 20.2423909
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Gimkamen"
+  }
+},
+{
+  "type": "way",
+  "id": 457550917,
+  "center": {
+    "lat": 44.8120744,
+    "lon": 20.2437765
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550918,
+  "center": {
+    "lat": 44.8122074,
+    "lon": 20.2469381
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550925,
+  "center": {
+    "lat": 44.8105174,
+    "lon": 20.2467710
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550927,
+  "center": {
+    "lat": 44.8225845,
+    "lon": 20.2393239
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550931,
+  "center": {
+    "lat": 44.8341103,
+    "lon": 20.2407885
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550934,
+  "center": {
+    "lat": 44.8231807,
+    "lon": 20.2394842
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550947,
+  "center": {
+    "lat": 44.8180991,
+    "lon": 20.2378482
+  },
+  "tags": {
+    "addr:city": "Dobanovci",
+    "addr:city:en": "Dobanovci",
+    "addr:housenumber": "85",
+    "addr:postcode": "11272",
+    "addr:street": "Београдска",
+    "addr:street:en": "Beogradska",
+    "addr:streetnumber": "85",
+    "brand": "Gebrüder Weiss",
+    "brand:wikidata": "Q1497233",
+    "industrial": "warehouse",
+    "landuse": "industrial",
+    "name": "Gebrüder Weiss"
+  }
+},
+{
+  "type": "way",
+  "id": 457550951,
+  "center": {
+    "lat": 44.8183996,
+    "lon": 20.2366936
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550953,
+  "center": {
+    "lat": 44.8169225,
+    "lon": 20.2361482
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550956,
+  "center": {
+    "lat": 44.8202091,
+    "lon": 20.2412264
+  },
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "wire",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550957,
+  "center": {
+    "lat": 44.8210938,
+    "lon": 20.2389646
+  },
+  "tags": {
+    "addr:housenumber": "27",
+    "addr:postcode": "11272",
+    "addr:street": "Београдска",
+    "description": "Wasi Beograd je snabdevač proizvodima od nerđajuceg čelika u dva osnovna kvaliteta: A2 (vodootporni čelik) i A4 (kiselootporni čelik). Osnov našeg programa su šrafovska roba, kompletan asortiman nerđajućih ventila i fitinga, cevi, limova...",
+    "email": "office@wasi.rs",
+    "fax": "+381 11 7359 690",
+    "industrial": "warehouse",
+    "landuse": "industrial",
+    "name": "Wasi",
+    "phone": "+381 11 2078 281;+381 11 7359 673",
+    "ref:RS:kucni_broj": "3362817",
+    "website": "https://www.wasi.rs"
+  }
+},
+{
+  "type": "way",
+  "id": 457550959,
+  "center": {
+    "lat": 44.8292988,
+    "lon": 20.2412716
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550960,
+  "center": {
+    "lat": 44.8353255,
+    "lon": 20.2415117
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550961,
+  "center": {
+    "lat": 44.8318561,
+    "lon": 20.2434210
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457550962,
+  "center": {
+    "lat": 44.8328926,
+    "lon": 20.2411515
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457576191,
+  "center": {
+    "lat": 44.8703059,
+    "lon": 20.0903951
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457576193,
+  "center": {
+    "lat": 44.8722888,
+    "lon": 20.0904914
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457588011,
+  "center": {
+    "lat": 44.8144228,
+    "lon": 20.2206992
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457588012,
+  "center": {
+    "lat": 44.8160185,
+    "lon": 20.2212142
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457588019,
+  "center": {
+    "lat": 44.8195420,
+    "lon": 20.2165988
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457588046,
+  "center": {
+    "lat": 44.8202035,
+    "lon": 20.2126405
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457734995,
+  "center": {
+    "lat": 44.8601662,
+    "lon": 20.2075783
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735009,
+  "center": {
+    "lat": 44.8672416,
+    "lon": 20.2048832
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735037,
+  "center": {
+    "lat": 44.8566948,
+    "lon": 20.2067407
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735039,
+  "center": {
+    "lat": 44.8549980,
+    "lon": 20.2036339
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735040,
+  "center": {
+    "lat": 44.8556696,
+    "lon": 20.2061737
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735041,
+  "center": {
+    "lat": 44.8560370,
+    "lon": 20.2058208
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735042,
+  "center": {
+    "lat": 44.8549448,
+    "lon": 20.2058064
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735051,
+  "center": {
+    "lat": 44.8492780,
+    "lon": 20.2072408
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735053,
+  "center": {
+    "lat": 44.8487921,
+    "lon": 20.2055533
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735054,
+  "center": {
+    "lat": 44.8467983,
+    "lon": 20.2054200
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735063,
+  "center": {
+    "lat": 44.8819884,
+    "lon": 20.2000313
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735066,
+  "center": {
+    "lat": 44.8518423,
+    "lon": 20.2079905
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735067,
+  "center": {
+    "lat": 44.8518108,
+    "lon": 20.2087548
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 457735068,
+  "center": {
+    "lat": 44.8533549,
+    "lon": 20.2122185
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 459164916,
+  "center": {
+    "lat": 44.7701218,
+    "lon": 20.2418648
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 459164924,
+  "center": {
+    "lat": 44.7675483,
+    "lon": 20.2437871
+  },
+  "tags": {
+    "addr:housenumber": "203а",
+    "addr:street": "Вожда Карађорђа",
+    "email": "office@vml.rs",
+    "landuse": "industrial",
+    "man_made": "works",
+    "mobile": "+381 60 4004102",
+    "name": "VML",
+    "name:sr": "ВМЛ",
+    "name:sr-Latn": "VML",
+    "phone": "+381 11 8443000",
+    "product": "petroleum",
+    "website": "https://vml.rs"
+  }
+},
+{
+  "type": "way",
+  "id": 459427425,
+  "center": {
+    "lat": 44.7272522,
+    "lon": 20.3251059
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 459427426,
+  "center": {
+    "lat": 44.7269469,
+    "lon": 20.3259360
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 461754385,
+  "center": {
+    "lat": 44.8098393,
+    "lon": 20.5472878
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 469995255,
+  "center": {
+    "lat": 44.7837959,
+    "lon": 20.3956454
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Ada B",
+    "landuse": "industrial",
+    "name": "Ада Б"
+  }
+},
+{
+  "type": "way",
+  "id": 477203707,
+  "center": {
+    "lat": 44.7875717,
+    "lon": 20.2722555
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 492561560,
+  "center": {
+    "lat": 44.6792710,
+    "lon": 20.5927700
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 509471778,
+  "center": {
+    "lat": 44.8888154,
+    "lon": 20.0898361
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 509472728,
+  "center": {
+    "lat": 44.8826015,
+    "lon": 20.1287359
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 509472729,
+  "center": {
+    "lat": 44.8832067,
+    "lon": 20.1266209
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 515271311,
+  "center": {
+    "lat": 44.9945175,
+    "lon": 20.2916072
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Abela pharm",
+    "office": "company"
+  }
+},
+{
+  "type": "way",
+  "id": 530663147,
+  "center": {
+    "lat": 44.8750582,
+    "lon": 20.3573924
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 536714977,
+  "center": {
+    "lat": 44.7957441,
+    "lon": 20.4518967
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 547438790,
+  "center": {
+    "lat": 44.8239959,
+    "lon": 20.4654832
+  },
+  "tags": {
+    "depot": "tram;trolleybus",
+    "industrial": "depot",
+    "int_name": "Saobracajni pogon i depo Dorcol",
+    "landuse": "industrial",
+    "name": "Саобраћајни погон и депо Дорћол",
+    "name:sr": "Саобраћајни погон и депо Дорћол",
+    "name:sr-Latn": "Saobraćajni pogon i depo Dorćol"
+  }
+},
+{
+  "type": "way",
+  "id": 553470059,
+  "center": {
+    "lat": 44.8465221,
+    "lon": 20.5065894
+  },
+  "tags": {
+    "addr:city": "Palilula",
+    "addr:postcode": "11060",
+    "addr:street": "Заге Маливук улица 1.",
+    "addr:unit": "1",
+    "landuse": "industrial",
+    "name": "D Express"
+  }
+},
+{
+  "type": "way",
+  "id": 572762372,
+  "center": {
+    "lat": 44.7747143,
+    "lon": 20.4957796
+  },
+  "tags": {
+    "int_name": "Toplana „Medakovic”",
+    "landuse": "industrial",
+    "name": "Топлана „Медаковић”",
+    "name:en": "Medaković Heating Plant",
+    "name:sr": "Топлана „Медаковић”",
+    "name:sr-Latn": "Toplana „Medaković”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "50 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 587561805,
+  "center": {
+    "lat": 44.8794634,
+    "lon": 20.0921213
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 587561810,
+  "center": {
+    "lat": 44.8787861,
+    "lon": 20.0939161
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 587561811,
+  "center": {
+    "lat": 44.8785264,
+    "lon": 20.0950889
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 587562396,
+  "center": {
+    "lat": 44.8895568,
+    "lon": 20.0872271
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 587565657,
+  "center": {
+    "lat": 44.8834600,
+    "lon": 20.1008034
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 587565659,
+  "center": {
+    "lat": 44.8850763,
+    "lon": 20.1020399
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 587566360,
+  "center": {
+    "lat": 44.8814965,
+    "lon": 20.1000782
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 587568394,
+  "center": {
+    "lat": 44.8825342,
+    "lon": 20.1092517
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 587568395,
+  "center": {
+    "lat": 44.8807315,
+    "lon": 20.1106612
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 591078396,
+  "center": {
+    "lat": 44.8647162,
+    "lon": 20.7396328
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 594585303,
+  "center": {
+    "lat": 44.8002003,
+    "lon": 20.4113321
+  },
+  "tags": {
+    "int_name": "Blok 58",
+    "landuse": "industrial",
+    "name": "Блок 58",
+    "name:ru": "Блок 58",
+    "name:sr": "Блок 58",
+    "name:sr-Latn": "Blok 58",
+    "place": "city_block"
+  }
+},
+{
+  "type": "way",
+  "id": 613566975,
+  "center": {
+    "lat": 44.7748299,
+    "lon": 20.2387828
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 613566977,
+  "center": {
+    "lat": 44.7760605,
+    "lon": 20.2380609
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 613566978,
+  "center": {
+    "lat": 44.7761461,
+    "lon": 20.2390995
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 622738160,
+  "center": {
+    "lat": 44.7275295,
+    "lon": 20.3637305
+  },
+  "tags": {
+    "int_name": "ILR",
+    "landuse": "industrial",
+    "name": "ИЛР"
+  }
+},
+{
+  "type": "way",
+  "id": 622775984,
+  "center": {
+    "lat": 44.7372033,
+    "lon": 20.3630747
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 622775988,
+  "center": {
+    "lat": 44.7384900,
+    "lon": 20.3628263
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 622779274,
+  "center": {
+    "lat": 44.7328433,
+    "lon": 20.3598789
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 624060772,
+  "center": {
+    "lat": 44.7466652,
+    "lon": 20.3599463
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 624060773,
+  "center": {
+    "lat": 44.7479922,
+    "lon": 20.3573017
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 624060783,
+  "center": {
+    "lat": 44.7505310,
+    "lon": 20.3533945
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 624060784,
+  "center": {
+    "lat": 44.7482695,
+    "lon": 20.3555377
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 624060817,
+  "center": {
+    "lat": 44.7558370,
+    "lon": 20.3513752
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 624091627,
+  "center": {
+    "lat": 44.7405056,
+    "lon": 20.3227080
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 624093041,
+  "center": {
+    "lat": 44.7579457,
+    "lon": 20.3492133
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 624093042,
+  "center": {
+    "lat": 44.7565059,
+    "lon": 20.3442419
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 633264979,
+  "center": {
+    "lat": 44.6842534,
+    "lon": 20.2019461
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 642869713,
+  "center": {
+    "lat": 44.8010498,
+    "lon": 20.4273896
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 643591376,
+  "center": {
+    "lat": 44.9989687,
+    "lon": 20.3077676
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 646099280,
+  "center": {
+    "lat": 45.0330804,
+    "lon": 20.0995985
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 646099281,
+  "center": {
+    "lat": 45.0325924,
+    "lon": 20.0997635
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 648541684,
+  "center": {
+    "lat": 44.7966983,
+    "lon": 20.5063515
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "75",
+    "addr:postcode": "11000",
+    "addr:street": "Милана Ракића",
+    "int_name": "JKP Gradska cistoca - pogon Zvezdara",
+    "landuse": "industrial",
+    "name": "ЈКП Градска чистоћа - погон Звездара",
+    "name:sr": "ЈКП Градска чистоћа - погон Звездара",
+    "name:sr-Latn": "JKP Gradska čistoća - pogon Zvezdara"
+  }
+},
+{
+  "type": "way",
+  "id": 659365766,
+  "center": {
+    "lat": 44.7218974,
+    "lon": 20.4379427
+  },
+  "tags": {
+    "int_name": "Komgrap",
+    "landuse": "industrial",
+    "name": "Комграп"
+  }
+},
+{
+  "type": "way",
+  "id": 664185606,
+  "center": {
+    "lat": 44.7277275,
+    "lon": 20.5387182
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 670466687,
+  "center": {
+    "lat": 44.7546988,
+    "lon": 20.4713324
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 672312134,
+  "center": {
+    "lat": 44.7322264,
+    "lon": 20.4190198
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 672312163,
+  "center": {
+    "lat": 44.7259831,
+    "lon": 20.4371553
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 672428525,
+  "center": {
+    "lat": 44.7223646,
+    "lon": 20.4724815
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 674250980,
+  "center": {
+    "lat": 44.8533624,
+    "lon": 20.5319300
+  },
+  "tags": {
+    "industrial": "refinery",
+    "int_name": "Rafinerija nafte Beograd",
+    "landuse": "industrial",
+    "name": "Рафинерија нафте Београд",
+    "name:sr": "Рафинерија нафте Београд",
+    "name:sr-Latn": "Rafinerija nafte Beograd"
+  }
+},
+{
+  "type": "way",
+  "id": 674284157,
+  "center": {
+    "lat": 44.8532681,
+    "lon": 20.5376263
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 674384750,
+  "center": {
+    "lat": 44.7824278,
+    "lon": 20.4342196
+  },
+  "tags": {
+    "fax": "+ 381 11 3544128",
+    "int_name": "Zavod za izradu novcanica i kovanog novca – Topcider",
+    "landuse": "industrial",
+    "name": "Завод за израду новчаница и кованог новца – Топчидер",
+    "name:en": "Banking and Coinage Department - Topčider",
+    "name:sr": "Завод за израду новчаница и кованог новца – Топчидер",
+    "name:sr-Latn": "Zavod za izradu novčanica i kovanog novca – Topčider",
+    "phone": "+ 381 11 3531200",
+    "start_date": "1929-12-16",
+    "website": "https://www.zin.rs/"
+  }
+},
+{
+  "type": "way",
+  "id": 674434670,
+  "center": {
+    "lat": 44.8702458,
+    "lon": 20.1180310
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 674434671,
+  "center": {
+    "lat": 44.8705639,
+    "lon": 20.1145035
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 674434672,
+  "center": {
+    "lat": 44.8721062,
+    "lon": 20.1117221
+  },
+  "tags": {
+    "email": "office@agrosava.com",
+    "fax": "+381 22 481685",
+    "industrial": "agriculture",
+    "landuse": "industrial",
+    "name": "Agrosava",
+    "name:sr": "Агросава",
+    "name:sr-Latn": "Agrosava",
+    "opening_hours": "Mo-Fr 08:00-15:30",
+    "phone": "+381 22 2155410",
+    "website": "https://agrosava.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 674434673,
+  "center": {
+    "lat": 44.8687416,
+    "lon": 20.1206339
+  },
+  "tags": {
+    "barrier": "fence",
+    "email": "serb@doka.com",
+    "industrial": "warehouse",
+    "landuse": "industrial",
+    "name": "Doka",
+    "name:sr": "Дока",
+    "name:sr-Latn": "Doka",
+    "opening_hours": "Mo-Fr 07:30-15:30",
+    "phone": "+381 22 400100",
+    "website": "https://www.doka.com/rs"
+  }
+},
+{
+  "type": "way",
+  "id": 674434680,
+  "center": {
+    "lat": 44.8752831,
+    "lon": 20.1208757
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 675566860,
+  "center": {
+    "lat": 44.9983783,
+    "lon": 20.4007878
+  },
+  "tags": {
+    "int_name": "PKB Besni Fok",
+    "landuse": "industrial",
+    "name": "ПКБ Бесни Фок"
+  }
+},
+{
+  "type": "way",
+  "id": 675676740,
+  "center": {
+    "lat": 44.8541697,
+    "lon": 20.5266694
+  },
+  "tags": {
+    "int_name": "Fabrika betona",
+    "landuse": "industrial",
+    "name": "Фабрика бетона",
+    "name:sr": "Фабрика бетона",
+    "name:sr-Latn": "Fabrika betona"
+  }
+},
+{
+  "type": "way",
+  "id": 675676741,
+  "center": {
+    "lat": 44.8482501,
+    "lon": 20.5151339
+  },
+  "tags": {
+    "industrial": "printing",
+    "int_name": "Stamparija „Politika”",
+    "landuse": "industrial",
+    "name": "Штампарија „Политика”",
+    "name:sr": "Штампарија „Политика”",
+    "name:sr-Latn": "Štamparija „Politika”",
+    "website": "http://www.politikastamparija.rs"
+  }
+},
+{
+  "type": "way",
+  "id": 675733310,
+  "center": {
+    "lat": 44.6700508,
+    "lon": 20.4931245
+  },
+  "tags": {
+    "int_name": "ABS Minel",
+    "landuse": "industrial",
+    "name": "АБС Минел"
+  }
+},
+{
+  "type": "way",
+  "id": 675733316,
+  "center": {
+    "lat": 44.6840894,
+    "lon": 20.5004181
+  },
+  "tags": {
+    "industrial": "mine",
+    "int_name": "Skolski rudnik Crveni breg",
+    "landuse": "industrial",
+    "name": "Школски рудник Црвени брег",
+    "name:sr": "Школски рудник Црвени брег",
+    "name:sr-Latn": "Školski rudnik Crveni breg"
+  }
+},
+{
+  "type": "way",
+  "id": 675832562,
+  "center": {
+    "lat": 44.7662356,
+    "lon": 20.4879187
+  },
+  "tags": {
+    "addr:housenumber": "29",
+    "addr:street": "Булевар Пека Дапчевића",
+    "int_name": "Stark",
+    "landuse": "industrial",
+    "name": "Штарк",
+    "name:sr": "Штарк",
+    "name:sr-Latn": "Štark",
+    "opening_hours": "09:00-17:00",
+    "phone": "+381113956000",
+    "website": "https://www.stark.rs/",
+    "wikidata": "Q8082868",
+    "wikipedia": "sr:Штарк"
+  }
+},
+{
+  "type": "way",
+  "id": 675832563,
+  "center": {
+    "lat": 44.7640922,
+    "lon": 20.4900321
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 675832566,
+  "center": {
+    "lat": 44.7646050,
+    "lon": 20.4870948
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 675832567,
+  "center": {
+    "lat": 44.7663901,
+    "lon": 20.4855603
+  },
+  "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "Булевар Пека Дапчевића",
+    "int_name": "DES",
+    "landuse": "industrial",
+    "name": "ДЕС",
+    "name:sr": "ДЕС",
+    "name:sr-Latn": "DES",
+    "ref:RS:kucni_broj": "3229368"
+  }
+},
+{
+  "type": "way",
+  "id": 675832568,
+  "center": {
+    "lat": 44.7625680,
+    "lon": 20.4912926
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 675832570,
+  "center": {
+    "lat": 44.7596635,
+    "lon": 20.4957874
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 678830571,
+  "center": {
+    "lat": 44.8005412,
+    "lon": 20.4098642
+  },
+  "tags": {
+    "int_name": "Toplana „Novi Beograd”",
+    "landuse": "industrial",
+    "name": "Топлана „Нови Београд”",
+    "name:en": "New Belgrade Heating Plant",
+    "name:sr": "Топлана „Нови Београд”",
+    "name:sr-Latn": "Toplana „Novi Beograd”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "920 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir",
+    "wikipedia": "sr:Топлана „Нови Београд”"
+  }
+},
+{
+  "type": "way",
+  "id": 678833461,
+  "center": {
+    "lat": 44.8012028,
+    "lon": 20.4055089
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 678833469,
+  "center": {
+    "lat": 44.7997424,
+    "lon": 20.4141477
+  },
+  "tags": {
+    "int_name": "GP „Napred”",
+    "landuse": "industrial",
+    "name": "ГП „Напред”",
+    "name:sr": "ГП „Напред”",
+    "name:sr-Latn": "GP „Napred”"
+  }
+},
+{
+  "type": "way",
+  "id": 678833470,
+  "center": {
+    "lat": 44.7995992,
+    "lon": 20.4165360
+  },
+  "tags": {
+    "int_name": "GP „Rad”",
+    "landuse": "industrial",
+    "name": "ГП „Рад”",
+    "name:sr": "ГП „Рад”",
+    "name:sr-Latn": "GP „Rad”"
+  }
+},
+{
+  "type": "way",
+  "id": 678836823,
+  "center": {
+    "lat": 44.7493896,
+    "lon": 20.4547980
+  },
+  "tags": {
+    "int_name": "Toplana „Miljakovac”",
+    "landuse": "industrial",
+    "name": "Топлана „Миљаковац”",
+    "name:en": "Miljakovac Heating Plant",
+    "name:sr": "Топлана „Миљаковац”",
+    "name:sr-Latn": "Toplana „Miljakovac”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "116 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "start_date": "1968",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678836824,
+  "center": {
+    "lat": 44.7544443,
+    "lon": 20.4861999
+  },
+  "tags": {
+    "int_name": "Toplana „Vozdovac”",
+    "landuse": "industrial",
+    "name": "Топлана „Вождовац”",
+    "name:en": "Voždovac Heating Plant",
+    "name:sr": "Топлана „Вождовац”",
+    "name:sr-Latn": "Toplana „Voždovac”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "232 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678836830,
+  "center": {
+    "lat": 44.7855985,
+    "lon": 20.5117598
+  },
+  "tags": {
+    "int_name": "Toplana „Konjarnik”",
+    "landuse": "industrial",
+    "name": "Топлана „Коњарник”",
+    "name:en": "Konjarnik Heating Plant",
+    "name:sr": "Топлана „Коњарник”",
+    "name:sr-Latn": "Toplana „Konjarnik”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "232 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678842485,
+  "center": {
+    "lat": 44.7885834,
+    "lon": 20.5337609
+  },
+  "tags": {
+    "int_name": "Toplana „Mirijevo”",
+    "landuse": "industrial",
+    "name": "Топлана „Миријево”",
+    "name:en": "Mirijevo Heating Plant",
+    "name:sr": "Топлана „Миријево”",
+    "name:sr-Latn": "Toplana „Mirijevo”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "116 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678842492,
+  "center": {
+    "lat": 44.8146942,
+    "lon": 20.5356364
+  },
+  "tags": {
+    "int_name": "Toplana „Visnjicka banja”",
+    "landuse": "industrial",
+    "name": "Топлана „Вишњичка бања”",
+    "name:en": "Višnjička Banja Heating Plant",
+    "name:sr": "Топлана „Вишњичка бања”",
+    "name:sr-Latn": "Toplana „Višnjička banja”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "24.8 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678842495,
+  "center": {
+    "lat": 44.8282051,
+    "lon": 20.4687619
+  },
+  "tags": {
+    "int_name": "Toplana „Dunav”",
+    "landuse": "industrial",
+    "name": "Топлана „Дунав”",
+    "name:en": "Danube Heating Plant",
+    "name:sr": "Топлана „Дунав”",
+    "name:sr-Latn": "Toplana „Dunav”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "346 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678842501,
+  "center": {
+    "lat": 44.7792355,
+    "lon": 20.4150109
+  },
+  "tags": {
+    "int_name": "Toplana „Banovo brdo”",
+    "landuse": "industrial",
+    "name": "Топлана „Баново брдо”",
+    "name:en": "Banovo Brdo Heating Plant",
+    "name:sr": "Топлана „Баново брдо”",
+    "name:sr-Latn": "Toplana „Banovo brdo”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "104 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678846806,
+  "center": {
+    "lat": 44.6942067,
+    "lon": 20.3777947
+  },
+  "tags": {
+    "int_name": "Toplana „Sremcica”",
+    "landuse": "industrial",
+    "name": "Топлана „Сремчица”",
+    "name:sr": "Топлана „Сремчица”",
+    "name:sr-Latn": "Toplana „Sremčica”",
+    "power": "plant"
+  }
+},
+{
+  "type": "way",
+  "id": 679869017,
+  "center": {
+    "lat": 44.6664764,
+    "lon": 20.4888269
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 680506389,
+  "center": {
+    "lat": 44.7625851,
+    "lon": 20.4054628
+  },
+  "tags": {
+    "industrial": "textile",
+    "int_name": "Ateks",
+    "landuse": "industrial",
+    "name": "Атекс"
+  }
+},
+{
+  "type": "way",
+  "id": 680506390,
+  "center": {
+    "lat": 44.7665639,
+    "lon": 20.4069864
+  },
+  "tags": {
+    "int_name": "Kontaktor",
+    "landuse": "industrial",
+    "name": "Контактор",
+    "name:sr": "Контактор",
+    "name:sr-Latn": "Kontaktor"
+  }
+},
+{
+  "type": "way",
+  "id": 680506391,
+  "center": {
+    "lat": 44.7695299,
+    "lon": 20.4066505
+  },
+  "tags": {
+    "industrial": "rec3",
+    "int_name": "Inos papir servis",
+    "landuse": "industrial",
+    "name": "Инос папир сервис"
+  }
+},
+{
+  "type": "way",
+  "id": 680506393,
+  "center": {
+    "lat": 44.6928195,
+    "lon": 20.3112250
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 680506394,
+  "center": {
+    "lat": 44.6901400,
+    "lon": 20.3100431
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 680506395,
+  "center": {
+    "lat": 44.7209134,
+    "lon": 20.6299324
+  },
+  "tags": {
+    "int_name": "Hladnjaca PKB",
+    "landuse": "industrial",
+    "name": "Хладњача ПКБ",
+    "name:sr": "Хладњача ПКБ",
+    "name:sr-Latn": "Hladnjača PKB"
+  }
+},
+{
+  "type": "way",
+  "id": 681281797,
+  "center": {
+    "lat": 44.7136056,
+    "lon": 20.3109523
+  },
+  "tags": {
+    "industrial": "oil",
+    "landuse": "industrial",
+    "name": "Lukoil"
+  }
+},
+{
+  "type": "way",
+  "id": 681281798,
+  "center": {
+    "lat": 44.8615126,
+    "lon": 20.3612551
+  },
+  "tags": {
+    "industrial": "factory",
+    "landuse": "industrial",
+    "name": "Галеника а.д.",
+    "name:en": "Galenika a.d.",
+    "name:sr": "Галеника а.д.",
+    "name:sr-Latn": "Galenika a.d.",
+    "wikidata": "Q901676",
+    "wikipedia": "sr:Галеника"
+  }
+},
+{
+  "type": "way",
+  "id": 682021530,
+  "center": {
+    "lat": 44.7226935,
+    "lon": 20.4401412
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 682208189,
+  "center": {
+    "lat": 44.7640691,
+    "lon": 20.3510604
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 682208193,
+  "center": {
+    "lat": 44.7292359,
+    "lon": 20.5384572
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 682208194,
+  "center": {
+    "lat": 44.7267401,
+    "lon": 20.5388788
+  },
+  "tags": {
+    "addr:city": "Бели Поток",
+    "addr:housenumber": "226",
+    "addr:postcode": "11000",
+    "addr:street": "Кружни пут Раковица",
+    "landuse": "industrial",
+    "name": "Bekament",
+    "ref:RS:kucni_broj": "3234245"
+  }
+},
+{
+  "type": "way",
+  "id": 682419128,
+  "center": {
+    "lat": 44.7016316,
+    "lon": 20.4478994
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 686811273,
+  "center": {
+    "lat": 44.7166514,
+    "lon": 20.4693439
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 686811325,
+  "center": {
+    "lat": 44.7161801,
+    "lon": 20.4922752
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 686811331,
+  "center": {
+    "lat": 44.7144657,
+    "lon": 20.4871663
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 687346083,
+  "center": {
+    "lat": 44.7295659,
+    "lon": 20.5802450
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 687513844,
+  "center": {
+    "lat": 44.7328433,
+    "lon": 20.5904184
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 687513850,
+  "center": {
+    "lat": 44.7285187,
+    "lon": 20.5798196
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "MetalInex"
+  }
+},
+{
+  "type": "way",
+  "id": 688874767,
+  "center": {
+    "lat": 44.7079457,
+    "lon": 20.4170950
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 701369642,
+  "center": {
+    "lat": 44.8497261,
+    "lon": 20.5200872
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 701369643,
+  "center": {
+    "lat": 44.8509319,
+    "lon": 20.5248511
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 745390427,
+  "center": {
+    "lat": 44.8712547,
+    "lon": 20.1217346
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 757530417,
+  "center": {
+    "lat": 44.9356825,
+    "lon": 20.2298427
+  },
+  "tags": {
+    "addr:city": "Нова Пазова",
+    "addr:housenumber": "162",
+    "addr:pak": "344506",
+    "addr:postcode": "22330",
+    "addr:street": "Краља Петра I Карађорђевића",
+    "email": "info@yugotub.com",
+    "landuse": "industrial",
+    "name": "Yugotub",
+    "phone": "+381 22 328241",
+    "ref:RS:kucni_broj": "5134357",
+    "website": "https://yugotub.com/?lang=sr"
+  }
+},
+{
+  "type": "way",
+  "id": 775410740,
+  "center": {
+    "lat": 44.8857828,
+    "lon": 20.1000919
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 776504222,
+  "center": {
+    "lat": 44.7139931,
+    "lon": 20.5052732
+  },
+  "tags": {
+    "height": "2",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 777748086,
+  "center": {
+    "lat": 44.9365005,
+    "lon": 20.2287710
+  },
+  "tags": {
+    "addr:city": "Нова Пазова",
+    "addr:housenumber": "158",
+    "addr:pak": "344506",
+    "addr:postcode": "22330",
+    "addr:street": "Краља Петра I Карађорђевића",
+    "landuse": "industrial",
+    "ref:RS:kucni_broj": "5150538"
+  }
+},
+{
+  "type": "way",
+  "id": 777748087,
+  "center": {
+    "lat": 44.9366251,
+    "lon": 20.2293195
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 777748088,
+  "center": {
+    "lat": 44.9363026,
+    "lon": 20.2288875
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 777748089,
+  "center": {
+    "lat": 44.9362287,
+    "lon": 20.2291736
+  },
+  "tags": {
+    "addr:city": "Нова Пазова",
+    "addr:housenumber": "158a",
+    "addr:pak": "344506",
+    "addr:postcode": "22330",
+    "addr:street": "Краља Петра I Карађорђевића",
+    "email": "maloprodaja@pinoles.com",
+    "industrial": "warehouse",
+    "landuse": "industrial",
+    "name": "Pinoles",
+    "phone": "+381 11 3813240",
+    "ref:RS:kucni_broj": "5140094",
+    "website": "https://www.pinoles.com"
+  }
+},
+{
+  "type": "way",
+  "id": 780291233,
+  "center": {
+    "lat": 44.9785931,
+    "lon": 20.7716971
+  },
+  "tags": {
+    "access": "no",
+    "industrial": "depot",
+    "landuse": "industrial",
+    "parking": "surface"
+  }
+},
+{
+  "type": "way",
+  "id": 783883540,
+  "center": {
+    "lat": 44.8613936,
+    "lon": 20.3562927
+  },
+  "tags": {
+    "industrial": "factory",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 783883559,
+  "center": {
+    "lat": 44.8646190,
+    "lon": 20.3520131
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 786489885,
+  "center": {
+    "lat": 44.8705777,
+    "lon": 20.3573601
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 786489899,
+  "center": {
+    "lat": 44.8650288,
+    "lon": 20.3595752
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 787056534,
+  "center": {
+    "lat": 44.8777973,
+    "lon": 20.3282803
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 801864009,
+  "center": {
+    "lat": 45.0462451,
+    "lon": 20.1027681
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 801864010,
+  "center": {
+    "lat": 45.0466908,
+    "lon": 20.1039978
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 801864011,
+  "center": {
+    "lat": 45.0471911,
+    "lon": 20.1054354
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 801864012,
+  "center": {
+    "lat": 45.0477624,
+    "lon": 20.1072196
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 804585439,
+  "center": {
+    "lat": 44.7765076,
+    "lon": 20.4104117
+  },
+  "tags": {
+    "industrial": "water_treatment",
+    "int_name": "Proizvodni pogon Banovo brdo, JKP BVK",
+    "landuse": "industrial",
+    "name": "Производни погон Баново брдо, ЈКП БВК"
+  }
+},
+{
+  "type": "way",
+  "id": 804585440,
+  "center": {
+    "lat": 44.8155145,
+    "lon": 20.3797039
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "BVK - Proizvodni pogon Bezanija",
+    "landuse": "industrial",
+    "man_made": "water_works",
+    "name": "БВК - Производни погон Бежанија",
+    "name:sr": "БВК - Производни погон Бежанија",
+    "name:sr-Latn": "BVK - Proizvodni pogon Bežanija",
+    "official_name": "ЈКП Београдски водовод и канализација - Производни погон Бежанија",
+    "official_name:sr-Latn": "JKP Beogradski vodovod i kanalizacija - Proizvodni pogon Bežanija",
+    "operator": "ЈКП Београдски водовод и канализација"
+  }
+},
+{
+  "type": "way",
+  "id": 805958020,
+  "center": {
+    "lat": 44.7350384,
+    "lon": 20.4463443
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 806394711,
+  "center": {
+    "lat": 44.7514704,
+    "lon": 20.4840085
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 826142513,
+  "center": {
+    "lat": 44.9514182,
+    "lon": 20.1986343
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 833661213,
+  "center": {
+    "lat": 44.8429338,
+    "lon": 20.5211803
+  },
+  "tags": {
+    "industrial": "water_treatment",
+    "int_name": "KCS Reva, JKP BVK",
+    "landuse": "industrial",
+    "name": "КЦС Рева, ЈКП БВК"
+  }
+},
+{
+  "type": "way",
+  "id": 836476550,
+  "center": {
+    "lat": 44.8612212,
+    "lon": 20.6401932
+  },
+  "tags": {
+    "abandoned": "yes",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 836796756,
+  "center": {
+    "lat": 44.6693415,
+    "lon": 20.1787868
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Bioprotein"
+  }
+},
+{
+  "type": "way",
+  "id": 836799081,
+  "center": {
+    "lat": 44.8535957,
+    "lon": 20.5341290
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 836799082,
+  "center": {
+    "lat": 44.8453209,
+    "lon": 20.5153128
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 836799085,
+  "center": {
+    "lat": 44.8256772,
+    "lon": 20.5969639
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 836799086,
+  "center": {
+    "lat": 44.8310369,
+    "lon": 20.6485934
+  },
+  "tags": {
+    "industrial": "port",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 836799087,
+  "center": {
+    "lat": 44.8409398,
+    "lon": 20.6439871
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 836799090,
+  "center": {
+    "lat": 44.8413173,
+    "lon": 20.6470254
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 843685084,
+  "center": {
+    "lat": 44.5721281,
+    "lon": 20.4293655
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Toplana „Barajevo”",
+    "landuse": "industrial",
+    "name": "Топлана „Барајево”",
+    "name:en": "Barajevo Heating Plant",
+    "name:sr": "Топлана „Барајево”",
+    "name:sr-Latn": "Toplana „Barajevo”",
+    "operator": "ЈКП Београдске електране",
+    "plant:output:heat": "7.6 MW",
+    "plant:source": "coal;biomass",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 849336059,
+  "center": {
+    "lat": 44.7764712,
+    "lon": 20.7235945
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 850238889,
+  "center": {
+    "lat": 44.6626880,
+    "lon": 20.1756762
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 850238893,
+  "center": {
+    "lat": 44.6572599,
+    "lon": 20.2593590
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 850238894,
+  "center": {
+    "lat": 44.6580488,
+    "lon": 20.2506633
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 850238895,
+  "center": {
+    "lat": 44.6124198,
+    "lon": 20.1608931
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 850238896,
+  "center": {
+    "lat": 44.6130996,
+    "lon": 20.1632850
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 850982203,
+  "center": {
+    "lat": 44.5934505,
+    "lon": 20.8460893
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 850982204,
+  "center": {
+    "lat": 44.5932923,
+    "lon": 20.8448283
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 855153223,
+  "center": {
+    "lat": 44.9623537,
+    "lon": 20.6911017
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 867753650,
+  "center": {
+    "lat": 44.6160197,
+    "lon": 20.1626735
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 897519268,
+  "center": {
+    "lat": 44.7647123,
+    "lon": 20.5037330
+  },
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Душана Дуде Тимотијевића",
+    "barrier": "fence",
+    "int_name": "JKP BVK - CS Mokrolusko brdo",
+    "landuse": "industrial",
+    "name": "ЈКП БВК - ЦС Мокролушко брдо",
+    "name:sr": "ЈКП БВК - ЦС Мокролушко брдо",
+    "name:sr-Latn": "JKP BVK - CS Mokroluško brdo",
+    "ref:RS:kucni_broj": "3615176"
+  }
+},
+{
+  "type": "way",
+  "id": 899479016,
+  "center": {
+    "lat": 44.8405992,
+    "lon": 20.4174846
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Kanalizaciono-crpna stanica „Karadjordjev trg”",
+    "landuse": "industrial",
+    "man_made": "wastewater_plant",
+    "name": "Канализационо-црпна станица „Карађорђев трг”",
+    "name:sr": "Канализационо-црпна станица „Карађорђев трг”",
+    "name:sr-Latn": "Kanalizaciono-crpna stanica „Karađorđev trg”",
+    "operator": "ЈКП Београдски водовод и канализација"
+  }
+},
+{
+  "type": "way",
+  "id": 900536092,
+  "center": {
+    "lat": 44.9909932,
+    "lon": 20.1962883
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900536108,
+  "center": {
+    "lat": 44.9910566,
+    "lon": 20.1944774
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900536119,
+  "center": {
+    "lat": 44.9881571,
+    "lon": 20.2016629
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900536122,
+  "center": {
+    "lat": 44.9882245,
+    "lon": 20.1990777
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900536124,
+  "center": {
+    "lat": 44.9882482,
+    "lon": 20.1953249
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900536127,
+  "center": {
+    "lat": 44.9882506,
+    "lon": 20.1931942
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900536129,
+  "center": {
+    "lat": 44.9893792,
+    "lon": 20.1929153
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900839706,
+  "center": {
+    "lat": 44.9882063,
+    "lon": 20.2029510
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900839707,
+  "center": {
+    "lat": 44.9893273,
+    "lon": 20.2031427
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900839718,
+  "center": {
+    "lat": 44.9905787,
+    "lon": 20.2030527
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900839727,
+  "center": {
+    "lat": 44.9907049,
+    "lon": 20.2007836
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900839735,
+  "center": {
+    "lat": 44.9908080,
+    "lon": 20.1994787
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 900839737,
+  "center": {
+    "lat": 44.9908899,
+    "lon": 20.1975335
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901678105,
+  "center": {
+    "lat": 44.9872307,
+    "lon": 20.1998343
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901678107,
+  "center": {
+    "lat": 44.9872277,
+    "lon": 20.1925221
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901678108,
+  "center": {
+    "lat": 44.9872187,
+    "lon": 20.1931628
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901678111,
+  "center": {
+    "lat": 44.9872772,
+    "lon": 20.1937753
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901678121,
+  "center": {
+    "lat": 44.9871940,
+    "lon": 20.1964168
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901682888,
+  "center": {
+    "lat": 44.9885322,
+    "lon": 20.2051964
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901696568,
+  "center": {
+    "lat": 44.9848929,
+    "lon": 20.1865231
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901696579,
+  "center": {
+    "lat": 44.9853149,
+    "lon": 20.1970146
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901696582,
+  "center": {
+    "lat": 44.9848415,
+    "lon": 20.1959845
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901696591,
+  "center": {
+    "lat": 44.9861116,
+    "lon": 20.1939227
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901696592,
+  "center": {
+    "lat": 44.9848806,
+    "lon": 20.1931857
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901696600,
+  "center": {
+    "lat": 44.9856442,
+    "lon": 20.1891883
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 901696607,
+  "center": {
+    "lat": 44.9860769,
+    "lon": 20.1857444
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 904861418,
+  "center": {
+    "lat": 44.9853993,
+    "lon": 20.2025333
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 904861429,
+  "center": {
+    "lat": 44.9855179,
+    "lon": 20.2018733
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 904861431,
+  "center": {
+    "lat": 44.9855225,
+    "lon": 20.2008178
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 904861445,
+  "center": {
+    "lat": 44.9856462,
+    "lon": 20.1997780
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 904866880,
+  "center": {
+    "lat": 44.9897519,
+    "lon": 20.1880994
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 914774135,
+  "center": {
+    "lat": 44.7174328,
+    "lon": 20.5315286
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 941949066,
+  "center": {
+    "lat": 44.7098005,
+    "lon": 20.3681475
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 956161048,
+  "center": {
+    "lat": 44.8178800,
+    "lon": 20.4931750
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 960099548,
+  "center": {
+    "lat": 44.8088640,
+    "lon": 20.4091662
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:pak": "191646",
+    "addr:postcode": "11073",
+    "addr:street": "Др Агостина Нета",
+    "depot": "tram",
+    "industrial": "depot",
+    "int_name": "GSP Beograd (Saobracajni pogon „Centrala”)",
+    "landuse": "industrial",
+    "name": "ГСП Београд (Саобраћајни погон „Централа”)",
+    "name:sr": "ГСП Београд (Саобраћајни погон „Централа”)",
+    "name:sr-Latn": "GSP Beograd (Saobraćajni pogon „Centrala”)",
+    "operator": "ГСП Београд",
+    "website": "https://www.gsp.rs/naslovna.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 962494810,
+  "center": {
+    "lat": 44.7512406,
+    "lon": 20.3934540
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 962652882,
+  "center": {
+    "lat": 44.8126696,
+    "lon": 20.4989808
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "JKP Beograd put",
+    "landuse": "industrial",
+    "name": "ЈКП Београд пут",
+    "name:sr": "ЈКП Београд пут",
+    "name:sr-Latn": "JKP Beograd put"
+  }
+},
+{
+  "type": "way",
+  "id": 962823311,
+  "center": {
+    "lat": 44.8112552,
+    "lon": 20.4969526
+  },
+  "tags": {
+    "industrial": "depot",
+    "int_name": "Tamnava Trans",
+    "landuse": "industrial",
+    "name": "Тамнава Транс",
+    "name:sr": "Тамнава Транс",
+    "name:sr-Latn": "Tamnava Trans"
+  }
+},
+{
+  "type": "way",
+  "id": 962823312,
+  "center": {
+    "lat": 44.8106335,
+    "lon": 20.4969160
+  },
+  "tags": {
+    "industrial": "depot",
+    "int_name": "Curdic",
+    "landuse": "industrial",
+    "name": "Ћурдић",
+    "name:sr": "Ћурдић",
+    "name:sr-Latn": "Ćurdić"
+  }
+},
+{
+  "type": "way",
+  "id": 963881212,
+  "center": {
+    "lat": 44.8109717,
+    "lon": 20.4906814
+  },
+  "tags": {
+    "int_name": "JKP „Gradska cistoca”",
+    "landuse": "industrial",
+    "name": "ЈКП „Градска чистоћа”",
+    "name:sr": "ЈКП „Градска чистоћа”",
+    "name:sr-Latn": "JKP „Gradska čistoća”"
+  }
+},
+{
+  "type": "way",
+  "id": 963923330,
+  "center": {
+    "lat": 44.8141034,
+    "lon": 20.5001182
+  },
+  "tags": {
+    "int_name": "JKP Beogradski vodovod",
+    "landuse": "industrial",
+    "name": "ЈКП Београдски водовод",
+    "name:sr": "ЈКП Београдски водовод",
+    "name:sr-Latn": "JKP Beogradski vodovod"
+  }
+},
+{
+  "type": "way",
+  "id": 963954159,
+  "center": {
+    "lat": 44.7793683,
+    "lon": 20.4995742
+  },
+  "tags": {
+    "int_name": "JKP Gradska cistoca - Baza Vozdovac",
+    "landuse": "industrial",
+    "name": "ЈКП Градска чистоћа - База Вождовац",
+    "name:sr": "ЈКП Градска чистоћа - База Вождовац",
+    "name:sr-Latn": "JKP Gradska čistoća - Baza Voždovac"
+  }
+},
+{
+  "type": "way",
+  "id": 963955666,
+  "center": {
+    "lat": 44.7477051,
+    "lon": 20.4478386
+  },
+  "tags": {
+    "int_name": "JKP Gradska cistoca - pogon Rakovica",
+    "landuse": "industrial",
+    "name": "ЈКП Градска чистоћа - погон Раковица",
+    "name:sr": "ЈКП Градска чистоћа - погон Раковица",
+    "name:sr-Latn": "JKP Gradska čistoća - pogon Rakovica"
+  }
+},
+{
+  "type": "way",
+  "id": 963963902,
+  "center": {
+    "lat": 44.8282853,
+    "lon": 20.4584615
+  },
+  "tags": {
+    "int_name": "JKP Gradska cistoca - pogon Stari Grad",
+    "landuse": "industrial",
+    "name": "ЈКП Градска чистоћа - погон Стари Град",
+    "name:sr": "ЈКП Градска чистоћа - погон Стари Град",
+    "name:sr-Latn": "JKP Gradska čistoća - pogon Stari Grad"
+  }
+},
+{
+  "type": "way",
+  "id": 964007299,
+  "center": {
+    "lat": 44.7666776,
+    "lon": 20.4089500
+  },
+  "tags": {
+    "int_name": "JKP Gradska cistoca - pogon Cukarica",
+    "landuse": "industrial",
+    "name": "ЈКП Градска чистоћа - погон Чукарица",
+    "name:sr": "ЈКП Градска чистоћа - погон Чукарица",
+    "name:sr-Latn": "JKP Gradska čistoća - pogon Čukarica"
+  }
+},
+{
+  "type": "way",
+  "id": 964007300,
+  "center": {
+    "lat": 44.8268431,
+    "lon": 20.3917211
+  },
+  "tags": {
+    "int_name": "JKP Gradska cistoca - pogon Novi Beograd",
+    "landuse": "industrial",
+    "name": "ЈКП Градска чистоћа - погон Нови Београд",
+    "name:sr": "ЈКП Градска чистоћа - погон Нови Београд",
+    "name:sr-Latn": "JKP Gradska čistoća - pogon Novi Beograd"
+  }
+},
+{
+  "type": "way",
+  "id": 966211911,
+  "center": {
+    "lat": 44.8464497,
+    "lon": 20.6429775
+  },
+  "tags": {
+    "industrial": "port",
+    "int_name": "Luka Dunav Pancevo",
+    "landuse": "industrial",
+    "name": "Лука Дунав Панчево",
+    "name:sr": "Лука Дунав Панчево"
+  }
+},
+{
+  "type": "way",
+  "id": 977039605,
+  "center": {
+    "lat": 44.7575170,
+    "lon": 20.4971065
+  },
+  "tags": {
+    "addr:housenumber": "51",
+    "addr:postcode": "11000",
+    "addr:street": "Булевар Пека Дапчевића",
+    "int_name": "Industrija obuce „Beograd”",
+    "landuse": "industrial",
+    "name": "Индустрија обуће „Београд”",
+    "name:sr": "Индустрија обуће „Београд”",
+    "name:sr-Latn": "Industrija obuće „Beograd”",
+    "ref:RS:kucni_broj": "3229263"
+  }
+},
+{
+  "type": "way",
+  "id": 985514573,
+  "center": {
+    "lat": 44.8166685,
+    "lon": 20.4232125
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 987091927,
+  "center": {
+    "lat": 44.8188672,
+    "lon": 20.5131672
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "55b",
+    "addr:postcode": "11060",
+    "addr:street": "Вишњичка",
+    "int_name": "JKP Gradska cistoca - Pogon Otpad",
+    "landuse": "industrial",
+    "name": "ЈКП Градска чистоћа - Погон Отпад",
+    "phone": "+381 11 278 2132",
+    "ref:RS:kucni_broj": "3182325"
+  }
+},
+{
+  "type": "way",
+  "id": 997526273,
+  "center": {
+    "lat": 44.9813894,
+    "lon": 20.1393036
+  },
+  "tags": {
+    "landuse": "industrial",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 997531302,
+  "center": {
+    "lat": 44.9708852,
+    "lon": 20.1645998
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 997540217,
+  "center": {
+    "lat": 44.9706073,
+    "lon": 20.1644978
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 997655379,
+  "center": {
+    "lat": 45.0010970,
+    "lon": 20.1400342
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 997655380,
+  "center": {
+    "lat": 45.0009405,
+    "lon": 20.1392551
+  },
+  "tags": {
+    "landuse": "industrial",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 997655384,
+  "center": {
+    "lat": 45.0023606,
+    "lon": 20.1367794
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 998003374,
+  "center": {
+    "lat": 44.9812236,
+    "lon": 20.1328503
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1005420508,
+  "center": {
+    "lat": 44.5862053,
+    "lon": 20.6272784
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1013064468,
+  "center": {
+    "lat": 45.0412872,
+    "lon": 20.3340863
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014016109,
+  "center": {
+    "lat": 45.0282232,
+    "lon": 20.3336569
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014016144,
+  "center": {
+    "lat": 45.0107822,
+    "lon": 20.3132765
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014070973,
+  "center": {
+    "lat": 44.9852894,
+    "lon": 20.2627015
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014070974,
+  "center": {
+    "lat": 44.9851094,
+    "lon": 20.2604780
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014070975,
+  "center": {
+    "lat": 44.9850102,
+    "lon": 20.2595999
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014070976,
+  "center": {
+    "lat": 44.9868266,
+    "lon": 20.2598189
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014571828,
+  "center": {
+    "lat": 44.9840887,
+    "lon": 20.2622151
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014571846,
+  "center": {
+    "lat": 44.9873166,
+    "lon": 20.2649190
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014571847,
+  "center": {
+    "lat": 44.9876201,
+    "lon": 20.2628382
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1014571848,
+  "center": {
+    "lat": 44.9867378,
+    "lon": 20.2635138
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1015038414,
+  "center": {
+    "lat": 44.9554754,
+    "lon": 20.1586646
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1036279963,
+  "center": {
+    "lat": 44.7799753,
+    "lon": 20.5872385
+  },
+  "tags": {
+    "barrier": "fence",
+    "description": "Постројење за енергетско искоришћење комуналног отпада",
+    "description:en": "Energy-from-Waste Plant",
+    "landuse": "industrial",
+    "name": "Elektrana na Komunalni otpad EFW - Vinča",
+    "name:en": "Vinca Waste-to-Energy power station",
+    "operator": "Бео Чиста Енергиjа",
+    "plant:method": "combustion",
+    "plant:output:electricity": "32.24 MW",
+    "plant:output:heat": "56.5 MW",
+    "plant:source": "waste",
+    "power": "plant",
+    "source": "https://www.gem.wiki/Vinca_Waste-to-Energy_power_station;https://balkangreenenergynews.com/beo-cista-energija-starts-producing-energy-from-waste-at-vinca-landfill-in-belgrade/",
+    "start_date": "2023",
+    "website": "https://www.bcenergy.rs/rs/projekat-jpp-u-oblasti-upravljanja-otpadom-u-beogradu/obuhvat-projekta-jpp/postrojenje-za-energetsko-iskoriscenje-komunalnog-otpada/"
+  }
+},
+{
+  "type": "way",
+  "id": 1037498852,
+  "center": {
+    "lat": 44.7758722,
+    "lon": 20.4912634
+  },
+  "tags": {
+    "int_name": "JKP Beogradski vodovod i kanalizacija - Pogon Dusanovac",
+    "landuse": "industrial",
+    "name": "ЈКП Београдски водовод и канализација - Погон Душановац",
+    "name:sr": "ЈКП Београдски водовод и канализација - Погон Душановац",
+    "name:sr-Latn": "JKP Beogradski vodovod i kanalizacija - Pogon Dušanovac"
+  }
+},
+{
+  "type": "way",
+  "id": 1037712961,
+  "center": {
+    "lat": 44.7397324,
+    "lon": 20.4323124
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1037781667,
+  "center": {
+    "lat": 44.8215307,
+    "lon": 20.4788847
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "ББ",
+    "addr:postcode": "11000",
+    "addr:street": "Дунавска",
+    "int_name": "Senjak Komerc",
+    "landuse": "industrial",
+    "name": "Сењак Комерц",
+    "name:sr-Latn": "Senjak Komerc"
+  }
+},
+{
+  "type": "way",
+  "id": 1037781668,
+  "center": {
+    "lat": 44.8216255,
+    "lon": 20.4779818
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "ББ",
+    "addr:postcode": "11000",
+    "addr:street": "Дунавска",
+    "int_name": "Bregava",
+    "landuse": "industrial",
+    "name": "Брегава",
+    "name:sr-Latn": "Bregava"
+  }
+},
+{
+  "type": "way",
+  "id": 1055821784,
+  "center": {
+    "lat": 44.8692623,
+    "lon": 20.7114818
+  },
+  "tags": {
+    "industrial": "natural_gas",
+    "landuse": "industrial",
+    "utility": "gas"
+  }
+},
+{
+  "type": "way",
+  "id": 1067408477,
+  "center": {
+    "lat": 44.7296755,
+    "lon": 20.5552944
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1081250588,
+  "center": {
+    "lat": 44.7628323,
+    "lon": 20.4879593
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1098864827,
+  "center": {
+    "lat": 44.8520584,
+    "lon": 20.8024865
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial",
+    "utility": "gas"
+  }
+},
+{
+  "type": "way",
+  "id": 1098864833,
+  "center": {
+    "lat": 44.8516748,
+    "lon": 20.8010534
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial",
+    "utility": "gas"
+  }
+},
+{
+  "type": "way",
+  "id": 1104501812,
+  "center": {
+    "lat": 44.8393272,
+    "lon": 20.4939734
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1114726859,
+  "center": {
+    "lat": 44.9856744,
+    "lon": 20.2033258
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1114732820,
+  "center": {
+    "lat": 44.9860106,
+    "lon": 20.1845086
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1115070577,
+  "center": {
+    "lat": 44.9999823,
+    "lon": 20.1411138
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1121025121,
+  "center": {
+    "lat": 44.9742779,
+    "lon": 20.1657543
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1121025142,
+  "center": {
+    "lat": 44.9735010,
+    "lon": 20.1654706
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1125457586,
+  "center": {
+    "lat": 44.6837089,
+    "lon": 20.3834312
+  },
+  "tags": {
+    "industrial": "warehouse",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1138014104,
+  "center": {
+    "lat": 44.7037279,
+    "lon": 20.5794869
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1138014131,
+  "center": {
+    "lat": 44.7058993,
+    "lon": 20.5745699
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1138014133,
+  "center": {
+    "lat": 44.7044768,
+    "lon": 20.5762718
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1138014134,
+  "center": {
+    "lat": 44.7040288,
+    "lon": 20.5776668
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1138014174,
+  "center": {
+    "lat": 44.7016384,
+    "lon": 20.5806075
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1186098607,
+  "center": {
+    "lat": 44.9850507,
+    "lon": 20.1347555
+  },
+  "tags": {
+    "landuse": "industrial",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1186098611,
+  "center": {
+    "lat": 45.0010934,
+    "lon": 20.1302897
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1188923922,
+  "center": {
+    "lat": 44.8617606,
+    "lon": 20.3755836
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1190922468,
+  "center": {
+    "lat": 44.8310620,
+    "lon": 20.6802042
+  },
+  "tags": {
+    "int_name": "TE-TO Pancevo",
+    "landuse": "industrial",
+    "name": "ТЕ-ТО Панчево",
+    "name:sr": "ТЕ-ТО Панчево",
+    "name:sr-Latn": "TE-TO Pančevo",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:source": "gas",
+    "power": "plant",
+    "ref:EU:ENTSOE_EIC": "34X-0000000065-Z",
+    "source": "https://www.gem.wiki/Pan%C4%8Devo_power_station"
+  }
+},
+{
+  "type": "way",
+  "id": 1213286729,
+  "center": {
+    "lat": 45.0388732,
+    "lon": 20.0895459
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1214561797,
+  "center": {
+    "lat": 45.0497331,
+    "lon": 20.1049196
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1214561877,
+  "center": {
+    "lat": 45.0504005,
+    "lon": 20.0924773
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1214811084,
+  "center": {
+    "lat": 45.0393920,
+    "lon": 20.0636028
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1214811087,
+  "center": {
+    "lat": 45.0379544,
+    "lon": 20.0630818
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1214811088,
+  "center": {
+    "lat": 45.0370863,
+    "lon": 20.0635942
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1214890201,
+  "center": {
+    "lat": 45.0457767,
+    "lon": 20.0918061
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215650345,
+  "center": {
+    "lat": 45.0336527,
+    "lon": 20.1014313
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713309,
+  "center": {
+    "lat": 45.0284661,
+    "lon": 20.1047076
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713310,
+  "center": {
+    "lat": 45.0289673,
+    "lon": 20.1037279
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713311,
+  "center": {
+    "lat": 45.0306021,
+    "lon": 20.1023792
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713332,
+  "center": {
+    "lat": 45.0277182,
+    "lon": 20.1021606
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713336,
+  "center": {
+    "lat": 45.0295689,
+    "lon": 20.0993874
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713345,
+  "center": {
+    "lat": 45.0324269,
+    "lon": 20.0973241
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713346,
+  "center": {
+    "lat": 45.0309512,
+    "lon": 20.0960755
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713350,
+  "center": {
+    "lat": 45.0274190,
+    "lon": 20.1054074
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215713352,
+  "center": {
+    "lat": 45.0260058,
+    "lon": 20.1035633
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1215718753,
+  "center": {
+    "lat": 45.0348313,
+    "lon": 20.0937554
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1219335778,
+  "center": {
+    "lat": 44.7300015,
+    "lon": 20.5778695
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1219335779,
+  "center": {
+    "lat": 44.7298357,
+    "lon": 20.5773277
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1219335780,
+  "center": {
+    "lat": 44.7304331,
+    "lon": 20.5769374
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1219554059,
+  "center": {
+    "lat": 44.7333972,
+    "lon": 20.6111420
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1224709116,
+  "center": {
+    "lat": 44.9775343,
+    "lon": 20.0573651
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227195492,
+  "center": {
+    "lat": 44.8893336,
+    "lon": 20.0799912
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227195493,
+  "center": {
+    "lat": 44.8872060,
+    "lon": 20.0876088
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227195695,
+  "center": {
+    "lat": 44.8932591,
+    "lon": 20.0935196
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227195697,
+  "center": {
+    "lat": 44.8906104,
+    "lon": 20.0962422
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227306008,
+  "center": {
+    "lat": 44.9373374,
+    "lon": 20.0124925
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227341880,
+  "center": {
+    "lat": 44.8942980,
+    "lon": 20.0861383
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227341884,
+  "center": {
+    "lat": 44.8954852,
+    "lon": 20.0973985
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227341887,
+  "center": {
+    "lat": 44.8927328,
+    "lon": 20.1082641
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227341890,
+  "center": {
+    "lat": 44.8906399,
+    "lon": 20.1105849
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1227341892,
+  "center": {
+    "lat": 44.8942589,
+    "lon": 20.1014558
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1228856871,
+  "center": {
+    "lat": 44.8887464,
+    "lon": 20.1120072
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1228856882,
+  "center": {
+    "lat": 44.8866910,
+    "lon": 20.1136198
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1228856885,
+  "center": {
+    "lat": 44.8860289,
+    "lon": 20.1112383
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1228856901,
+  "center": {
+    "lat": 44.8840590,
+    "lon": 20.1129265
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031741,
+  "center": {
+    "lat": 44.9717224,
+    "lon": 20.1648755
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031744,
+  "center": {
+    "lat": 44.9682742,
+    "lon": 20.1644540
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031768,
+  "center": {
+    "lat": 44.9646513,
+    "lon": 20.1859482
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031783,
+  "center": {
+    "lat": 44.9547704,
+    "lon": 20.1925026
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031784,
+  "center": {
+    "lat": 44.9537418,
+    "lon": 20.1901855
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031786,
+  "center": {
+    "lat": 44.9683484,
+    "lon": 20.1775271
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031787,
+  "center": {
+    "lat": 44.9672944,
+    "lon": 20.1814323
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031794,
+  "center": {
+    "lat": 44.9722245,
+    "lon": 20.1720348
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031795,
+  "center": {
+    "lat": 44.9713027,
+    "lon": 20.1731195
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031796,
+  "center": {
+    "lat": 44.9707121,
+    "lon": 20.1751016
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031797,
+  "center": {
+    "lat": 44.9709505,
+    "lon": 20.1741375
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229031799,
+  "center": {
+    "lat": 44.9747499,
+    "lon": 20.1687830
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229066424,
+  "center": {
+    "lat": 44.9172808,
+    "lon": 20.1432531
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664700,
+  "center": {
+    "lat": 44.9752643,
+    "lon": 20.2673854
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "ConcreteLand"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664712,
+  "center": {
+    "lat": 44.9979920,
+    "lon": 20.2763112
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664727,
+  "center": {
+    "lat": 44.9944356,
+    "lon": 20.2906014
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664730,
+  "center": {
+    "lat": 44.9855374,
+    "lon": 20.2752598
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664731,
+  "center": {
+    "lat": 44.9849940,
+    "lon": 20.2744677
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664737,
+  "center": {
+    "lat": 44.9820312,
+    "lon": 20.2687454
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664741,
+  "center": {
+    "lat": 44.9812033,
+    "lon": 20.2691785
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664742,
+  "center": {
+    "lat": 44.9819572,
+    "lon": 20.2705487
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1229664746,
+  "center": {
+    "lat": 44.9786897,
+    "lon": 20.2691837
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1234291266,
+  "center": {
+    "lat": 44.9418163,
+    "lon": 20.2924924
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1234291269,
+  "center": {
+    "lat": 44.9434984,
+    "lon": 20.2909627
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1234291270,
+  "center": {
+    "lat": 44.9428599,
+    "lon": 20.2915140
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1234569985,
+  "center": {
+    "lat": 44.9191837,
+    "lon": 20.2503732
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1234569990,
+  "center": {
+    "lat": 44.9199847,
+    "lon": 20.2508089
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1234569997,
+  "center": {
+    "lat": 44.9158111,
+    "lon": 20.2518437
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1234875173,
+  "center": {
+    "lat": 44.9647983,
+    "lon": 20.2193375
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1280202886,
+  "center": {
+    "lat": 44.7791392,
+    "lon": 20.5900258
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1282838370,
+  "center": {
+    "lat": 44.9563200,
+    "lon": 20.2550995
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550068,
+  "center": {
+    "lat": 44.9589905,
+    "lon": 20.2125151
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550072,
+  "center": {
+    "lat": 44.9585358,
+    "lon": 20.2040937
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550073,
+  "center": {
+    "lat": 44.9570417,
+    "lon": 20.2035492
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550087,
+  "center": {
+    "lat": 44.9546699,
+    "lon": 20.2265530
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550097,
+  "center": {
+    "lat": 44.9571164,
+    "lon": 20.2169985
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550098,
+  "center": {
+    "lat": 44.9585662,
+    "lon": 20.2148186
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550111,
+  "center": {
+    "lat": 44.9647993,
+    "lon": 20.2253751
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550112,
+  "center": {
+    "lat": 44.9680709,
+    "lon": 20.2233077
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283550130,
+  "center": {
+    "lat": 44.9624637,
+    "lon": 20.1866631
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1283564803,
+  "center": {
+    "lat": 44.9596960,
+    "lon": 20.1975243
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131004,
+  "center": {
+    "lat": 44.8790293,
+    "lon": 20.1255097
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131005,
+  "center": {
+    "lat": 44.8814470,
+    "lon": 20.1308055
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131006,
+  "center": {
+    "lat": 44.8803551,
+    "lon": 20.1297055
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131007,
+  "center": {
+    "lat": 44.8790755,
+    "lon": 20.1300269
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131008,
+  "center": {
+    "lat": 44.8794145,
+    "lon": 20.1311015
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131010,
+  "center": {
+    "lat": 44.8764687,
+    "lon": 20.1318859
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131011,
+  "center": {
+    "lat": 44.8749334,
+    "lon": 20.1317589
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131014,
+  "center": {
+    "lat": 44.8776149,
+    "lon": 20.1337690
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131016,
+  "center": {
+    "lat": 44.8787051,
+    "lon": 20.1330828
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131017,
+  "center": {
+    "lat": 44.8784991,
+    "lon": 20.1345801
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131019,
+  "center": {
+    "lat": 44.8795381,
+    "lon": 20.1361349
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131026,
+  "center": {
+    "lat": 44.8789676,
+    "lon": 20.1391614
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131027,
+  "center": {
+    "lat": 44.8797840,
+    "lon": 20.1410637
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131028,
+  "center": {
+    "lat": 44.8777840,
+    "lon": 20.1403436
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131029,
+  "center": {
+    "lat": 44.8787515,
+    "lon": 20.1451464
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131031,
+  "center": {
+    "lat": 44.8808346,
+    "lon": 20.1431551
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131033,
+  "center": {
+    "lat": 44.8833547,
+    "lon": 20.1471461
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131034,
+  "center": {
+    "lat": 44.8834461,
+    "lon": 20.1480173
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131036,
+  "center": {
+    "lat": 44.8832325,
+    "lon": 20.1489048
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131039,
+  "center": {
+    "lat": 44.8828946,
+    "lon": 20.1521375
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284131040,
+  "center": {
+    "lat": 44.8828022,
+    "lon": 20.1532063
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939752,
+  "center": {
+    "lat": 44.8806551,
+    "lon": 20.1465397
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939757,
+  "center": {
+    "lat": 44.8823149,
+    "lon": 20.1571870
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939765,
+  "center": {
+    "lat": 44.8808674,
+    "lon": 20.1368432
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939767,
+  "center": {
+    "lat": 44.8808032,
+    "lon": 20.1354494
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939779,
+  "center": {
+    "lat": 44.8749550,
+    "lon": 20.1152531
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939781,
+  "center": {
+    "lat": 44.8753095,
+    "lon": 20.1173519
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939782,
+  "center": {
+    "lat": 44.8755599,
+    "lon": 20.1186125
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939783,
+  "center": {
+    "lat": 44.8743219,
+    "lon": 20.1176530
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939784,
+  "center": {
+    "lat": 44.8746577,
+    "lon": 20.1189582
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939787,
+  "center": {
+    "lat": 44.8709289,
+    "lon": 20.1162683
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939796,
+  "center": {
+    "lat": 44.8695196,
+    "lon": 20.1239368
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939797,
+  "center": {
+    "lat": 44.8681879,
+    "lon": 20.1246576
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939810,
+  "center": {
+    "lat": 44.8761365,
+    "lon": 20.1028583
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939813,
+  "center": {
+    "lat": 44.8782015,
+    "lon": 20.0967998
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939819,
+  "center": {
+    "lat": 44.8925021,
+    "lon": 20.0898892
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939825,
+  "center": {
+    "lat": 44.8852703,
+    "lon": 20.1146808
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939845,
+  "center": {
+    "lat": 44.8697677,
+    "lon": 20.1198864
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939850,
+  "center": {
+    "lat": 44.8723296,
+    "lon": 20.1072369
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939852,
+  "center": {
+    "lat": 44.8636721,
+    "lon": 20.1030802
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1284939854,
+  "center": {
+    "lat": 44.8820987,
+    "lon": 20.1104952
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1285131732,
+  "center": {
+    "lat": 44.8796737,
+    "lon": 20.1454548
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1285131748,
+  "center": {
+    "lat": 44.8741255,
+    "lon": 20.1326885
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1285131770,
+  "center": {
+    "lat": 44.8790986,
+    "lon": 20.1657111
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1285131771,
+  "center": {
+    "lat": 44.8789261,
+    "lon": 20.1669823
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1285168711,
+  "center": {
+    "lat": 44.8534988,
+    "lon": 20.1007019
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066155,
+  "center": {
+    "lat": 44.8964678,
+    "lon": 20.2421047
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066156,
+  "center": {
+    "lat": 44.8960902,
+    "lon": 20.2390380
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066182,
+  "center": {
+    "lat": 44.8822776,
+    "lon": 20.2137111
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066185,
+  "center": {
+    "lat": 44.8830383,
+    "lon": 20.2155008
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066209,
+  "center": {
+    "lat": 44.8989744,
+    "lon": 20.2377107
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066210,
+  "center": {
+    "lat": 44.8988136,
+    "lon": 20.2372557
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066220,
+  "center": {
+    "lat": 44.8893181,
+    "lon": 20.2282466
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066225,
+  "center": {
+    "lat": 44.8941106,
+    "lon": 20.2378814
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1287066256,
+  "center": {
+    "lat": 44.8985397,
+    "lon": 20.2386507
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1298818577,
+  "center": {
+    "lat": 44.7999009,
+    "lon": 20.3576573
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1312570061,
+  "center": {
+    "lat": 44.8844916,
+    "lon": 20.6508422
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1314010868,
+  "center": {
+    "lat": 44.8204744,
+    "lon": 20.4864722
+  },
+  "tags": {
+    "addr:housenumber": "47",
+    "addr:street": "Вилине воде",
+    "int_name": "Tehnohemija",
+    "landuse": "industrial",
+    "name": "Технохемија",
+    "name:sr": "Технохемија",
+    "name:sr-Latn": "Tehnohemija"
+  }
+},
+{
+  "type": "way",
+  "id": 1322707309,
+  "center": {
+    "lat": 44.8951141,
+    "lon": 20.4584270
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1322707310,
+  "center": {
+    "lat": 44.8932649,
+    "lon": 20.4595828
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1322707312,
+  "center": {
+    "lat": 44.8932378,
+    "lon": 20.4626741
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1328753785,
+  "center": {
+    "lat": 44.5613356,
+    "lon": 20.6700320
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1328753786,
+  "center": {
+    "lat": 44.5586584,
+    "lon": 20.6682038
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1328753792,
+  "center": {
+    "lat": 44.5664982,
+    "lon": 20.6582819
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1328753793,
+  "center": {
+    "lat": 44.5672220,
+    "lon": 20.6610958
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1328753796,
+  "center": {
+    "lat": 44.5701955,
+    "lon": 20.6650322
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1331578954,
+  "center": {
+    "lat": 44.5557916,
+    "lon": 20.6710800
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1340065359,
+  "center": {
+    "lat": 44.5674607,
+    "lon": 20.5732412
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1340090342,
+  "center": {
+    "lat": 44.5730485,
+    "lon": 20.5567688
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1340249442,
+  "center": {
+    "lat": 45.0398079,
+    "lon": 20.4479804
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1340249443,
+  "center": {
+    "lat": 45.0381131,
+    "lon": 20.4488583
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1340249444,
+  "center": {
+    "lat": 45.0366848,
+    "lon": 20.4447942
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1340259343,
+  "center": {
+    "lat": 44.5776119,
+    "lon": 20.5672168
+  },
+  "tags": {
+    "industrial": "factory",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1340259347,
+  "center": {
+    "lat": 44.5776725,
+    "lon": 20.5658206
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1341515020,
+  "center": {
+    "lat": 44.6481735,
+    "lon": 20.7041167
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1341515021,
+  "center": {
+    "lat": 44.6482798,
+    "lon": 20.7030039
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1343799907,
+  "center": {
+    "lat": 44.6165260,
+    "lon": 20.4871604
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1343799945,
+  "center": {
+    "lat": 44.6412377,
+    "lon": 20.5448298
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1344822956,
+  "center": {
+    "lat": 44.7018131,
+    "lon": 20.5823668
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1344822965,
+  "center": {
+    "lat": 44.7006176,
+    "lon": 20.5809127
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1344822967,
+  "center": {
+    "lat": 44.6986387,
+    "lon": 20.5828010
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1344822971,
+  "center": {
+    "lat": 44.6966823,
+    "lon": 20.5841784
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1344822972,
+  "center": {
+    "lat": 44.6967923,
+    "lon": 20.5847325
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1344822975,
+  "center": {
+    "lat": 44.6958119,
+    "lon": 20.5858160
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1344822983,
+  "center": {
+    "lat": 44.6947488,
+    "lon": 20.5872770
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345036534,
+  "center": {
+    "lat": 44.6576458,
+    "lon": 20.5123194
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345036535,
+  "center": {
+    "lat": 44.6583362,
+    "lon": 20.5123868
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345036536,
+  "center": {
+    "lat": 44.6587190,
+    "lon": 20.5122024
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345036542,
+  "center": {
+    "lat": 44.6558105,
+    "lon": 20.5114200
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345105291,
+  "center": {
+    "lat": 44.6614617,
+    "lon": 20.5643468
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345105292,
+  "center": {
+    "lat": 44.6629220,
+    "lon": 20.5654969
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345296313,
+  "center": {
+    "lat": 44.6748142,
+    "lon": 20.7137877
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345417802,
+  "center": {
+    "lat": 44.6531441,
+    "lon": 20.5170689
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345417832,
+  "center": {
+    "lat": 44.6587568,
+    "lon": 20.4758086
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636507,
+  "center": {
+    "lat": 44.6713987,
+    "lon": 20.6074685
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636508,
+  "center": {
+    "lat": 44.6717530,
+    "lon": 20.6071163
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636509,
+  "center": {
+    "lat": 44.6721167,
+    "lon": 20.6067093
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636510,
+  "center": {
+    "lat": 44.6724773,
+    "lon": 20.6058883
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636511,
+  "center": {
+    "lat": 44.6731166,
+    "lon": 20.6044241
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636512,
+  "center": {
+    "lat": 44.6737856,
+    "lon": 20.6034326
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636513,
+  "center": {
+    "lat": 44.6738105,
+    "lon": 20.6054042
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636598,
+  "center": {
+    "lat": 44.6734002,
+    "lon": 20.5988424
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1345636630,
+  "center": {
+    "lat": 44.6498120,
+    "lon": 20.5744214
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1346608347,
+  "center": {
+    "lat": 44.6131259,
+    "lon": 20.7253059
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1346608349,
+  "center": {
+    "lat": 44.6141857,
+    "lon": 20.7235992
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1346608350,
+  "center": {
+    "lat": 44.6132870,
+    "lon": 20.7234150
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1347330382,
+  "center": {
+    "lat": 44.6809220,
+    "lon": 20.5871610
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1347330428,
+  "center": {
+    "lat": 44.6755296,
+    "lon": 20.6076197
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1351835993,
+  "center": {
+    "lat": 44.9090996,
+    "lon": 20.7664142
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1353971170,
+  "center": {
+    "lat": 44.9186311,
+    "lon": 20.7462671
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1355148788,
+  "center": {
+    "lat": 44.8854856,
+    "lon": 20.7840730
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1361261678,
+  "center": {
+    "lat": 44.8485935,
+    "lon": 20.3774796
+  },
+  "tags": {
+    "int_name": "JKP Gradska cistoca - pogon Zemun",
+    "landuse": "industrial",
+    "name": "ЈКП Градска чистоћа - погон Земун",
+    "name:sr": "ЈКП Градска чистоћа - погон Земун",
+    "name:sr-Latn": "JKP Gradska čistoća - pogon Zemun"
+  }
+},
+{
+  "type": "way",
+  "id": 1362900703,
+  "center": {
+    "lat": 44.9000702,
+    "lon": 20.6890019
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363049881,
+  "center": {
+    "lat": 44.8677866,
+    "lon": 20.7154976
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363049888,
+  "center": {
+    "lat": 44.8692787,
+    "lon": 20.7107223
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363071133,
+  "center": {
+    "lat": 44.8709880,
+    "lon": 20.6855202
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363071175,
+  "center": {
+    "lat": 44.8685294,
+    "lon": 20.7051881
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363071177,
+  "center": {
+    "lat": 44.8699840,
+    "lon": 20.6948728
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363071202,
+  "center": {
+    "lat": 44.8711937,
+    "lon": 20.7154170
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363071203,
+  "center": {
+    "lat": 44.8707582,
+    "lon": 20.7161219
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300651,
+  "center": {
+    "lat": 44.8926988,
+    "lon": 20.6652872
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300652,
+  "center": {
+    "lat": 44.8916259,
+    "lon": 20.6615189
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300653,
+  "center": {
+    "lat": 44.8912659,
+    "lon": 20.6603424
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300656,
+  "center": {
+    "lat": 44.8906511,
+    "lon": 20.6628068
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300657,
+  "center": {
+    "lat": 44.8899888,
+    "lon": 20.6620956
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300660,
+  "center": {
+    "lat": 44.8894042,
+    "lon": 20.6651632
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300663,
+  "center": {
+    "lat": 44.8909378,
+    "lon": 20.6657185
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300672,
+  "center": {
+    "lat": 44.8894645,
+    "lon": 20.6688435
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300675,
+  "center": {
+    "lat": 44.8901593,
+    "lon": 20.6703302
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300684,
+  "center": {
+    "lat": 44.8947002,
+    "lon": 20.6751300
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300710,
+  "center": {
+    "lat": 44.9149096,
+    "lon": 20.6577748
+  },
+  "tags": {
+    "industrial": "factory",
+    "landuse": "industrial",
+    "name": "Brose"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300714,
+  "center": {
+    "lat": 44.9143899,
+    "lon": 20.6527383
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300720,
+  "center": {
+    "lat": 44.9150977,
+    "lon": 20.6404614
+  },
+  "tags": {
+    "industrial": "factory",
+    "landuse": "industrial",
+    "name": "ZF Company"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300722,
+  "center": {
+    "lat": 44.9153561,
+    "lon": 20.6468166
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1363300730,
+  "center": {
+    "lat": 44.9133143,
+    "lon": 20.6484158
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial",
+    "name": "M&M Pancevo"
+  }
+},
+{
+  "type": "way",
+  "id": 1364239486,
+  "center": {
+    "lat": 44.9042290,
+    "lon": 20.6306371
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364239487,
+  "center": {
+    "lat": 44.9035224,
+    "lon": 20.6305433
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364239519,
+  "center": {
+    "lat": 44.8845082,
+    "lon": 20.6248316
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364239520,
+  "center": {
+    "lat": 44.8845907,
+    "lon": 20.6300478
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364239523,
+  "center": {
+    "lat": 44.8906121,
+    "lon": 20.6323080
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364239524,
+  "center": {
+    "lat": 44.8933976,
+    "lon": 20.6403748
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364239531,
+  "center": {
+    "lat": 44.8898049,
+    "lon": 20.6448300
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364258845,
+  "center": {
+    "lat": 44.9161116,
+    "lon": 20.6358957
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364258847,
+  "center": {
+    "lat": 44.9159462,
+    "lon": 20.6341852
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1364258853,
+  "center": {
+    "lat": 44.9121609,
+    "lon": 20.6342671
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1365274072,
+  "center": {
+    "lat": 44.9194796,
+    "lon": 20.6320727
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1365274126,
+  "center": {
+    "lat": 44.9328518,
+    "lon": 20.6668534
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1366204363,
+  "center": {
+    "lat": 44.8929725,
+    "lon": 20.6665093
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1366593318,
+  "center": {
+    "lat": 44.8713464,
+    "lon": 20.6145847
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1366593320,
+  "center": {
+    "lat": 44.8707774,
+    "lon": 20.6184241
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305424,
+  "center": {
+    "lat": 44.8564391,
+    "lon": 20.6390006
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305425,
+  "center": {
+    "lat": 44.8585915,
+    "lon": 20.6400897
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305426,
+  "center": {
+    "lat": 44.8561091,
+    "lon": 20.6406179
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305430,
+  "center": {
+    "lat": 44.8602589,
+    "lon": 20.6429626
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305431,
+  "center": {
+    "lat": 44.8608070,
+    "lon": 20.6417852
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305434,
+  "center": {
+    "lat": 44.8609053,
+    "lon": 20.6467826
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305435,
+  "center": {
+    "lat": 44.8582351,
+    "lon": 20.6510463
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305438,
+  "center": {
+    "lat": 44.8511737,
+    "lon": 20.6407431
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1367305451,
+  "center": {
+    "lat": 44.8517303,
+    "lon": 20.6503205
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368362964,
+  "center": {
+    "lat": 44.8696179,
+    "lon": 20.6722421
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368362965,
+  "center": {
+    "lat": 44.8513665,
+    "lon": 20.6533535
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368362969,
+  "center": {
+    "lat": 44.8525365,
+    "lon": 20.6532665
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368362970,
+  "center": {
+    "lat": 44.8513231,
+    "lon": 20.6518917
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368362972,
+  "center": {
+    "lat": 44.8518135,
+    "lon": 20.6556859
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368362977,
+  "center": {
+    "lat": 44.8508336,
+    "lon": 20.6560973
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368409346,
+  "center": {
+    "lat": 44.8410939,
+    "lon": 20.6825076
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368691065,
+  "center": {
+    "lat": 44.8290102,
+    "lon": 20.6785837
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1368691083,
+  "center": {
+    "lat": 44.8104623,
+    "lon": 20.7210300
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1369021957,
+  "center": {
+    "lat": 44.7683135,
+    "lon": 20.4065995
+  },
+  "tags": {
+    "industrial": "vehicle_depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1369167028,
+  "center": {
+    "lat": 44.8750359,
+    "lon": 20.8482550
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1373770560,
+  "center": {
+    "lat": 44.6724090,
+    "lon": 20.5938204
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1373770562,
+  "center": {
+    "lat": 44.6729241,
+    "lon": 20.5936249
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1373770565,
+  "center": {
+    "lat": 44.6722264,
+    "lon": 20.5929886
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1373770566,
+  "center": {
+    "lat": 44.6726808,
+    "lon": 20.5927004
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1381629949,
+  "center": {
+    "lat": 44.7431366,
+    "lon": 20.3143926
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1383507195,
+  "center": {
+    "lat": 44.8891090,
+    "lon": 20.3115813
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1383507196,
+  "center": {
+    "lat": 44.8961996,
+    "lon": 20.3017826
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1383507202,
+  "center": {
+    "lat": 44.8918704,
+    "lon": 20.3048803
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1414837199,
+  "center": {
+    "lat": 44.7322388,
+    "lon": 20.8233851
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1415608297,
+  "center": {
+    "lat": 44.7946491,
+    "lon": 20.7192055
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1416267190,
+  "center": {
+    "lat": 44.7819379,
+    "lon": 20.7227578
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1416267198,
+  "center": {
+    "lat": 44.7769964,
+    "lon": 20.7234800
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1416267199,
+  "center": {
+    "lat": 44.7772985,
+    "lon": 20.7233943
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1416267208,
+  "center": {
+    "lat": 44.7645976,
+    "lon": 20.7370871
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1416703907,
+  "center": {
+    "lat": 44.7502746,
+    "lon": 20.7518653
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427921990,
+  "center": {
+    "lat": 44.8686971,
+    "lon": 20.1787453
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427921991,
+  "center": {
+    "lat": 44.8673205,
+    "lon": 20.1823940
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427921992,
+  "center": {
+    "lat": 44.8683614,
+    "lon": 20.1819904
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427921994,
+  "center": {
+    "lat": 44.8705869,
+    "lon": 20.1808681
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427922001,
+  "center": {
+    "lat": 44.8673341,
+    "lon": 20.1872478
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427922029,
+  "center": {
+    "lat": 44.8525674,
+    "lon": 20.1740272
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427922037,
+  "center": {
+    "lat": 44.8692815,
+    "lon": 20.1985450
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427922066,
+  "center": {
+    "lat": 44.8580436,
+    "lon": 20.2046242
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427922067,
+  "center": {
+    "lat": 44.8567834,
+    "lon": 20.2045794
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427922076,
+  "center": {
+    "lat": 44.8478892,
+    "lon": 20.1930276
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1427922077,
+  "center": {
+    "lat": 44.8466955,
+    "lon": 20.1974782
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965327,
+  "center": {
+    "lat": 44.8487703,
+    "lon": 20.1004580
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965338,
+  "center": {
+    "lat": 44.8592215,
+    "lon": 20.0967797
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965339,
+  "center": {
+    "lat": 44.8586158,
+    "lon": 20.0969291
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965340,
+  "center": {
+    "lat": 44.8581778,
+    "lon": 20.0970392
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965341,
+  "center": {
+    "lat": 44.8597295,
+    "lon": 20.0966428
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965342,
+  "center": {
+    "lat": 44.8604513,
+    "lon": 20.0964885
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965343,
+  "center": {
+    "lat": 44.8576622,
+    "lon": 20.0995723
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965344,
+  "center": {
+    "lat": 44.8581540,
+    "lon": 20.1002415
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965345,
+  "center": {
+    "lat": 44.8585646,
+    "lon": 20.1001360
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965346,
+  "center": {
+    "lat": 44.8591683,
+    "lon": 20.0999339
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965347,
+  "center": {
+    "lat": 44.8595579,
+    "lon": 20.0998478
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965348,
+  "center": {
+    "lat": 44.8612516,
+    "lon": 20.0993635
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1429965372,
+  "center": {
+    "lat": 44.8332263,
+    "lon": 20.1058602
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1430318014,
+  "center": {
+    "lat": 44.8770838,
+    "lon": 20.0681182
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1430318015,
+  "center": {
+    "lat": 44.8790202,
+    "lon": 20.0682673
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1430318050,
+  "center": {
+    "lat": 44.8765832,
+    "lon": 20.0706777
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1430318051,
+  "center": {
+    "lat": 44.8764271,
+    "lon": 20.0716639
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1430318052,
+  "center": {
+    "lat": 44.8760451,
+    "lon": 20.0730015
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1430318084,
+  "center": {
+    "lat": 44.8603055,
+    "lon": 20.0643211
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1430886713,
+  "center": {
+    "lat": 44.7104317,
+    "lon": 20.3655326
+  },
+  "tags": {
+    "industrial": "natural_gas",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1443914761,
+  "center": {
+    "lat": 44.5603965,
+    "lon": 20.0363439
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453346067,
+  "center": {
+    "lat": 44.8547319,
+    "lon": 20.0981806
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547799,
+  "center": {
+    "lat": 44.8447291,
+    "lon": 20.1931849
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547800,
+  "center": {
+    "lat": 44.8440977,
+    "lon": 20.1901229
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547801,
+  "center": {
+    "lat": 44.8435965,
+    "lon": 20.1845169
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547807,
+  "center": {
+    "lat": 44.8438699,
+    "lon": 20.1890513
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547812,
+  "center": {
+    "lat": 44.8424735,
+    "lon": 20.1885141
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547854,
+  "center": {
+    "lat": 44.8459446,
+    "lon": 20.1669401
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547883,
+  "center": {
+    "lat": 44.8320846,
+    "lon": 20.2063684
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547884,
+  "center": {
+    "lat": 44.8332502,
+    "lon": 20.2064236
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547886,
+  "center": {
+    "lat": 44.8343768,
+    "lon": 20.2078975
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547887,
+  "center": {
+    "lat": 44.8334217,
+    "lon": 20.2091181
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547890,
+  "center": {
+    "lat": 44.8292692,
+    "lon": 20.2103695
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547905,
+  "center": {
+    "lat": 44.8437116,
+    "lon": 20.2107875
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453547917,
+  "center": {
+    "lat": 44.8483209,
+    "lon": 20.2037825
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892395,
+  "center": {
+    "lat": 44.8203032,
+    "lon": 20.2213069
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892403,
+  "center": {
+    "lat": 44.8205615,
+    "lon": 20.2127577
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892405,
+  "center": {
+    "lat": 44.8420979,
+    "lon": 20.2112334
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892406,
+  "center": {
+    "lat": 44.8402892,
+    "lon": 20.2067583
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892412,
+  "center": {
+    "lat": 44.8279451,
+    "lon": 20.2108943
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892413,
+  "center": {
+    "lat": 44.8291992,
+    "lon": 20.2118949
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892419,
+  "center": {
+    "lat": 44.8197344,
+    "lon": 20.2094559
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892421,
+  "center": {
+    "lat": 44.8218594,
+    "lon": 20.2136079
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892422,
+  "center": {
+    "lat": 44.8197320,
+    "lon": 20.2155922
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453892423,
+  "center": {
+    "lat": 44.8190628,
+    "lon": 20.2125311
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901517,
+  "center": {
+    "lat": 44.8449704,
+    "lon": 20.2209398
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901518,
+  "center": {
+    "lat": 44.8455878,
+    "lon": 20.2162199
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901550,
+  "center": {
+    "lat": 44.8386919,
+    "lon": 20.2248136
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901562,
+  "center": {
+    "lat": 44.8526866,
+    "lon": 20.2103317
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901563,
+  "center": {
+    "lat": 44.8527832,
+    "lon": 20.2081769
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901564,
+  "center": {
+    "lat": 44.8529071,
+    "lon": 20.2089934
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901565,
+  "center": {
+    "lat": 44.8530476,
+    "lon": 20.2095645
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901579,
+  "center": {
+    "lat": 44.8457583,
+    "lon": 20.2091983
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901583,
+  "center": {
+    "lat": 44.8472556,
+    "lon": 20.2076859
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901587,
+  "center": {
+    "lat": 44.8476649,
+    "lon": 20.2084727
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901591,
+  "center": {
+    "lat": 44.8378928,
+    "lon": 20.2338396
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901592,
+  "center": {
+    "lat": 44.8369220,
+    "lon": 20.2305174
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901603,
+  "center": {
+    "lat": 44.8249577,
+    "lon": 20.2362326
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901604,
+  "center": {
+    "lat": 44.8241243,
+    "lon": 20.2362501
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1453901605,
+  "center": {
+    "lat": 44.8226564,
+    "lon": 20.2363197
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1454124090,
+  "center": {
+    "lat": 44.8545646,
+    "lon": 20.4818734
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1454124091,
+  "center": {
+    "lat": 44.8541720,
+    "lon": 20.4820960
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1454124092,
+  "center": {
+    "lat": 44.8552593,
+    "lon": 20.4812421
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1454124096,
+  "center": {
+    "lat": 44.8491156,
+    "lon": 20.4889220
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455128581,
+  "center": {
+    "lat": 44.8791949,
+    "lon": 20.4892301
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150928,
+  "center": {
+    "lat": 44.8814202,
+    "lon": 20.4859727
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150935,
+  "center": {
+    "lat": 44.8847852,
+    "lon": 20.4844661
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150949,
+  "center": {
+    "lat": 44.8780578,
+    "lon": 20.4799785
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150954,
+  "center": {
+    "lat": 44.8769311,
+    "lon": 20.4789975
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150955,
+  "center": {
+    "lat": 44.8762586,
+    "lon": 20.4794984
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150956,
+  "center": {
+    "lat": 44.8773099,
+    "lon": 20.4813234
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150966,
+  "center": {
+    "lat": 44.8761776,
+    "lon": 20.5001515
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150969,
+  "center": {
+    "lat": 44.8751579,
+    "lon": 20.4898225
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150997,
+  "center": {
+    "lat": 44.8709535,
+    "lon": 20.4815837
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455150998,
+  "center": {
+    "lat": 44.8712911,
+    "lon": 20.4819199
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758562,
+  "center": {
+    "lat": 44.8165580,
+    "lon": 20.2394794
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758563,
+  "center": {
+    "lat": 44.8169218,
+    "lon": 20.2409133
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758564,
+  "center": {
+    "lat": 44.8170803,
+    "lon": 20.2416651
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758565,
+  "center": {
+    "lat": 44.8173752,
+    "lon": 20.2428820
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758567,
+  "center": {
+    "lat": 44.8177953,
+    "lon": 20.2445565
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758569,
+  "center": {
+    "lat": 44.8211305,
+    "lon": 20.2357442
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758570,
+  "center": {
+    "lat": 44.8207138,
+    "lon": 20.2358198
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758572,
+  "center": {
+    "lat": 44.8219821,
+    "lon": 20.2362919
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758584,
+  "center": {
+    "lat": 44.8232170,
+    "lon": 20.2433215
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758590,
+  "center": {
+    "lat": 44.8156662,
+    "lon": 20.2365668
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758592,
+  "center": {
+    "lat": 44.8155666,
+    "lon": 20.2377274
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758593,
+  "center": {
+    "lat": 44.8151128,
+    "lon": 20.2378096
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758594,
+  "center": {
+    "lat": 44.8153117,
+    "lon": 20.2386239
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758595,
+  "center": {
+    "lat": 44.8155968,
+    "lon": 20.2397441
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758596,
+  "center": {
+    "lat": 44.8146614,
+    "lon": 20.2394447
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758604,
+  "center": {
+    "lat": 44.8112818,
+    "lon": 20.2446926
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758605,
+  "center": {
+    "lat": 44.8090477,
+    "lon": 20.2471776
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758606,
+  "center": {
+    "lat": 44.8069731,
+    "lon": 20.2478196
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758607,
+  "center": {
+    "lat": 44.8090409,
+    "lon": 20.2493423
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758608,
+  "center": {
+    "lat": 44.8066527,
+    "lon": 20.2523815
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758609,
+  "center": {
+    "lat": 44.8037379,
+    "lon": 20.2499768
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758616,
+  "center": {
+    "lat": 44.8078735,
+    "lon": 20.2347629
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758617,
+  "center": {
+    "lat": 44.8123910,
+    "lon": 20.2391145
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758618,
+  "center": {
+    "lat": 44.8109910,
+    "lon": 20.2375615
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758624,
+  "center": {
+    "lat": 44.8160690,
+    "lon": 20.2182157
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758632,
+  "center": {
+    "lat": 44.8180295,
+    "lon": 20.2045634
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758646,
+  "center": {
+    "lat": 44.8120508,
+    "lon": 20.2349989
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758647,
+  "center": {
+    "lat": 44.8123622,
+    "lon": 20.2355035
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455758651,
+  "center": {
+    "lat": 44.8173502,
+    "lon": 20.2369031
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1455772101,
+  "center": {
+    "lat": 44.8103100,
+    "lon": 20.2344344
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1456077121,
+  "center": {
+    "lat": 44.8726506,
+    "lon": 20.2006831
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1458034487,
+  "center": {
+    "lat": 44.7794878,
+    "lon": 20.2469750
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1458034488,
+  "center": {
+    "lat": 44.7789665,
+    "lon": 20.2496216
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1458034490,
+  "center": {
+    "lat": 44.7789784,
+    "lon": 20.2490083
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1458034495,
+  "center": {
+    "lat": 44.7845656,
+    "lon": 20.2541995
+  },
+  "tags": {
+    "industrial": "depot",
+    "int_name": "Vodoprivredno preduzece Galovica",
+    "landuse": "industrial",
+    "name": "Водопривредно предузеће Галовица"
+  }
+},
+{
+  "type": "way",
+  "id": 1458034498,
+  "center": {
+    "lat": 44.7880425,
+    "lon": 20.2547447
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1458034504,
+  "center": {
+    "lat": 44.7825187,
+    "lon": 20.2531029
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1461817154,
+  "center": {
+    "lat": 44.6480476,
+    "lon": 20.7586912
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1461817156,
+  "center": {
+    "lat": 44.6483767,
+    "lon": 20.7595442
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1461817158,
+  "center": {
+    "lat": 44.6468696,
+    "lon": 20.7582766
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462555675,
+  "center": {
+    "lat": 44.7162895,
+    "lon": 20.2380743
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462575930,
+  "center": {
+    "lat": 44.7692813,
+    "lon": 20.2429761
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462575945,
+  "center": {
+    "lat": 44.7755147,
+    "lon": 20.2334167
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462575948,
+  "center": {
+    "lat": 44.7757457,
+    "lon": 20.2299841
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462575949,
+  "center": {
+    "lat": 44.7753443,
+    "lon": 20.2293189
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462575950,
+  "center": {
+    "lat": 44.7749891,
+    "lon": 20.2280881
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462576008,
+  "center": {
+    "lat": 44.7634520,
+    "lon": 20.2396719
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462576009,
+  "center": {
+    "lat": 44.7667874,
+    "lon": 20.2426827
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462576020,
+  "center": {
+    "lat": 44.7823487,
+    "lon": 20.2374474
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1462583359,
+  "center": {
+    "lat": 44.7205338,
+    "lon": 20.2392977
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1463063889,
+  "center": {
+    "lat": 44.7762346,
+    "lon": 20.2365085
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1463063904,
+  "center": {
+    "lat": 44.7860232,
+    "lon": 20.1858231
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1464583341,
+  "center": {
+    "lat": 44.7260764,
+    "lon": 20.2393860
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1464583355,
+  "center": {
+    "lat": 44.7297065,
+    "lon": 20.2318014
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1464583370,
+  "center": {
+    "lat": 44.7427361,
+    "lon": 20.2467207
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1465315485,
+  "center": {
+    "lat": 44.7311000,
+    "lon": 20.2160187
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1467040973,
+  "center": {
+    "lat": 44.7257539,
+    "lon": 20.2061434
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1467040989,
+  "center": {
+    "lat": 44.7244855,
+    "lon": 20.2066850
+  },
+  "tags": {
+    "barrier": "fence",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1467549457,
+  "center": {
+    "lat": 44.7970756,
+    "lon": 20.1276308
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1468440214,
+  "center": {
+    "lat": 44.8074365,
+    "lon": 20.0998867
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1469138601,
+  "center": {
+    "lat": 44.7397124,
+    "lon": 20.5994553
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1469138602,
+  "center": {
+    "lat": 44.7398419,
+    "lon": 20.6001882
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802721,
+  "center": {
+    "lat": 44.8663916,
+    "lon": 20.1873859
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802722,
+  "center": {
+    "lat": 44.8678955,
+    "lon": 20.2069828
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802723,
+  "center": {
+    "lat": 44.8666526,
+    "lon": 20.2060425
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802724,
+  "center": {
+    "lat": 44.8672310,
+    "lon": 20.2080271
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802725,
+  "center": {
+    "lat": 44.8648252,
+    "lon": 20.2053382
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802726,
+  "center": {
+    "lat": 44.8651146,
+    "lon": 20.2032821
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802727,
+  "center": {
+    "lat": 44.8621122,
+    "lon": 20.2038465
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802728,
+  "center": {
+    "lat": 44.8612762,
+    "lon": 20.2055472
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802736,
+  "center": {
+    "lat": 44.8666492,
+    "lon": 20.2006214
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802740,
+  "center": {
+    "lat": 44.8738830,
+    "lon": 20.2057673
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802744,
+  "center": {
+    "lat": 44.8761437,
+    "lon": 20.2087780
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802748,
+  "center": {
+    "lat": 44.8710609,
+    "lon": 20.2066848
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802754,
+  "center": {
+    "lat": 44.8764484,
+    "lon": 20.2053964
+  },
+  "tags": {
+    "industrial": "scrap_yard",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802755,
+  "center": {
+    "lat": 44.8764137,
+    "lon": 20.2036071
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802758,
+  "center": {
+    "lat": 44.8756495,
+    "lon": 20.2049042
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802761,
+  "center": {
+    "lat": 44.8744011,
+    "lon": 20.2034832
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476802772,
+  "center": {
+    "lat": 44.8790079,
+    "lon": 20.1663317
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1476840193,
+  "center": {
+    "lat": 44.8838956,
+    "lon": 20.1862701
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1482325126,
+  "center": {
+    "lat": 44.7382331,
+    "lon": 20.5973903
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1482654176,
+  "center": {
+    "lat": 44.7365633,
+    "lon": 20.5956766
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1485025048,
+  "center": {
+    "lat": 44.7342658,
+    "lon": 20.5923853
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1485351423,
+  "center": {
+    "lat": 44.8830293,
+    "lon": 20.1023953
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1485351428,
+  "center": {
+    "lat": 44.8840973,
+    "lon": 20.1035193
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1485399368,
+  "center": {
+    "lat": 44.7924090,
+    "lon": 20.3078753
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1485399401,
+  "center": {
+    "lat": 44.7921955,
+    "lon": 20.3057532
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1491351458,
+  "center": {
+    "lat": 44.8328812,
+    "lon": 20.3162881
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Vermax-alati"
+  }
+},
+{
+  "type": "way",
+  "id": 1491398273,
+  "center": {
+    "lat": 44.8269990,
+    "lon": 20.3109740
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Lindner Warehouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1491415956,
+  "center": {
+    "lat": 44.7951190,
+    "lon": 20.3471840
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Quattro Company"
+  }
+},
+{
+  "type": "way",
+  "id": 1491829164,
+  "center": {
+    "lat": 44.8351045,
+    "lon": 20.3572466
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492602339,
+  "center": {
+    "lat": 44.7190935,
+    "lon": 20.5820299
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492612999,
+  "center": {
+    "lat": 44.7277778,
+    "lon": 20.5621491
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492613000,
+  "center": {
+    "lat": 44.7279215,
+    "lon": 20.5612835
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492613001,
+  "center": {
+    "lat": 44.7278604,
+    "lon": 20.5629244
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492613002,
+  "center": {
+    "lat": 44.7281205,
+    "lon": 20.5604100
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492799169,
+  "center": {
+    "lat": 44.8328859,
+    "lon": 20.3267932
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Roma company"
+  }
+},
+{
+  "type": "way",
+  "id": 1492799170,
+  "center": {
+    "lat": 44.8333952,
+    "lon": 20.3278290
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Elcom Trade"
+  }
+},
+{
+  "type": "way",
+  "id": 1492799171,
+  "center": {
+    "lat": 44.8330765,
+    "lon": 20.3256021
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Okov magacin"
+  }
+},
+{
+  "type": "way",
+  "id": 1492886217,
+  "center": {
+    "lat": 44.8313447,
+    "lon": 20.3318980
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492886218,
+  "center": {
+    "lat": 44.8311575,
+    "lon": 20.3296942
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492886219,
+  "center": {
+    "lat": 44.8310324,
+    "lon": 20.3289025
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Gradina"
+  }
+},
+{
+  "type": "way",
+  "id": 1492886220,
+  "center": {
+    "lat": 44.8311493,
+    "lon": 20.3274743
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1492886226,
+  "center": {
+    "lat": 44.8290610,
+    "lon": 20.3300349
+  },
+  "tags": {
+    "landuse": "industrial",
+    "name": "Würth Warehouse 2"
+  }
+},
+{
+  "type": "way",
+  "id": 1493648537,
+  "center": {
+    "lat": 44.8437735,
+    "lon": 20.3561347
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1493653511,
+  "center": {
+    "lat": 44.7319060,
+    "lon": 20.5867717
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1493653512,
+  "center": {
+    "lat": 44.7324270,
+    "lon": 20.5879801
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1501213410,
+  "center": {
+    "lat": 44.7181123,
+    "lon": 20.5861087
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1505761372,
+  "center": {
+    "lat": 44.7871461,
+    "lon": 20.4700629
+  },
+  "tags": {
+    "industrial": "vehicle_depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1507471494,
+  "center": {
+    "lat": 44.7278902,
+    "lon": 20.5406630
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1513966491,
+  "center": {
+    "lat": 44.8001951,
+    "lon": 20.2630617
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1513966493,
+  "center": {
+    "lat": 44.8011410,
+    "lon": 20.2629903
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1524518365,
+  "center": {
+    "lat": 44.7342422,
+    "lon": 20.5892827
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1524518377,
+  "center": {
+    "lat": 44.7355133,
+    "lon": 20.5915786
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1524518386,
+  "center": {
+    "lat": 44.7378149,
+    "lon": 20.5937987
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1524887445,
+  "center": {
+    "lat": 44.7411160,
+    "lon": 20.5978601
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1526178763,
+  "center": {
+    "lat": 44.7429899,
+    "lon": 20.5995245
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1526187955,
+  "center": {
+    "lat": 44.7417020,
+    "lon": 20.6046927
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1526219573,
+  "center": {
+    "lat": 44.7386574,
+    "lon": 20.6059046
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1534526696,
+  "center": {
+    "lat": 44.9097877,
+    "lon": 20.2906959
+  },
+  "tags": {
+    "int_name": "Zito Dunav",
+    "landuse": "industrial",
+    "name": "Žito Dunav",
+    "name:sr": "Жито Дунав",
+    "name:sr-Latn": "Žito Dunav"
+  }
+},
+{
+  "type": "way",
+  "id": 1539087696,
+  "center": {
+    "lat": 44.8281851,
+    "lon": 20.4592333
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1544027482,
+  "center": {
+    "lat": 44.8006658,
+    "lon": 20.4977351
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1544174241,
+  "center": {
+    "lat": 44.7444412,
+    "lon": 20.5976701
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545646807,
+  "center": {
+    "lat": 44.6759868,
+    "lon": 20.1473208
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545646836,
+  "center": {
+    "lat": 44.6727453,
+    "lon": 20.1520768
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545676930,
+  "center": {
+    "lat": 44.6503913,
+    "lon": 20.1482276
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545676932,
+  "center": {
+    "lat": 44.6468784,
+    "lon": 20.1378146
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545676949,
+  "center": {
+    "lat": 44.6519225,
+    "lon": 20.1587707
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545676951,
+  "center": {
+    "lat": 44.6506332,
+    "lon": 20.1589229
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545676959,
+  "center": {
+    "lat": 44.6477293,
+    "lon": 20.1592022
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545676960,
+  "center": {
+    "lat": 44.6471788,
+    "lon": 20.1596396
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545676977,
+  "center": {
+    "lat": 44.6353931,
+    "lon": 20.1655226
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1545677002,
+  "center": {
+    "lat": 44.6353420,
+    "lon": 20.1679249
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547208228,
+  "center": {
+    "lat": 44.7230589,
+    "lon": 20.6318766
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547208232,
+  "center": {
+    "lat": 44.7225900,
+    "lon": 20.6275568
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547208233,
+  "center": {
+    "lat": 44.7231812,
+    "lon": 20.6262642
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547642757,
+  "center": {
+    "lat": 44.6890395,
+    "lon": 20.6926213
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547670077,
+  "center": {
+    "lat": 44.6829324,
+    "lon": 20.7045643
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547670098,
+  "center": {
+    "lat": 44.6715339,
+    "lon": 20.7222369
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547859625,
+  "center": {
+    "lat": 44.6638246,
+    "lon": 20.7290553
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547859629,
+  "center": {
+    "lat": 44.6618785,
+    "lon": 20.7385843
+  },
+  "tags": {
+    "industrial": "port",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547859632,
+  "center": {
+    "lat": 44.6665558,
+    "lon": 20.7268429
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1547859696,
+  "center": {
+    "lat": 44.6420241,
+    "lon": 20.7508443
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1550860327,
+  "center": {
+    "lat": 44.8004347,
+    "lon": 20.3167883
+  },
+  "tags": {
+    "industrial": "warehouse",
+    "landuse": "industrial",
+    "name": "Perfetto"
+  }
+},
+{
+  "type": "way",
+  "id": 1551519307,
+  "center": {
+    "lat": 44.7455921,
+    "lon": 20.6006542
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1552195105,
+  "center": {
+    "lat": 44.7456546,
+    "lon": 20.5992467
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1553359008,
+  "center": {
+    "lat": 44.7474865,
+    "lon": 20.6064362
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1559061177,
+  "center": {
+    "lat": 44.5874391,
+    "lon": 20.1346785
+  },
+  "tags": {
+    "industrial": "depot",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1559843037,
+  "center": {
+    "lat": 44.6022686,
+    "lon": 20.1324057
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1560114204,
+  "center": {
+    "lat": 44.6611788,
+    "lon": 20.1057963
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1560114212,
+  "center": {
+    "lat": 44.6561371,
+    "lon": 20.1035543
+  },
+  "tags": {
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "relation",
+  "id": 9370080,
+  "center": {
+    "lat": 44.8714526,
+    "lon": 20.5390660
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Energogas",
+    "landuse": "industrial",
+    "name": "Енергогас",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13589960,
+  "center": {
+    "lat": 44.9529905,
+    "lon": 20.1578793
+  },
+  "tags": {
+    "landuse": "industrial",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13589961,
+  "center": {
+    "lat": 44.9537482,
+    "lon": 20.1580212
+  },
+  "tags": {
+    "landuse": "industrial",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13589968,
+  "center": {
+    "lat": 44.9397650,
+    "lon": 20.1314006
+  },
+  "tags": {
+    "landuse": "industrial",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13589973,
+  "center": {
+    "lat": 44.9360786,
+    "lon": 20.1681045
+  },
+  "tags": {
+    "landuse": "industrial",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 16790898,
+  "center": {
+    "lat": 44.9272255,
+    "lon": 20.1473983
+  },
+  "tags": {
+    "landuse": "industrial",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 18962990,
+  "center": {
+    "lat": 44.8240745,
+    "lon": 20.4795468
+  },
+  "tags": {
+    "industrial": "port",
+    "int_name": "Luka Beograd",
+    "landuse": "industrial",
+    "name": "Лука Београд",
+    "name:en": "Port of Belgrade",
+    "name:sr": "Лука Београд",
+    "name:sr-Latn": "Luka Beograd",
+    "type": "multipolygon",
+    "wikidata": "Q2290818",
+    "wikipedia": "sr:Лука Београд"
+  }
+},
+{
+  "type": "relation",
+  "id": 18962991,
+  "center": {
+    "lat": 44.8235920,
+    "lon": 20.4963276
+  },
+  "tags": {
+    "landuse": "industrial",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 19256954,
+  "center": {
+    "lat": 44.8863954,
+    "lon": 20.0941032
+  },
+  "tags": {
+    "landuse": "industrial",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

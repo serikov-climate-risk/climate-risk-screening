@@ -1,0 +1,532 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:43:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 180603115,
+  "center": {
+    "lat": 44.6717369,
+    "lon": 20.1583427
+  },
+  "tags": {
+    "int_name": "Termoelektrana Nikola Tesla A",
+    "name": "Термоелектрана Никола Тесла А",
+    "name:de": "Wärmekraftwerke Nikola Tesla A",
+    "name:en": "TPP Nicola Tesla A",
+    "name:sr": "Термоелектрана Никола Тесла А",
+    "name:sr-Latn": "Termoelektrana Nikola Tesla A",
+    "operator": "Електропривреда Србије",
+    "operator:wikidata": "Q1327532",
+    "plant:method": "combustion",
+    "plant:output:electricity": "1765.5 MW",
+    "plant:output:hot_water": "yes",
+    "plant:source": "coal",
+    "power": "plant",
+    "ref": "ТЕНТ А",
+    "ref:EU:ENTSOE_EIC": "34WETL-TENTA---G",
+    "start_date": "1970",
+    "website": "https://www.eps.rs/cir/tent/Pages/Proizvodni_kapaciteti.aspx",
+    "wikidata": "Q11991325"
+  }
+},
+{
+  "type": "way",
+  "id": 180603118,
+  "center": {
+    "lat": 44.6527019,
+    "lon": 20.0072797
+  },
+  "tags": {
+    "int_name": "Termoelektrana Nikola Tesla B",
+    "landuse": "industrial",
+    "name": "Термоелектрана Никола Тесла Б",
+    "name:de": "Wärmekraftwerke Nikola Tesla B",
+    "name:en": "TPP Nicola Tesla B",
+    "name:sr": "Термоелектрана Никола Тесла Б",
+    "name:sr-Latn": "Termoelektrana Nikola Tesla B",
+    "operator": "Електропривреда Србије",
+    "operator:wikidata": "Q1327532",
+    "plant:method": "combustion",
+    "plant:output:electricity": "1300 MW",
+    "plant:source": "coal",
+    "power": "plant",
+    "ref": "ТЕНТ Б",
+    "ref:EU:ENTSOE_EIC": "34WETL-TENTB---B",
+    "start_date": "1983",
+    "website": "https://www.eps.rs/cir/tent/Pages/Proizvodni_kapaciteti.aspx",
+    "wikidata": "Q11991316"
+  }
+},
+{
+  "type": "way",
+  "id": 345045255,
+  "center": {
+    "lat": 44.8440812,
+    "lon": 20.3915180
+  },
+  "tags": {
+    "addr:city": "Земун",
+    "addr:housenumber": "10",
+    "addr:postcode": "11080",
+    "addr:street": "Мића Радаковића",
+    "int_name": "Toplana „Zemun”",
+    "name": "Топлана „Земун”",
+    "name:en": "Zemun Heating Plant",
+    "name:sr": "Топлана „Земун”",
+    "name:sr-Latn": "Toplana „Zemun”",
+    "operator": "ЈКП Београдске електране",
+    "plant:output:heat": "60 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 384162302,
+  "center": {
+    "lat": 44.8831677,
+    "lon": 20.6534106
+  },
+  "tags": {
+    "landuse": "industrial",
+    "power": "plant"
+  }
+},
+{
+  "type": "way",
+  "id": 392690636,
+  "center": {
+    "lat": 44.7360857,
+    "lon": 20.4158048
+  },
+  "tags": {
+    "int_name": "Toplana „Cerak”",
+    "landuse": "industrial",
+    "name": "Топлана „Церак”",
+    "name:en": "Cerak Heating Plant",
+    "name:sr": "Топлана „Церак”",
+    "name:sr-Latn": "Toplana „Cerak”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "232 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 414841018,
+  "center": {
+    "lat": 44.7321336,
+    "lon": 20.3782411
+  },
+  "tags": {
+    "int_name": "Toplana „Zeleznik”",
+    "landuse": "industrial",
+    "name": "Топлана „Железник”",
+    "name:en": "Železnik Heating Plant",
+    "name:sr": "Топлана „Железник”",
+    "name:sr-Latn": "Toplana „Železnik”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 416221069,
+  "center": {
+    "lat": 44.7114253,
+    "lon": 20.4605451
+  },
+  "tags": {
+    "int_name": "Toplana „Resnik”",
+    "name": "Топлана „Ресник”",
+    "name:en": "Resnik Heating Plant",
+    "name:sr": "Топлана „Ресник”",
+    "name:sr-Latn": "Toplana „Resnik”",
+    "operator": "ЈКП Београдске електране",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 572762372,
+  "center": {
+    "lat": 44.7747143,
+    "lon": 20.4957796
+  },
+  "tags": {
+    "int_name": "Toplana „Medakovic”",
+    "landuse": "industrial",
+    "name": "Топлана „Медаковић”",
+    "name:en": "Medaković Heating Plant",
+    "name:sr": "Топлана „Медаковић”",
+    "name:sr-Latn": "Toplana „Medaković”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "50 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678830571,
+  "center": {
+    "lat": 44.8005412,
+    "lon": 20.4098642
+  },
+  "tags": {
+    "int_name": "Toplana „Novi Beograd”",
+    "landuse": "industrial",
+    "name": "Топлана „Нови Београд”",
+    "name:en": "New Belgrade Heating Plant",
+    "name:sr": "Топлана „Нови Београд”",
+    "name:sr-Latn": "Toplana „Novi Beograd”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "920 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir",
+    "wikipedia": "sr:Топлана „Нови Београд”"
+  }
+},
+{
+  "type": "way",
+  "id": 678836823,
+  "center": {
+    "lat": 44.7493896,
+    "lon": 20.4547980
+  },
+  "tags": {
+    "int_name": "Toplana „Miljakovac”",
+    "landuse": "industrial",
+    "name": "Топлана „Миљаковац”",
+    "name:en": "Miljakovac Heating Plant",
+    "name:sr": "Топлана „Миљаковац”",
+    "name:sr-Latn": "Toplana „Miljakovac”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "116 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "start_date": "1968",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678836824,
+  "center": {
+    "lat": 44.7544443,
+    "lon": 20.4861999
+  },
+  "tags": {
+    "int_name": "Toplana „Vozdovac”",
+    "landuse": "industrial",
+    "name": "Топлана „Вождовац”",
+    "name:en": "Voždovac Heating Plant",
+    "name:sr": "Топлана „Вождовац”",
+    "name:sr-Latn": "Toplana „Voždovac”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "232 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678836830,
+  "center": {
+    "lat": 44.7855985,
+    "lon": 20.5117598
+  },
+  "tags": {
+    "int_name": "Toplana „Konjarnik”",
+    "landuse": "industrial",
+    "name": "Топлана „Коњарник”",
+    "name:en": "Konjarnik Heating Plant",
+    "name:sr": "Топлана „Коњарник”",
+    "name:sr-Latn": "Toplana „Konjarnik”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "232 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678842485,
+  "center": {
+    "lat": 44.7885834,
+    "lon": 20.5337609
+  },
+  "tags": {
+    "int_name": "Toplana „Mirijevo”",
+    "landuse": "industrial",
+    "name": "Топлана „Миријево”",
+    "name:en": "Mirijevo Heating Plant",
+    "name:sr": "Топлана „Миријево”",
+    "name:sr-Latn": "Toplana „Mirijevo”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "116 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678842492,
+  "center": {
+    "lat": 44.8146942,
+    "lon": 20.5356364
+  },
+  "tags": {
+    "int_name": "Toplana „Visnjicka banja”",
+    "landuse": "industrial",
+    "name": "Топлана „Вишњичка бања”",
+    "name:en": "Višnjička Banja Heating Plant",
+    "name:sr": "Топлана „Вишњичка бања”",
+    "name:sr-Latn": "Toplana „Višnjička banja”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "24.8 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678842495,
+  "center": {
+    "lat": 44.8282051,
+    "lon": 20.4687619
+  },
+  "tags": {
+    "int_name": "Toplana „Dunav”",
+    "landuse": "industrial",
+    "name": "Топлана „Дунав”",
+    "name:en": "Danube Heating Plant",
+    "name:sr": "Топлана „Дунав”",
+    "name:sr-Latn": "Toplana „Dunav”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "346 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678842501,
+  "center": {
+    "lat": 44.7792355,
+    "lon": 20.4150109
+  },
+  "tags": {
+    "int_name": "Toplana „Banovo brdo”",
+    "landuse": "industrial",
+    "name": "Топлана „Баново брдо”",
+    "name:en": "Banovo Brdo Heating Plant",
+    "name:sr": "Топлана „Баново брдо”",
+    "name:sr-Latn": "Toplana „Banovo brdo”",
+    "operator": "ЈКП Београдске електране",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:output:heat": "104 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678844483,
+  "center": {
+    "lat": 44.8741635,
+    "lon": 20.4526899
+  },
+  "tags": {
+    "int_name": "Toplana „Borca”",
+    "name": "Топлана „Борча”",
+    "name:en": "Borča Heating Plant",
+    "name:sr": "Топлана „Борча”",
+    "name:sr-Latn": "Toplana „Borča”",
+    "operator": "ЈКП Београдске електране",
+    "plant:output:heat": "30.9 MW",
+    "plant:source": "gas",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 678845200,
+  "center": {
+    "lat": 44.8906284,
+    "lon": 20.2863669
+  },
+  "tags": {
+    "int_name": "Toplana „Batajnica”",
+    "name": "Топлана „Батајница”",
+    "name:sr": "Топлана „Батајница”",
+    "name:sr-Latn": "Toplana „Batajnica”",
+    "power": "plant"
+  }
+},
+{
+  "type": "way",
+  "id": 678846806,
+  "center": {
+    "lat": 44.6942067,
+    "lon": 20.3777947
+  },
+  "tags": {
+    "int_name": "Toplana „Sremcica”",
+    "landuse": "industrial",
+    "name": "Топлана „Сремчица”",
+    "name:sr": "Топлана „Сремчица”",
+    "name:sr-Latn": "Toplana „Sremčica”",
+    "power": "plant"
+  }
+},
+{
+  "type": "way",
+  "id": 843685084,
+  "center": {
+    "lat": 44.5721281,
+    "lon": 20.4293655
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Toplana „Barajevo”",
+    "landuse": "industrial",
+    "name": "Топлана „Барајево”",
+    "name:en": "Barajevo Heating Plant",
+    "name:sr": "Топлана „Барајево”",
+    "name:sr-Latn": "Toplana „Barajevo”",
+    "operator": "ЈКП Београдске електране",
+    "plant:output:heat": "7.6 MW",
+    "plant:source": "coal;biomass",
+    "power": "plant",
+    "website": "https://www.beoelektrane.rs/?lng=cir"
+  }
+},
+{
+  "type": "way",
+  "id": 1036279963,
+  "center": {
+    "lat": 44.7799753,
+    "lon": 20.5872385
+  },
+  "tags": {
+    "barrier": "fence",
+    "description": "Постројење за енергетско искоришћење комуналног отпада",
+    "description:en": "Energy-from-Waste Plant",
+    "landuse": "industrial",
+    "name": "Elektrana na Komunalni otpad EFW - Vinča",
+    "name:en": "Vinca Waste-to-Energy power station",
+    "operator": "Бео Чиста Енергиjа",
+    "plant:method": "combustion",
+    "plant:output:electricity": "32.24 MW",
+    "plant:output:heat": "56.5 MW",
+    "plant:source": "waste",
+    "power": "plant",
+    "source": "https://www.gem.wiki/Vinca_Waste-to-Energy_power_station;https://balkangreenenergynews.com/beo-cista-energija-starts-producing-energy-from-waste-at-vinca-landfill-in-belgrade/",
+    "start_date": "2023",
+    "website": "https://www.bcenergy.rs/rs/projekat-jpp-u-oblasti-upravljanja-otpadom-u-beogradu/obuhvat-projekta-jpp/postrojenje-za-energetsko-iskoriscenje-komunalnog-otpada/"
+  }
+},
+{
+  "type": "way",
+  "id": 1047661427,
+  "center": {
+    "lat": 44.8099326,
+    "lon": 20.3028068
+  },
+  "tags": {
+    "plant:method": "photovoltaic",
+    "plant:output:electricity": "1 MW",
+    "plant:source": "solar",
+    "power": "plant"
+  }
+},
+{
+  "type": "way",
+  "id": 1190922468,
+  "center": {
+    "lat": 44.8310620,
+    "lon": 20.6802042
+  },
+  "tags": {
+    "int_name": "TE-TO Pancevo",
+    "landuse": "industrial",
+    "name": "ТЕ-ТО Панчево",
+    "name:sr": "ТЕ-ТО Панчево",
+    "name:sr-Latn": "TE-TO Pančevo",
+    "plant:method": "combustion",
+    "plant:output:electricity": "yes",
+    "plant:source": "gas",
+    "power": "plant",
+    "ref:EU:ENTSOE_EIC": "34X-0000000065-Z",
+    "source": "https://www.gem.wiki/Pan%C4%8Devo_power_station"
+  }
+},
+{
+  "type": "relation",
+  "id": 11535245,
+  "center": {
+    "lat": 45.0758723,
+    "lon": 20.6899904
+  },
+  "tags": {
+    "name": "Ветропарк Ковачица",
+    "name:en": "Kovacica Wind Farm",
+    "name:sr": "Ветропарк Ковачица",
+    "name:sr-Latn": "Vetropark Kovačica",
+    "operator": "Enlight",
+    "plant:output:electricity": "104.5 MW",
+    "plant:source": "wind",
+    "power": "plant",
+    "ref:EU:ENTSOE_EIC": "34WERV-KOVACIC-C",
+    "site": "wind_farm",
+    "type": "site",
+    "wikidata": "Q97329070"
+  }
+}
+
+  ]
+}

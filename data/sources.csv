@@ -1,0 +1,11 @@
+item,source,licence_or_status,use
+Flood depth RP10 to RP500 (3 arc seconds),JRC / CEMS GloFAS global river flood hazard maps v2.1.2 (https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/CEMS-GLOFAS/flood_hazard/),CC BY 4.0 (copyright.txt of the dataset),hazard at assets
+Asset locations,OpenStreetMap via Overpass API (queried 21 Nov 2026; bounding box 44.55-45.05 N 20.0-20.85 E),ODbL,asset inventory
+Daily maximum temperature,ERA5 hourly 2 m temperature 1991-2020 at 44.75 N 20.5 E (Copernicus Climate Data Store point time series),Copernicus licence,heat days above 35 C
+Replacement value per asset class,assumed,assumption,loss scale (parameters.py)
+Depth-damage curves,assumed curves of the generic shape (damage rising with depth to total loss at 6 m); not copied from a published table,assumption,flood damage (parameters.py)
+Measure heights and cost shares,assumed,assumption,adaptation options (parameters.py)
+Discount rate 6% and lifetime 30 years,assumed,assumption,annualised cost
+Flood frequency factors 1.0/1.3/2.0 and warming 0/1.5/3.0 K,assumed scenario stress factors,assumption not a projection,scenarios
+Heat loss per day above 35 C,assumed,assumption,heat loss
+MDB-IDFC common principles for climate finance tracking,structure of the three steps (context-specific vulnerability; intent; direct link) used as rule skeleton,not an institutional rulebook,tagging

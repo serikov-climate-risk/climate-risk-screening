@@ -1,0 +1,13 @@
+[project]
+name = "climate-risk-screening"
+version = "0.1.0"
+description = "Physical climate risk screening, adaptation finance tagging and a simplified Paris-alignment check for an infrastructure asset set (research study on open data)"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "geopandas", "rasterio", "shapely", "matplotlib", "xarray", "netCDF4", "scipy"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

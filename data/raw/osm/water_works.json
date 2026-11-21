@@ -1,0 +1,169 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:42:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8341663075,
+  "lat": 44.7707498,
+  "lon": 20.4562191,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Шолина",
+    "int_name": "JKP BVK - CS Dedinje",
+    "man_made": "water_works",
+    "name": "ЈКП БВК - ЦС Дедиње",
+    "operator": "ЈКП Београдски водовод и канализација -"
+  }
+},
+{
+  "type": "node",
+  "id": 8341758745,
+  "lat": 44.7882499,
+  "lon": 20.4452583,
+  "tags": {
+    "int_name": "JKP BVK - CS Topciderska zvezda",
+    "man_made": "water_works",
+    "name": "ЈКП БВК - ЦС Топчидерска звезда",
+    "operator": "ЈКП Београдски водовод и канализација"
+  }
+},
+{
+  "type": "node",
+  "id": 8341758758,
+  "lat": 44.7644657,
+  "lon": 20.5033662,
+  "tags": {
+    "man_made": "water_works"
+  }
+},
+{
+  "type": "node",
+  "id": 9820929023,
+  "lat": 44.7827999,
+  "lon": 20.4403167,
+  "tags": {
+    "int_name": "Crpna stanica Topcider",
+    "man_made": "water_works",
+    "name": "Црпна станица Топчидер",
+    "name:sr": "Црпна станица Топчидер",
+    "operator": "ЈКП Београдски водовод и канализација"
+  }
+},
+{
+  "type": "way",
+  "id": 304779850,
+  "center": {
+    "lat": 45.0103242,
+    "lon": 20.4791011
+  },
+  "tags": {
+    "man_made": "water_works"
+  }
+},
+{
+  "type": "way",
+  "id": 398042984,
+  "center": {
+    "lat": 44.7999228,
+    "lon": 20.4837760
+  },
+  "tags": {
+    "access": "private",
+    "barrier": "fence",
+    "boundary": "water_protection_area",
+    "fence_type": "railing",
+    "int_name": "Uza zona sanitarne zastite Beogradskog vodovoda",
+    "landuse": "industrial",
+    "man_made": "water_works",
+    "name": "Ужа зона санитарне заштите Београдског водовода",
+    "name:sr": "Ужа зона санитарне заштите Београдског водовода",
+    "name:sr-Latn": "Uža zona sanitarne zaštite Beogradskog vodovoda",
+    "operator": "ЈКП „Београдски водовод и канализација”"
+  }
+},
+{
+  "type": "way",
+  "id": 398206958,
+  "center": {
+    "lat": 44.7965133,
+    "lon": 20.4852878
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Uza zona sanitarne zastite Beogradskog vodovoda",
+    "landuse": "industrial",
+    "man_made": "water_works",
+    "name": "Ужа зона санитарне заштите Београдског водовода",
+    "name:sr": "Ужа зона санитарне заштите Београдског водовода",
+    "name:sr-Latn": "Uža zona sanitarne zaštite Beogradskog vodovoda",
+    "operator": "ЈКП „Београдски водовод и канализација”"
+  }
+},
+{
+  "type": "way",
+  "id": 436889927,
+  "center": {
+    "lat": 44.7660774,
+    "lon": 20.5478302
+  },
+  "tags": {
+    "building": "service",
+    "man_made": "water_works"
+  }
+},
+{
+  "type": "way",
+  "id": 633277643,
+  "center": {
+    "lat": 44.6823612,
+    "lon": 20.2221445
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_works"
+  }
+},
+{
+  "type": "way",
+  "id": 804585440,
+  "center": {
+    "lat": 44.8155145,
+    "lon": 20.3797039
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "BVK - Proizvodni pogon Bezanija",
+    "landuse": "industrial",
+    "man_made": "water_works",
+    "name": "БВК - Производни погон Бежанија",
+    "name:sr": "БВК - Производни погон Бежанија",
+    "name:sr-Latn": "BVK - Proizvodni pogon Bežanija",
+    "official_name": "ЈКП Београдски водовод и канализација - Производни погон Бежанија",
+    "official_name:sr-Latn": "JKP Beogradski vodovod i kanalizacija - Proizvodni pogon Bežanija",
+    "operator": "ЈКП Београдски водовод и канализација"
+  }
+},
+{
+  "type": "way",
+  "id": 962819395,
+  "center": {
+    "lat": 44.8120636,
+    "lon": 20.4945413
+  },
+  "tags": {
+    "int_name": "JKP Beogradski vodovod i kanalizacija",
+    "man_made": "water_works",
+    "name": "ЈКП Београдски водовод и канализација",
+    "name:sr": "ЈКП Београдски водовод и канализација",
+    "name:sr-Latn": "JKP Beogradski vodovod i kanalizacija"
+  }
+}
+
+  ]
+}

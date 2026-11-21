@@ -1,0 +1,544 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:44:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 259997361,
+  "lat": 44.6626496,
+  "lon": 20.5065499,
+  "tags": {
+    "int_name": "Ripanj",
+    "name": "Рипањ",
+    "name:en": "Ripanj",
+    "name:sr": "Рипањ",
+    "name:sr-Latn": "Ripanj",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q31182308",
+    "wikipedia": "sr:Железничка станица Рипањ"
+  }
+},
+{
+  "type": "node",
+  "id": 476897994,
+  "lat": 44.9376742,
+  "lon": 20.2100069,
+  "tags": {
+    "addr:city": "Nova Pazova",
+    "name": "Нова Пазова",
+    "name:en": "Nova Pazova",
+    "name:hu": "Újpázova",
+    "name:sr": "Нова Пазова",
+    "name:sr-Latn": "Nova Pazova",
+    "network": "Србија Воз",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://srbijavoz.rs",
+    "wikidata": "Q15960929",
+    "wikipedia": "sr:Железничка станица Нова Пазова"
+  }
+},
+{
+  "type": "node",
+  "id": 552820285,
+  "lat": 44.8367127,
+  "lon": 20.3717998,
+  "tags": {
+    "name": "Земун",
+    "name:de": "Semlin",
+    "name:en": "Zemun",
+    "name:hu": "Zimony",
+    "name:sr": "Земун",
+    "name:sr-Latn": "Zemun",
+    "network": "Србија Воз",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:ibnr": "7200251",
+    "train": "yes",
+    "uic_name": "Zemun",
+    "website": "https://srbijavoz.rs",
+    "wikidata": "Q3098106",
+    "wikipedia": "sr:Железничка станица Земун"
+  }
+},
+{
+  "type": "node",
+  "id": 1438153593,
+  "lat": 44.8592465,
+  "lon": 20.6555222,
+  "tags": {
+    "int_name": "Pancevo Vojlovica",
+    "name": "Панчево Војловица",
+    "name:sr": "Панчево Војловица",
+    "name:sr-Latn": "Pančevo Vojlovica",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1837485233,
+  "lat": 44.9763701,
+  "lon": 20.7856585,
+  "tags": {
+    "int_name": "Banatsko Novo Selo",
+    "name": "Банатско Ново Село",
+    "name:en": "Banatsko Novo Selo",
+    "name:sr": "Банатско Ново Село",
+    "name:sr-Latn": "Banatsko Novo Selo",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1843585810,
+  "lat": 44.5681971,
+  "lon": 20.5610919,
+  "tags": {
+    "int_name": "Ralja",
+    "name": "Раља",
+    "name:en": "Ralja",
+    "name:sr": "Раља",
+    "name:sr-Latn": "Ralja",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q31182311",
+    "wikipedia": "sr:Железничка станица Раља"
+  }
+},
+{
+  "type": "node",
+  "id": 1843626802,
+  "lat": 44.5789882,
+  "lon": 20.7449300,
+  "tags": {
+    "int_name": "Umcari",
+    "name": "Умчари",
+    "name:sr": "Умчари",
+    "name:sr-Latn": "Umčari",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q31182727",
+    "wikipedia": "sr:Железничка станица Умчари"
+  }
+},
+{
+  "type": "node",
+  "id": 1843629122,
+  "lat": 44.5692806,
+  "lon": 20.6656381,
+  "tags": {
+    "int_name": "Mali Pozarevac",
+    "name": "Мали Пожаревац",
+    "name:sr": "Мали Пожаревац",
+    "name:sr-Latn": "Mali Požarevac",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q31182726",
+    "wikipedia": "sr:Железничка станица Мали Пожаревац"
+  }
+},
+{
+  "type": "node",
+  "id": 1843630339,
+  "lat": 44.5772494,
+  "lon": 20.6148951,
+  "tags": {
+    "int_name": "Mala Ivanca",
+    "name": "Мала Иванча",
+    "name:sr": "Мала Иванча",
+    "name:sr-Latn": "Mala Ivanča",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q31182725",
+    "wikipedia": "sr:Железничка станица Мала Иванча"
+  }
+},
+{
+  "type": "node",
+  "id": 1843632704,
+  "lat": 44.7147237,
+  "lon": 20.5196936,
+  "tags": {
+    "int_name": "Beli Potok",
+    "name": "Бели Поток",
+    "name:sr": "Бели Поток",
+    "name:sr-Latn": "Beli Potok",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q31182719",
+    "wikipedia": "sr:Железничка станица Бели Поток"
+  }
+},
+{
+  "type": "node",
+  "id": 1843645943,
+  "lat": 44.6561355,
+  "lon": 20.4728862,
+  "tags": {
+    "int_name": "Bela Reka",
+    "internet_access": "no",
+    "name": "Бела Река",
+    "name:sr": "Бела Река",
+    "name:sr-Latn": "Bela Reka",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q31182299",
+    "wikipedia": "sr:Железничка станица Бела река"
+  }
+},
+{
+  "type": "node",
+  "id": 3642601256,
+  "lat": 44.8790337,
+  "lon": 20.6605465,
+  "tags": {
+    "int_name": "Pancevo varos",
+    "name": "Панчево варош",
+    "name:hu": "Pancsova-Józsefváros",
+    "name:sr": "Панчево варош",
+    "name:sr-Latn": "Pančevo varoš",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3642619816,
+  "lat": 44.8874942,
+  "lon": 20.6374145,
+  "tags": {
+    "int_name": "Pancevo glavna",
+    "name": "Панчево главна",
+    "name:hu": "Pancsova",
+    "name:sr": "Панчево главна",
+    "name:sr-Latn": "Pančevo glavna",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref:DB": "XJPC"
+  }
+},
+{
+  "type": "node",
+  "id": 3819814681,
+  "lat": 44.9650555,
+  "lon": 20.6890665,
+  "tags": {
+    "int_name": "Kacarevo",
+    "name": "Качарево",
+    "name:hu": "Ferenchalom",
+    "name:sr": "Качарево",
+    "name:sr-Latn": "Kačarevo",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:ibnr": "7222003",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3875013378,
+  "lat": 44.8755249,
+  "lon": 20.5445353,
+  "tags": {
+    "name": "Овча",
+    "name:en": "Ovča",
+    "name:hu": "Bárányos",
+    "name:sr": "Овча",
+    "name:sr-Latn": "Ovča",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q28973086",
+    "wikipedia": "sr:Железничка станица Овча"
+  }
+},
+{
+  "type": "node",
+  "id": 5806352304,
+  "lat": 45.0162234,
+  "lon": 20.0515280,
+  "tags": {
+    "addr:city": "Golubinci",
+    "int_name": "Golubinci",
+    "name": "Голубинци",
+    "name:en": "Golubinci",
+    "name:sr": "Голубинци",
+    "name:sr-Latn": "Golubinci",
+    "network": "Србија Воз",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://srbijavoz.rs"
+  }
+},
+{
+  "type": "node",
+  "id": 6140811391,
+  "lat": 44.7936304,
+  "lon": 20.4531284,
+  "tags": {
+    "alt_name": "Beograd Centar-Prokop",
+    "int_name": "Beograd centar",
+    "level": "1",
+    "loc_name": "Прокоп",
+    "loc_name:sr": "Прокоп",
+    "loc_name:sr-Latn": "Prokop",
+    "name": "Београд центар",
+    "name:ar": "بلغراد الوسطى",
+    "name:en": "Belgrade Center",
+    "name:fa": "مرکز بلگراد",
+    "name:hu": "Belgrád Központi",
+    "name:ru": "Белград Центральный",
+    "name:sr": "Београд центар",
+    "name:sr-Latn": "Beograd centar",
+    "network": "Србија Воз",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BG",
+    "ref:ibnr": "7200080",
+    "train": "yes",
+    "uic_name": "Beograd",
+    "uic_ref": "7216052",
+    "website": "https://srbijavoz.rs",
+    "wikidata": "Q115753",
+    "wikipedia": "sr:Железничка станица Београд центар"
+  }
+},
+{
+  "type": "node",
+  "id": 7821345462,
+  "lat": 44.8990744,
+  "lon": 20.2718514,
+  "tags": {
+    "addr:city": "Batajnica",
+    "int_name": "Batajnica",
+    "name": "Батајница",
+    "name:hu": "Batajnica",
+    "name:sr": "Батајница",
+    "name:sr-Latn": "Batajnica",
+    "network": "Србија Воз",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://srbijavoz.rs",
+    "wheelchair": "yes",
+    "wikidata": "Q3095917",
+    "wikipedia": "sr:Железничка станица Батајница"
+  }
+},
+{
+  "type": "node",
+  "id": 7821346701,
+  "lat": 44.8069189,
+  "lon": 20.4178455,
+  "tags": {
+    "construction": "railway",
+    "construction:railway": "station",
+    "departures_board": "realtime",
+    "departures_board:speech_output": "yes",
+    "description": "Closed for reconstruction from 9 Sep 2026 to 1 Jan 2027",
+    "disused:railway": "station",
+    "int_name": "Novi Beograd",
+    "name": "Нови Београд",
+    "name:de": "Neu-Belgrad",
+    "name:en": "New Belgrade",
+    "name:hu": "Újbelgrád",
+    "name:pl": "Nowy Belgrad",
+    "name:ru": "Новый Белград",
+    "name:sr": "Нови Београд",
+    "name:sr-Latn": "Novi Beograd",
+    "network": "Србија Воз",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:ibnr": "7200210",
+    "train": "yes",
+    "uic_name": "Novi Beograd",
+    "uic_ref": "7216808",
+    "website": "https://srbijavoz.rs",
+    "wheelchair": "yes",
+    "wikidata": "Q801271",
+    "wikipedia": "sr:Железничка станица Нови Београд"
+  }
+},
+{
+  "type": "node",
+  "id": 9521454764,
+  "lat": 44.8577732,
+  "lon": 20.3346914,
+  "tags": {
+    "int_name": "Zemunsko polje",
+    "name": "Земунско поље",
+    "name:en": "Zemunsko polje",
+    "name:sr": "Земунско поље",
+    "name:sr-Latn": "Zemunsko polje",
+    "network": "Србија Воз",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:ibnr": "7200252",
+    "train": "yes",
+    "website": "https://srbijavoz.rs",
+    "wikidata": "Q3098104",
+    "wikipedia": "sr:Железничка станица Земунско поље"
+  }
+},
+{
+  "type": "node",
+  "id": 9583432382,
+  "lat": 44.7466503,
+  "lon": 20.4429542,
+  "tags": {
+    "int_name": "Rakovica",
+    "name": "Раковица",
+    "name:sr": "Раковица",
+    "name:sr-Latn": "Rakovica",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "ref:ibnr": "7200213",
+    "uic_ref": "7216103",
+    "wheelchair": "no",
+    "wikidata": "Q3097371",
+    "wikipedia": "sr:Железничка станица Раковица"
+  }
+},
+{
+  "type": "node",
+  "id": 9583436330,
+  "lat": 44.7044453,
+  "lon": 20.4484192,
+  "tags": {
+    "int_name": "Resnik",
+    "name": "Ресник",
+    "name:en": "Resnik",
+    "name:sr": "Ресник",
+    "name:sr-Latn": "Resnik",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q20435889",
+    "wikipedia": "sr:Железничка станица Ресник"
+  }
+},
+{
+  "type": "node",
+  "id": 9684115817,
+  "lat": 45.0487132,
+  "lon": 20.0924761,
+  "tags": {
+    "int_name": "Inđija",
+    "name": "Инђија",
+    "name:en": "Inđija",
+    "name:hu": "India",
+    "name:sr": "Инђија",
+    "name:sr-Latn": "Inđija",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10045738595,
+  "lat": 44.9866097,
+  "lon": 20.1374427,
+  "tags": {
+    "int_name": "Stara Pazova",
+    "name": "Стара Пазова",
+    "name:hu": "Ópazova",
+    "name:sr": "Стара Пазова",
+    "name:sr-Latn": "Stara Pazova",
+    "network": "Србија Воз",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://srbijavoz.rs",
+    "wikidata": "Q17147571",
+    "wikipedia": "sr:Железничка станица Стара Пазова"
+  }
+},
+{
+  "type": "node",
+  "id": 10051420416,
+  "lat": 44.7217287,
+  "lon": 20.4571091,
+  "tags": {
+    "int_name": "Jajinci",
+    "name": "Јајинци",
+    "name:sr": "Јајинци",
+    "name:sr-Latn": "Jajinci",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q22973701",
+    "wikipedia": "sr:Железничка станица Јајинци"
+  }
+},
+{
+  "type": "node",
+  "id": 10069238515,
+  "lat": 44.8479666,
+  "lon": 20.5054794,
+  "tags": {
+    "alt_name": "Крњача укрсница",
+    "alt_name:sr": "Крњача укрсница",
+    "alt_name:sr-Latn": "Krnjača ukrsnica",
+    "name": "Крњача",
+    "name:en": "Krnjaca",
+    "name:sr": "Крњача",
+    "name:sr-Latn": "Krnjača",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q28973094",
+    "wikipedia": "sr:Железничка станица Крњача"
+  }
+},
+{
+  "type": "node",
+  "id": 10114990066,
+  "lat": 44.5939358,
+  "lon": 20.4252123,
+  "tags": {
+    "int_name": "Barajevo",
+    "name": "Барајево",
+    "name:sr": "Барајево",
+    "name:sr-Latn": "Barajevo",
+    "operator": "Инфраструктура железнице Србије",
+    "public_transport": "station",
+    "railway": "station"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,2482 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:43:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1968625566,
+  "lat": 44.6617737,
+  "lon": 20.5533930,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 2389284747,
+  "lat": 44.8567701,
+  "lon": 20.4722631,
+  "tags": {
+    "designation": "Trafostanica",
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 2776332123,
+  "lat": 44.7825857,
+  "lon": 20.4771920,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 2878801610,
+  "lat": 44.7850547,
+  "lon": 20.4183719,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 6900639546,
+  "lat": 44.7809519,
+  "lon": 20.5027206,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 7264948685,
+  "lat": 44.8154054,
+  "lon": 20.4690631,
+  "tags": {
+    "int_name": "Beograd 6",
+    "name": "Београд 6",
+    "name:en": "Belgrade 6",
+    "name:sr": "Београд 6",
+    "name:sr-Latn": "Beograd 6",
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 9129895154,
+  "lat": 44.8160900,
+  "lon": 20.4683413,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 10118730620,
+  "lat": 44.8002407,
+  "lon": 20.4786047,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 11291164217,
+  "lat": 44.8121451,
+  "lon": 20.4705628,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2023-10-26"
+  }
+},
+{
+  "type": "node",
+  "id": 11293902236,
+  "lat": 44.8113272,
+  "lon": 20.4632644,
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "node",
+  "id": 11299984739,
+  "lat": 44.7809064,
+  "lon": 20.4680084,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2023-10-30"
+  }
+},
+{
+  "type": "node",
+  "id": 11299984740,
+  "lat": 44.7971346,
+  "lon": 20.4655515,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2023-10-30"
+  }
+},
+{
+  "type": "node",
+  "id": 11309714589,
+  "lat": 44.7206117,
+  "lon": 20.3674470,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2023-11-03"
+  }
+},
+{
+  "type": "node",
+  "id": 11405155469,
+  "lat": 44.8215467,
+  "lon": 20.4655160,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2023-12-09"
+  }
+},
+{
+  "type": "node",
+  "id": 11425619264,
+  "lat": 44.7859046,
+  "lon": 20.4145833,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2023-12-17"
+  }
+},
+{
+  "type": "node",
+  "id": 11681132169,
+  "lat": 44.7804595,
+  "lon": 20.4977363,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2024-03-01"
+  }
+},
+{
+  "type": "node",
+  "id": 11681144988,
+  "lat": 44.7045537,
+  "lon": 20.5748819,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2024-03-01"
+  }
+},
+{
+  "type": "node",
+  "id": 11795314753,
+  "lat": 44.8234400,
+  "lon": 20.4575273,
+  "tags": {
+    "power": "substation",
+    "survey:date": "2024-04-06"
+  }
+},
+{
+  "type": "node",
+  "id": 11881187196,
+  "lat": 44.8026671,
+  "lon": 20.4683072,
+  "tags": {
+    "alt_name": "Славија",
+    "int_name": "Beograd 15",
+    "location": "indoor",
+    "name": "Београд 15",
+    "name:sr": "Београд 15",
+    "name:sr-Latn": "Beograd 15",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "node",
+  "id": 11932440313,
+  "lat": 44.8184541,
+  "lon": 20.4124411,
+  "tags": {
+    "alt_name": "Блок 32",
+    "int_name": "Beograd 41",
+    "location": "indoor",
+    "name": "Београд 41",
+    "name:sr": "Београд 41",
+    "name:sr-Latn": "Beograd 41",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 38966796,
+  "center": {
+    "lat": 44.7780188,
+    "lon": 20.4153146
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 52456886,
+  "center": {
+    "lat": 44.8685943,
+    "lon": 20.6989508
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Pancevo 2",
+    "location": "outdoor",
+    "name": "Панчево 2",
+    "name:sr": "Панчево 2",
+    "name:sr-Latn": "Pančevo 2",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000;220000;110000"
+  }
+},
+{
+  "type": "way",
+  "id": 52564762,
+  "center": {
+    "lat": 44.6639326,
+    "lon": 20.1683731
+  },
+  "tags": {
+    "int_name": "Obrenovac",
+    "location": "outdoor",
+    "name": "Обреновац",
+    "name:sr": "Обреновац",
+    "name:sr-Latn": "Obrenovac",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000;220000"
+  }
+},
+{
+  "type": "way",
+  "id": 70119903,
+  "center": {
+    "lat": 44.7653666,
+    "lon": 20.4138055
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Beograd 38",
+    "location": "outdoor",
+    "name": "Београд 38",
+    "name:sr": "Београд 38",
+    "name:sr-Latn": "Beograd 38",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "rating": "80 MVA",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 196504074,
+  "center": {
+    "lat": 44.8125034,
+    "lon": 20.4319379
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "power": "substation",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 197144464,
+  "center": {
+    "lat": 44.8135857,
+    "lon": 20.4193015
+  },
+  "tags": {
+    "building": "service",
+    "description": "Energy supply for the Arena",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 208937676,
+  "center": {
+    "lat": 44.8611023,
+    "lon": 20.6760443
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Pancevo 4",
+    "location": "outdoor",
+    "name": "Панчево 4",
+    "name:sr": "Панчево 4",
+    "name:sr-Latn": "Pančevo 4",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 236110952,
+  "center": {
+    "lat": 44.6837116,
+    "lon": 20.1096413
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Mladost",
+    "location": "outdoor",
+    "name": "Младост",
+    "name:sr": "Младост",
+    "name:sr-Latn": "Mladost",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000"
+  }
+},
+{
+  "type": "way",
+  "id": 236134504,
+  "center": {
+    "lat": 44.7646573,
+    "lon": 20.4066112
+  },
+  "tags": {
+    "int_name": "Beograd 2",
+    "location": "outdoor",
+    "name": "Београд 2",
+    "name:sr": "Београд 2",
+    "name:sr-Latn": "Beograd 2",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;35000"
+  }
+},
+{
+  "type": "way",
+  "id": 236134508,
+  "center": {
+    "lat": 44.7701345,
+    "lon": 20.3760171
+  },
+  "tags": {
+    "int_name": "Beograd 32",
+    "location": "outdoor",
+    "name": "Београд 32",
+    "name:sr": "Београд 32",
+    "name:sr-Latn": "Beograd 32",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 236134509,
+  "center": {
+    "lat": 44.8230531,
+    "lon": 20.3839829
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Beograd 5",
+    "name": "Београд 5",
+    "name:sr": "Београд 5",
+    "name:sr-Latn": "Beograd 5",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "start_date": "1961",
+    "substation": "transmission",
+    "voltage": "220000;110000;35000"
+  }
+},
+{
+  "type": "way",
+  "id": 239998425,
+  "center": {
+    "lat": 44.7360208,
+    "lon": 20.5875389
+  },
+  "tags": {
+    "int_name": "Beograd 8",
+    "location": "outdoor",
+    "name": "Београд 8",
+    "name:sr": "Београд 8",
+    "name:sr-Latn": "Beograd 8",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "400000;220000"
+  }
+},
+{
+  "type": "way",
+  "id": 242350490,
+  "center": {
+    "lat": 44.8427753,
+    "lon": 20.4919880
+  },
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "int_name": "Beograd 7",
+    "location": "outdoor",
+    "name": "Београд 7",
+    "name:sr": "Београд 7",
+    "name:sr-Latn": "Beograd 7",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "start_date": "1977",
+    "substation": "distribution",
+    "voltage": "110000;35000"
+  }
+},
+{
+  "type": "way",
+  "id": 254397981,
+  "center": {
+    "lat": 44.8272786,
+    "lon": 20.6853002
+  },
+  "tags": {
+    "int_name": "NIS",
+    "location": "outdoor",
+    "name": "НИС",
+    "name:sr": "НИС",
+    "name:sr-Latn": "NIS",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "220000"
+  }
+},
+{
+  "type": "way",
+  "id": 254397982,
+  "center": {
+    "lat": 44.8300535,
+    "lon": 20.6669123
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "HIP",
+    "name": "ХИП",
+    "name:sr": "ХИП",
+    "name:sr-Latn": "HIP",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "220000"
+  }
+},
+{
+  "type": "way",
+  "id": 302947851,
+  "center": {
+    "lat": 44.8036101,
+    "lon": 20.3969350
+  },
+  "tags": {
+    "building": "transformer_tower",
+    "height": "3",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 307090968,
+  "center": {
+    "lat": 44.7786322,
+    "lon": 20.5031317
+  },
+  "tags": {
+    "int_name": "Beograd 17",
+    "location": "outdoor",
+    "name": "Београд 17",
+    "name:sr": "Београд 17",
+    "name:sr-Latn": "Beograd 17",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "220000;110000"
+  }
+},
+{
+  "type": "way",
+  "id": 326151547,
+  "center": {
+    "lat": 44.9553357,
+    "lon": 20.1955206
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 326151550,
+  "center": {
+    "lat": 44.8609754,
+    "lon": 20.3236057
+  },
+  "tags": {
+    "barrier": "fence",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 330729171,
+  "center": {
+    "lat": 44.7994177,
+    "lon": 20.5440946
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Beograd 20",
+    "location": "outdoor",
+    "name": "Београд 20",
+    "name:sr": "Београд 20",
+    "name:sr-Latn": "Beograd 20",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "start_date": "2015-11-02",
+    "substation": "transmission",
+    "voltage": "400000;110000"
+  }
+},
+{
+  "type": "way",
+  "id": 330729178,
+  "center": {
+    "lat": 44.7205195,
+    "lon": 20.4653592
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Beograd 3",
+    "location": "outdoor",
+    "name": "Београд 3",
+    "name:sr": "Београд 3",
+    "name:sr-Latn": "Beograd 3",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "220000;110000"
+  }
+},
+{
+  "type": "way",
+  "id": 364713802,
+  "center": {
+    "lat": 44.9733866,
+    "lon": 20.1708079
+  },
+  "tags": {
+    "int_name": "Stara Pazova",
+    "location": "outdoor",
+    "name": "Стара Пазова",
+    "name:sr": "Стара Пазова",
+    "name:sr-Latn": "Stara Pazova",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 364852969,
+  "center": {
+    "lat": 44.6419293,
+    "lon": 20.2216702
+  },
+  "tags": {
+    "area": "yes",
+    "int_name": "Beograd 10",
+    "name": "Београд 10",
+    "name:sr": "Београд 10",
+    "name:sr-Latn": "Beograd 10",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 378246065,
+  "center": {
+    "lat": 44.9572051,
+    "lon": 20.6829004
+  },
+  "tags": {
+    "area": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 378852102,
+  "center": {
+    "lat": 44.8340554,
+    "lon": 20.6758803
+  },
+  "tags": {
+    "int_name": "Pancevo 1",
+    "location": "outdoor",
+    "name": "Панчево 1",
+    "name:sr": "Панчево 1",
+    "name:sr-Latn": "Pančevo 1",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000"
+  }
+},
+{
+  "type": "way",
+  "id": 378852107,
+  "center": {
+    "lat": 44.8411125,
+    "lon": 20.6687928
+  },
+  "tags": {
+    "area": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 378955241,
+  "center": {
+    "lat": 44.8449961,
+    "lon": 20.4900914
+  },
+  "tags": {
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 380189227,
+  "center": {
+    "lat": 44.8128045,
+    "lon": 20.5191539
+  },
+  "tags": {
+    "int_name": "Beograd 1",
+    "name": "Београд 1",
+    "name:sr": "Београд 1",
+    "name:sr-Latn": "Beograd 1",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 380356728,
+  "center": {
+    "lat": 44.7447141,
+    "lon": 20.5648362
+  },
+  "tags": {
+    "area": "yes",
+    "barrier": "fence",
+    "int_name": "Beograd 33",
+    "name": "Београд 33",
+    "name:sr": "Београд 33",
+    "name:sr-Latn": "Beograd 33",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 380520335,
+  "center": {
+    "lat": 44.8349002,
+    "lon": 20.3767168
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Zemun",
+    "location": "outdoor",
+    "name": "Земун",
+    "name:sr": "Земун",
+    "name:sr-Latn": "Zemun",
+    "operator": "Инфраструктура железнице Србије",
+    "power": "substation",
+    "substation": "traction",
+    "voltage": "110000;25000"
+  }
+},
+{
+  "type": "way",
+  "id": 380523457,
+  "center": {
+    "lat": 44.8048620,
+    "lon": 20.3918227
+  },
+  "tags": {
+    "area": "yes",
+    "barrier": "fence",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 380523471,
+  "center": {
+    "lat": 44.8009952,
+    "lon": 20.4113562
+  },
+  "tags": {
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 380527682,
+  "center": {
+    "lat": 44.8125377,
+    "lon": 20.3846134
+  },
+  "tags": {
+    "area": "yes",
+    "barrier": "fence",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 380696164,
+  "center": {
+    "lat": 44.7450642,
+    "lon": 20.4102986
+  },
+  "tags": {
+    "alt_name": "ВТИ",
+    "barrier": "fence",
+    "int_name": "Beograd 21",
+    "location": "outdoor",
+    "name": "Београд 21",
+    "name:sr": "Београд 21",
+    "name:sr-Latn": "Beograd 21",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000"
+  }
+},
+{
+  "type": "way",
+  "id": 382875578,
+  "center": {
+    "lat": 44.6542145,
+    "lon": 20.2422642
+  },
+  "tags": {
+    "area": "yes",
+    "barrier": "fence",
+    "int_name": "Beograd 22",
+    "name": "Београд 22",
+    "name:sr": "Београд 22",
+    "name:sr-Latn": "Beograd 22",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 383275143,
+  "center": {
+    "lat": 44.7053619,
+    "lon": 20.4486585
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Resnik",
+    "location": "outdoor",
+    "name": "Ресник",
+    "name:sr": "Ресник",
+    "name:sr-Latn": "Resnik",
+    "operator": "Инфраструктура железнице Србије",
+    "power": "substation",
+    "substation": "traction",
+    "voltage": "110000;25000"
+  }
+},
+{
+  "type": "way",
+  "id": 383316648,
+  "center": {
+    "lat": 44.7434557,
+    "lon": 20.4623319
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Beograd 11",
+    "location": "outdoor",
+    "name": "Београд 11",
+    "name:sr": "Београд 11",
+    "name:sr-Latn": "Beograd 11",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;35000"
+  }
+},
+{
+  "type": "way",
+  "id": 383898665,
+  "center": {
+    "lat": 44.6756788,
+    "lon": 20.3892583
+  },
+  "tags": {
+    "alt_name": "Сремчица",
+    "barrier": "fence",
+    "int_name": "Beograd 35",
+    "location": "outdoor",
+    "name": "Београд 35",
+    "name:sr": "Београд 35",
+    "name:sr-Latn": "Beograd 35",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "rating": "63 MVA",
+    "substation": "distribution",
+    "voltage": "110000;35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 384162298,
+  "center": {
+    "lat": 44.8834674,
+    "lon": 20.6524782
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Pancevo 3",
+    "location": "outdoor",
+    "name": "Панчево 3",
+    "name:sr": "Панчево 3",
+    "name:sr-Latn": "Pančevo 3",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "rating": "63 MVA",
+    "substation": "distribution",
+    "voltage": "110000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 384329082,
+  "center": {
+    "lat": 44.7282091,
+    "lon": 20.4843934
+  },
+  "tags": {
+    "area": "yes",
+    "barrier": "fence",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 387254406,
+  "center": {
+    "lat": 44.6675674,
+    "lon": 20.1605988
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "TENT A",
+    "name": "ТЕНТ А",
+    "name:sr": "ТЕНТ А",
+    "name:sr-Latn": "TENT A",
+    "power": "substation",
+    "voltage": "110000;6300"
+  }
+},
+{
+  "type": "way",
+  "id": 389986530,
+  "center": {
+    "lat": 44.7955073,
+    "lon": 20.5275177
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Beograd 19",
+    "name": "Београд 19",
+    "name:sr": "Београд 19",
+    "name:sr-Latn": "Beograd 19",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 392128013,
+  "center": {
+    "lat": 44.7481530,
+    "lon": 20.4550179
+  },
+  "tags": {
+    "addr:housenumber": "42",
+    "addr:street": "Борска",
+    "building": "service",
+    "building:levels": "3",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "ref:RS:kucni_broj": "3252143",
+    "substation": "transmission"
+  }
+},
+{
+  "type": "way",
+  "id": 392374692,
+  "center": {
+    "lat": 44.7108643,
+    "lon": 20.4503172
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Resnik",
+    "location": "outdoor",
+    "name": "Ресник",
+    "name:sr": "Ресник",
+    "name:sr-Latn": "Resnik",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 404683977,
+  "center": {
+    "lat": 44.7428952,
+    "lon": 20.4239077
+  },
+  "tags": {
+    "alt_name": "Филмски град",
+    "barrier": "fence",
+    "int_name": "Beograd 16",
+    "name": "Београд 16",
+    "name:sr": "Београд 16",
+    "name:sr-Latn": "Beograd 16",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "rating": "63 MVA",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 407175058,
+  "center": {
+    "lat": 44.8166811,
+    "lon": 20.4920089
+  },
+  "tags": {
+    "addr:housenumber": "13a",
+    "addr:street": "Мије Ковачевића",
+    "alt_name": "Пионир",
+    "building": "service",
+    "building:levels": "2",
+    "int_name": "Beograd 28",
+    "location": "indoor",
+    "name": "Београд 28",
+    "name:sr": "Београд 28",
+    "name:sr-Latn": "Beograd 28",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "ref:RS:kucni_broj": "3175761",
+    "substation": "minor_distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 408466320,
+  "center": {
+    "lat": 44.7572313,
+    "lon": 20.6086807
+  },
+  "tags": {
+    "barrier": "fence",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 408466328,
+  "center": {
+    "lat": 44.7614419,
+    "lon": 20.6001636
+  },
+  "tags": {
+    "area": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 457346910,
+  "center": {
+    "lat": 44.8118201,
+    "lon": 20.2922570
+  },
+  "tags": {
+    "barrier": "fence",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 457346925,
+  "center": {
+    "lat": 44.7989825,
+    "lon": 20.2615774
+  },
+  "tags": {
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 488680521,
+  "center": {
+    "lat": 44.5719090,
+    "lon": 20.4034092
+  },
+  "tags": {
+    "name": "Trafostanica Boždarevac",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 544161624,
+  "center": {
+    "lat": 44.9827479,
+    "lon": 20.7744832
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 687727670,
+  "center": {
+    "lat": 44.7685427,
+    "lon": 20.3593370
+  },
+  "tags": {
+    "building": "service",
+    "building:levels": "2",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 700439454,
+  "center": {
+    "lat": 44.7823803,
+    "lon": 20.5021395
+  },
+  "tags": {
+    "barrier": "fence",
+    "description": "trafo stanica naponskog nivoa 35/10KV",
+    "fence_type": "chain_link",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 709279554,
+  "center": {
+    "lat": 44.7794341,
+    "lon": 20.5040921
+  },
+  "tags": {
+    "int_name": "Beograd 4",
+    "name": "Београд 4",
+    "name:sr": "Београд 4",
+    "name:sr-Latn": "Beograd 4",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;35000"
+  }
+},
+{
+  "type": "way",
+  "id": 721955285,
+  "center": {
+    "lat": 44.8274138,
+    "lon": 20.4570333
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 733730793,
+  "center": {
+    "lat": 44.7876165,
+    "lon": 20.4710227
+  },
+  "tags": {
+    "addr:housenumber": "3a",
+    "addr:street": "Табановачка",
+    "alt_name": "Аутокоманда",
+    "building": "yes",
+    "building:levels": "4",
+    "int_name": "Beograd 23",
+    "location": "indoor",
+    "name": "Београд 23",
+    "name:sr": "Београд 23",
+    "name:sr-Latn": "Beograd 23",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "ref:RS:kucni_broj": "3228503",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 776460036,
+  "center": {
+    "lat": 44.7609526,
+    "lon": 20.5060432
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "substation": "minor_distribution",
+    "utility": "power"
+  }
+},
+{
+  "type": "way",
+  "id": 776460037,
+  "center": {
+    "lat": 44.7608762,
+    "lon": 20.5060557
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "street_cabinet",
+    "power": "substation",
+    "substation": "minor_distribution",
+    "utility": "power"
+  }
+},
+{
+  "type": "way",
+  "id": 778328837,
+  "center": {
+    "lat": 44.5705101,
+    "lon": 20.5711019
+  },
+  "tags": {
+    "alt_name": "Раља",
+    "int_name": "Beograd 18",
+    "name": "Београд 18",
+    "name:sr": "Београд 18",
+    "name:sr-Latn": "Beograd 18",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "rating": "63 MVA",
+    "start_date": "1982",
+    "substation": "distribution",
+    "voltage": "110000;35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 801497268,
+  "center": {
+    "lat": 44.7994022,
+    "lon": 20.5036921
+  },
+  "tags": {
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 836799080,
+  "center": {
+    "lat": 44.8549833,
+    "lon": 20.5330808
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 855394283,
+  "center": {
+    "lat": 44.8658446,
+    "lon": 20.5146782
+  },
+  "tags": {
+    "building": "transformer_tower",
+    "height": "3",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 921651108,
+  "center": {
+    "lat": 44.8807126,
+    "lon": 20.1211485
+  },
+  "tags": {
+    "int_name": "Krnjesevci",
+    "location": "outdoor",
+    "name": "Крњешевци",
+    "name:sr": "Крњешевци",
+    "name:sr-Latn": "Krnješevci",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 954645254,
+  "center": {
+    "lat": 44.8107912,
+    "lon": 20.4521003
+  },
+  "tags": {
+    "building": "service",
+    "building:levels": "1",
+    "int_name": "Beograd 44",
+    "name": "Београд 44",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 979524014,
+  "center": {
+    "lat": 44.8138777,
+    "lon": 20.5053173
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052452520,
+  "center": {
+    "lat": 44.8151548,
+    "lon": 20.5103122
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052452521,
+  "center": {
+    "lat": 44.7645313,
+    "lon": 20.4157252
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052452522,
+  "center": {
+    "lat": 44.8125015,
+    "lon": 20.5170336
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052452523,
+  "center": {
+    "lat": 44.6934688,
+    "lon": 20.3817824
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488048,
+  "center": {
+    "lat": 44.8161075,
+    "lon": 20.5198895
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488049,
+  "center": {
+    "lat": 44.8150703,
+    "lon": 20.5187386
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488050,
+  "center": {
+    "lat": 44.8150682,
+    "lon": 20.5188011
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488051,
+  "center": {
+    "lat": 44.8140364,
+    "lon": 20.5195572
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488052,
+  "center": {
+    "lat": 44.8136497,
+    "lon": 20.5188680
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488053,
+  "center": {
+    "lat": 44.8142324,
+    "lon": 20.5183360
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488054,
+  "center": {
+    "lat": 44.8120144,
+    "lon": 20.5181483
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488058,
+  "center": {
+    "lat": 44.8102175,
+    "lon": 20.5189524
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488062,
+  "center": {
+    "lat": 44.8145315,
+    "lon": 20.5172471
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488063,
+  "center": {
+    "lat": 44.8138155,
+    "lon": 20.5175046
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488064,
+  "center": {
+    "lat": 44.8139307,
+    "lon": 20.5154828
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488070,
+  "center": {
+    "lat": 44.8143656,
+    "lon": 20.5148880
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488071,
+  "center": {
+    "lat": 44.8153549,
+    "lon": 20.5146194
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488085,
+  "center": {
+    "lat": 44.8141128,
+    "lon": 20.5136428
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488086,
+  "center": {
+    "lat": 44.8142196,
+    "lon": 20.5112255
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488087,
+  "center": {
+    "lat": 44.8136457,
+    "lon": 20.5128037
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488088,
+  "center": {
+    "lat": 44.8135036,
+    "lon": 20.5087572
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052488089,
+  "center": {
+    "lat": 44.8138331,
+    "lon": 20.5082162
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052507609,
+  "center": {
+    "lat": 44.8153244,
+    "lon": 20.5084603
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052507610,
+  "center": {
+    "lat": 44.8152119,
+    "lon": 20.5060472
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052507611,
+  "center": {
+    "lat": 44.8093686,
+    "lon": 20.5156665
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524343,
+  "center": {
+    "lat": 44.8154395,
+    "lon": 20.4956169
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524344,
+  "center": {
+    "lat": 44.8153798,
+    "lon": 20.4984309
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524346,
+  "center": {
+    "lat": 44.8140377,
+    "lon": 20.4964402
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524347,
+  "center": {
+    "lat": 44.8129843,
+    "lon": 20.5048176
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524348,
+  "center": {
+    "lat": 44.8076147,
+    "lon": 20.5144107
+  },
+  "tags": {
+    "building": "service",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524349,
+  "center": {
+    "lat": 44.8026267,
+    "lon": 20.5248210
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524350,
+  "center": {
+    "lat": 44.8032972,
+    "lon": 20.5221371
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524351,
+  "center": {
+    "lat": 44.8041394,
+    "lon": 20.5210982
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1052524355,
+  "center": {
+    "lat": 44.8061783,
+    "lon": 20.5207410
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1056999581,
+  "center": {
+    "lat": 44.7889166,
+    "lon": 20.5366226
+  },
+  "tags": {
+    "building": "service",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1056999582,
+  "center": {
+    "lat": 44.7873979,
+    "lon": 20.5366821
+  },
+  "tags": {
+    "building": "service",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1074154990,
+  "center": {
+    "lat": 44.7537201,
+    "lon": 20.4905535
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1111767990,
+  "center": {
+    "lat": 45.0374750,
+    "lon": 20.0715412
+  },
+  "tags": {
+    "int_name": "Indjija 1",
+    "location": "outdoor",
+    "name": "Инђија 1",
+    "name:sr": "Инђија 1",
+    "name:sr-Latn": "Inđija 1",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;20000"
+  }
+},
+{
+  "type": "way",
+  "id": 1151495369,
+  "center": {
+    "lat": 44.8611695,
+    "lon": 20.3784936
+  },
+  "tags": {
+    "building": "service",
+    "man_made": "street_cabinet",
+    "operator": "EPS",
+    "power": "substation",
+    "substation": "minor_distribution",
+    "utility": "power",
+    "voltage": "10000;400"
+  }
+},
+{
+  "type": "way",
+  "id": 1234971302,
+  "center": {
+    "lat": 44.7490803,
+    "lon": 20.4305182
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1234971303,
+  "center": {
+    "lat": 44.7747863,
+    "lon": 20.4138691
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1235006194,
+  "center": {
+    "lat": 44.7850021,
+    "lon": 20.4185032
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1256653725,
+  "center": {
+    "lat": 44.7503783,
+    "lon": 20.4308176
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1256668853,
+  "center": {
+    "lat": 44.7583022,
+    "lon": 20.4166975
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1256999752,
+  "center": {
+    "lat": 44.7590477,
+    "lon": 20.4196509
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1263222578,
+  "center": {
+    "lat": 44.7942441,
+    "lon": 20.5006712
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1263706075,
+  "center": {
+    "lat": 44.7626908,
+    "lon": 20.4296132
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1264412059,
+  "center": {
+    "lat": 44.8896766,
+    "lon": 20.4060926
+  },
+  "tags": {
+    "building": "service",
+    "man_made": "street_cabinet",
+    "operator": "EPS",
+    "power": "substation",
+    "substation": "minor_distribution",
+    "utility": "power",
+    "voltage": "10000;400"
+  }
+},
+{
+  "type": "way",
+  "id": 1267875864,
+  "center": {
+    "lat": 44.7544083,
+    "lon": 20.4229721
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1270682516,
+  "center": {
+    "lat": 44.9244456,
+    "lon": 20.4389618
+  },
+  "tags": {
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1270682517,
+  "center": {
+    "lat": 44.9257137,
+    "lon": 20.4346810
+  },
+  "tags": {
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1279392389,
+  "center": {
+    "lat": 44.7842632,
+    "lon": 20.5220738
+  },
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "wire",
+    "int_name": "Smederevski put",
+    "name": "Смедеревски пут",
+    "name:sr": "Смедеревски пут",
+    "name:sr-Latn": "Smederevski put",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 1279448016,
+  "center": {
+    "lat": 44.7903125,
+    "lon": 20.4849136
+  },
+  "tags": {
+    "barrier": "fence",
+    "fence_type": "slatted",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "traction"
+  }
+},
+{
+  "type": "way",
+  "id": 1279475655,
+  "center": {
+    "lat": 44.7782014,
+    "lon": 20.4156502
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1279479968,
+  "center": {
+    "lat": 44.7743935,
+    "lon": 20.4185369
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1279764403,
+  "center": {
+    "lat": 44.7647369,
+    "lon": 20.4195671
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1280202896,
+  "center": {
+    "lat": 44.7790666,
+    "lon": 20.5876901
+  },
+  "tags": {
+    "power": "substation",
+    "substation": "generation"
+  }
+},
+{
+  "type": "way",
+  "id": 1280202903,
+  "center": {
+    "lat": 44.7800412,
+    "lon": 20.5905149
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Vinca Deponija",
+    "name": "Винча Депонија",
+    "name:sr": "Винча Депонија",
+    "name:sr-Latn": "Vinča Deponija",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 1280382289,
+  "center": {
+    "lat": 44.7443519,
+    "lon": 20.4283472
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1283564972,
+  "center": {
+    "lat": 44.9560494,
+    "lon": 20.2001014
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1283665168,
+  "center": {
+    "lat": 44.8069220,
+    "lon": 20.4169908
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1284260310,
+  "center": {
+    "lat": 44.7767041,
+    "lon": 20.4225112
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1285613982,
+  "center": {
+    "lat": 44.8019727,
+    "lon": 20.4643012
+  },
+  "tags": {
+    "addr:housenumber": "59",
+    "addr:street": "Краља Милутина",
+    "building": "service",
+    "building:levels": "1",
+    "power": "substation",
+    "ref:RS:kucni_broj": "3203805"
+  }
+},
+{
+  "type": "way",
+  "id": 1286140837,
+  "center": {
+    "lat": 44.7810729,
+    "lon": 20.4107298
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1293034920,
+  "center": {
+    "lat": 44.7721375,
+    "lon": 20.4151061
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1312183094,
+  "center": {
+    "lat": 44.7925078,
+    "lon": 20.4913775
+  },
+  "tags": {
+    "alt_name": "Обилић",
+    "barrier": "fence",
+    "int_name": "Beograd 36",
+    "location": "indoor",
+    "name": "Београд 36",
+    "name:sr": "Београд 36",
+    "name:sr-Latn": "Beograd 36",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "rating": "80 MVA",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 1317040105,
+  "center": {
+    "lat": 44.7549115,
+    "lon": 20.4247516
+  },
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Милована Челебића",
+    "building": "yes",
+    "power": "substation",
+    "ref:RS:kucni_broj": "3140717",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1319266568,
+  "center": {
+    "lat": 44.7933241,
+    "lon": 20.4725166
+  },
+  "tags": {
+    "building": "service",
+    "building:levels": "1",
+    "power": "substation",
+    "substation": "minor_distribution"
+  }
+},
+{
+  "type": "way",
+  "id": 1320110604,
+  "center": {
+    "lat": 44.8093236,
+    "lon": 20.4549656
+  },
+  "tags": {
+    "building": "construction",
+    "building:levels": "2",
+    "construction": "service",
+    "int_name": "Beograd 47",
+    "location": "indoor",
+    "name": "Београд 47",
+    "name:sr": "Београд 47",
+    "name:sr-Latn": "Beograd 47",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "110000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 1327042490,
+  "center": {
+    "lat": 44.7679954,
+    "lon": 20.4226751
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1347765788,
+  "center": {
+    "lat": 44.8186562,
+    "lon": 20.4095380
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1374269167,
+  "center": {
+    "lat": 44.7866925,
+    "lon": 20.4580080
+  },
+  "tags": {
+    "building": "yes",
+    "image": "https://photos.app.goo.gl/uQ8rJYrtuVWoNYv7A",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1378760988,
+  "center": {
+    "lat": 44.7920805,
+    "lon": 20.3480042
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1378760991,
+  "center": {
+    "lat": 44.7893464,
+    "lon": 20.3218787
+  },
+  "tags": {
+    "building": "yes",
+    "building:colour": "gray",
+    "building:levels": "1",
+    "power": "substation",
+    "ref": "Z-2199"
+  }
+},
+{
+  "type": "way",
+  "id": 1422442248,
+  "center": {
+    "lat": 44.5798053,
+    "lon": 20.3283354
+  },
+  "tags": {
+    "barrier": "fence",
+    "name": "Trafostanica Siljakovac",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "35000;10000"
+  }
+},
+{
+  "type": "way",
+  "id": 1423087055,
+  "center": {
+    "lat": 44.5652046,
+    "lon": 20.3331056
+  },
+  "tags": {
+    "building": "transformer_tower",
+    "location": "indoor",
+    "operator": "Elektromreža Srbije",
+    "operator:short": "EMS",
+    "operator:sr": "Електромрежа Србије",
+    "operator:sr-Latn": "Elektromreža Srbije",
+    "operator:wikidata": "Q18250047",
+    "power": "substation",
+    "substation": "minor_distribution",
+    "voltage": "10000;400"
+  }
+},
+{
+  "type": "way",
+  "id": 1472338462,
+  "center": {
+    "lat": 44.8134241,
+    "lon": 20.4194313
+  },
+  "tags": {
+    "building": "service",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1497695568,
+  "center": {
+    "lat": 44.7765364,
+    "lon": 20.4140879
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1540711193,
+  "center": {
+    "lat": 44.7587736,
+    "lon": 20.4120672
+  },
+  "tags": {
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1558150377,
+  "center": {
+    "lat": 44.7925012,
+    "lon": 20.4567659
+  },
+  "tags": {
+    "building": "yes",
+    "power": "substation",
+    "substation": "traction"
+  }
+},
+{
+  "type": "way",
+  "id": 1559268700,
+  "center": {
+    "lat": 44.8193109,
+    "lon": 20.4900950
+  },
+  "tags": {
+    "building": "yes",
+    "frequency": "50",
+    "operator": "Инфраструктура железнице Србије",
+    "power": "substation",
+    "substation": "traction",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1559939796,
+  "center": {
+    "lat": 44.5910512,
+    "lon": 20.8306403
+  },
+  "tags": {
+    "power": "substation"
+  }
+}
+
+  ]
+}

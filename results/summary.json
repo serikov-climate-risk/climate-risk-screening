@@ -1,0 +1,89 @@
+{
+  "n_assets": 308,
+  "total_value_meur": 2460.0,
+  "heat_days_per_year": {
+    "baseline": 8.266666666666667,
+    "moderate": 16.0,
+    "high": 25.833333333333332
+  },
+  "flood_eal_meur": {
+    "baseline": 4.688841639920062,
+    "moderate": 6.09549413189608,
+    "high": 9.377683279840124
+  },
+  "heat_eal_meur": {
+    "baseline": 4.368933333333334,
+    "moderate": 8.456,
+    "high": 13.652916666666666
+  },
+  "n_exposed_rp100": 18,
+  "n_excluded_in_channel": 23,
+  "plan_counts": {
+    "opt_baseline": {
+      "none": 292,
+      "elevate_critical_equipment_3m": 10,
+      "flood_wall_1.5m": 3,
+      "local_barrier_0.5m": 3
+    },
+    "opt_moderate": {
+      "none": 292,
+      "elevate_critical_equipment_3m": 10,
+      "flood_wall_1.5m": 5,
+      "local_barrier_0.5m": 1
+    },
+    "opt_high": {
+      "none": 290,
+      "elevate_critical_equipment_3m": 10,
+      "flood_wall_1.5m": 5,
+      "local_barrier_0.5m": 3
+    },
+    "minimax_regret": {
+      "none": 291,
+      "elevate_critical_equipment_3m": 10,
+      "flood_wall_1.5m": 5,
+      "local_barrier_0.5m": 2
+    },
+    "none": {
+      "none": 308
+    }
+  },
+  "plan_net_benefit_meur_per_year": {
+    "baseline": {
+      "minimax_regret": 3.051,
+      "none": 0.0,
+      "opt_baseline": 3.076,
+      "opt_high": 3.027,
+      "opt_moderate": 3.063
+    },
+    "high": {
+      "minimax_regret": 7.349,
+      "none": 0.0,
+      "opt_baseline": 7.252,
+      "opt_high": 7.352,
+      "opt_moderate": 7.324
+    },
+    "moderate": {
+      "minimax_regret": 4.34,
+      "none": 0.0,
+      "opt_baseline": 4.329,
+      "opt_high": 4.325,
+      "opt_moderate": 4.341
+    }
+  },
+  "max_regret_meur_per_year": {
+    "minimax_regret": 0.026,
+    "none": 7.352,
+    "opt_baseline": 0.101,
+    "opt_high": 0.049,
+    "opt_moderate": 0.028
+  },
+  "evpi_meur_per_year": 0.010088721208461493,
+  "capex_robust_plan_meur": 15.1,
+  "tagged_adaptation_capex_meur": 10.690000000000001,
+  "paris_screen_counts": {
+    "aligned": 284,
+    "not yet aligned": 12,
+    "not aligned": 7,
+    "aligned if the measure is in the project scope": 5
+  }
+}

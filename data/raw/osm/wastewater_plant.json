@@ -1,0 +1,53 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:41:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 257335191,
+  "center": {
+    "lat": 45.0362684,
+    "lon": 20.0851061
+  },
+  "tags": {
+    "man_made": "wastewater_plant"
+  }
+},
+{
+  "type": "way",
+  "id": 761816162,
+  "center": {
+    "lat": 44.6927295,
+    "lon": 20.3091709
+  },
+  "tags": {
+    "man_made": "wastewater_plant",
+    "operator": "Фабрика картона Умка д.о.о."
+  }
+},
+{
+  "type": "way",
+  "id": 899479016,
+  "center": {
+    "lat": 44.8405992,
+    "lon": 20.4174846
+  },
+  "tags": {
+    "barrier": "fence",
+    "int_name": "Kanalizaciono-crpna stanica „Karadjordjev trg”",
+    "landuse": "industrial",
+    "man_made": "wastewater_plant",
+    "name": "Канализационо-црпна станица „Карађорђев трг”",
+    "name:sr": "Канализационо-црпна станица „Карађорђев трг”",
+    "name:sr-Latn": "Kanalizaciono-crpna stanica „Karađorđev trg”",
+    "operator": "ЈКП Београдски водовод и канализација"
+  }
+}
+
+  ]
+}

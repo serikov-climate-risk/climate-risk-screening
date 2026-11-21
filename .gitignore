@@ -1,0 +1,7 @@
+data/raw/*.tif
+data/raw/era5_log.txt
+data/raw/cmip6_log.txt
+data/raw/cmip6/
+__pycache__/
+*.egg-info/
+.pytest_cache/

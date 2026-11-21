@@ -1,0 +1,1130 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:46:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 291178034,
+  "lat": 44.8398008,
+  "lon": 20.4138588,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Zdravstvena stanica „Avijaticarski trg”",
+    "name": "Здравствена станица „Авијатичарски трг”",
+    "name:sr": "Здравствена станица „Авијатичарски трг”",
+    "name:sr-Latn": "Zdravstvena stanica „Avijatičarski trg”"
+  }
+},
+{
+  "type": "node",
+  "id": 1141976101,
+  "lat": 44.8197777,
+  "lon": 20.4163375,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Klinika Medicor",
+    "website": "https://medicor.rs/"
+  }
+},
+{
+  "type": "node",
+  "id": 2088656539,
+  "lat": 44.8736382,
+  "lon": 20.0899755,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "int_name": "Dom zdravlja Dragan Funduk",
+    "name": "Дом здравља Драган Фундук",
+    "name:sr": "Дом здравља Драган Фундук",
+    "name:sr-Latn": "Dom zdravlja Dragan Funduk"
+  }
+},
+{
+  "type": "node",
+  "id": 3306441166,
+  "lat": 44.8063193,
+  "lon": 20.7052094,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Ambulanta Starcevo",
+    "name": "Амбуланта Старчево",
+    "name:sr": "Амбуланта Старчево",
+    "name:sr-Latn": "Ambulanta Starčevo"
+  }
+},
+{
+  "type": "node",
+  "id": 4730183389,
+  "lat": 44.7920114,
+  "lon": 20.4682619,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:postcode": "11000",
+    "addr:street": "Бокељска",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "ORS",
+    "name": "ОРС",
+    "name:en": "ORS Hospital",
+    "phone": "+381113910112",
+    "website": "https://www.orshospital.rs/"
+  }
+},
+{
+  "type": "node",
+  "id": 4820164422,
+  "lat": 44.7774238,
+  "lon": 20.4722174,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Bel Medic",
+    "name:sr-Latn": "Bel Medic",
+    "opening_hours": "24/7",
+    "phone": "0113091000",
+    "website": "https://www.belmedic.rs/"
+  }
+},
+{
+  "type": "node",
+  "id": 7592701645,
+  "lat": 44.7776233,
+  "lon": 20.4718799,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 8365827932,
+  "lat": 44.8719332,
+  "lon": 20.6440964,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Hitna pomoc",
+    "name": "Хитна помоћ",
+    "name:sr": "Хитна помоћ",
+    "name:sr-Latn": "Hitna pomoć"
+  }
+},
+{
+  "type": "node",
+  "id": 8640005785,
+  "lat": 44.7784946,
+  "lon": 20.4702488,
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2023-05-14",
+    "healthcare": "hospital",
+    "name": "Bel Medic",
+    "name:sr-Latn": "Bel Medic",
+    "opening_hours": "24/7",
+    "phone": "+381 11309 1000",
+    "website": "https://www.belmedic.rs/"
+  }
+},
+{
+  "type": "node",
+  "id": 9487882397,
+  "lat": 44.8031319,
+  "lon": 20.3848921,
+  "tags": {
+    "addr:floor": "G",
+    "addr:housenumber": "36d",
+    "addr:pak": "192701",
+    "addr:postcode": "11073",
+    "addr:street": "Јурија Гагарина",
+    "alt_name": "Дом здравља Еуромедик",
+    "alt_name:sr": "Дом здравља Еуромедик",
+    "alt_name:sr-Latn": "Dom zdravlja Euromedik",
+    "amenity": "hospital",
+    "check_date": "2024-11-04",
+    "healthcare": "hospital",
+    "int_name": "Dom zdravlja „Euromedik”",
+    "level": "0",
+    "name": "Дом здравља „Еуромедик”",
+    "name:sr": "Дом здравља „Еуромедик”",
+    "name:sr-Latn": "Dom zdravlja „Euromedik”",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:30-15:00; Su off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+381 11 2276324; +381 11 2284001",
+    "short_name": "Еуромедик",
+    "short_name:sr": "Еуромедик",
+    "short_name:sr-Latn": "Euromedik",
+    "website": "https://euromedic.rs/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11307438569,
+  "lat": 44.7642386,
+  "lon": 20.4831611,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name:en": "MSB"
+  }
+},
+{
+  "type": "node",
+  "id": 11543668090,
+  "lat": 44.7991682,
+  "lon": 20.4553435,
+  "tags": {
+    "addr:housenumber": "26",
+    "addr:street": "Вишеградска",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Opsta Bolnica „Aurora”",
+    "name": "Општа Болница „Аурора”",
+    "name:sr": "Општа Болница „Аурора”",
+    "name:sr-Latn": "Opšta Bolnica „Aurora”",
+    "opening_hours": "24/7",
+    "phone": "+381 11 7151777",
+    "website": "https://aurorabolnica.rs/"
+  }
+},
+{
+  "type": "node",
+  "id": 11573683741,
+  "lat": 44.8009624,
+  "lon": 20.4691562,
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2024-01-31",
+    "healthcare": "hospital",
+    "name": "Medigroup",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13344628352,
+  "lat": 44.8118674,
+  "lon": 20.4011749,
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "86a",
+    "addr:pak": "191615",
+    "addr:postcode": "11073",
+    "addr:street": "Омладинских бригада",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;radiology;gynaecology;orthopaedics;paediatrics;gastroenterology",
+    "name": "Opšta bolnica Avala",
+    "name:en": "Avala General Hospital",
+    "name:sr": "Општа болница Авала",
+    "name:sr-Latn": "Opšta bolnica Avala",
+    "phone": "+381 11 777 38 00",
+    "website": "https://www.bolnicaavala.rs/"
+  }
+},
+{
+  "type": "way",
+  "id": 55942888,
+  "center": {
+    "lat": 44.8005887,
+    "lon": 20.5007647
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:country": "RS",
+    "addr:housenumber": "161",
+    "addr:postcode": "11000",
+    "addr:street": "Димитрија Туцовића",
+    "amenity": "hospital",
+    "email": "kabinet@kbczvezdara.rs",
+    "healthcare": "hospital",
+    "int_name": "Klinicko-bolnicki centar „Zvezdara”",
+    "internet_access": "wlan",
+    "loc_name": "KBC Zvezdara",
+    "name": "Клиничко-болнички центар „Звездара”",
+    "name:sr": "Клиничко-болнички центар „Звездара”",
+    "name:sr-Latn": "Kliničko-bolnički centar „Zvezdara”",
+    "opening_hours": "24/7",
+    "operator:type": "government",
+    "phone": "+381113806969;+381113806333",
+    "ref:RS:kucni_broj": "3601621",
+    "short_name": "КБЦ „Звездара”",
+    "short_name:sr": "КБЦ „Звездара”",
+    "short_name:sr-Latn": "KBC „Zvezdara”",
+    "website": "https://www.kbczvezdara.rs/",
+    "wheelchair": "yes",
+    "wikidata": "Q16507211",
+    "wikipedia": "sr:Клиничко-болнички центар Звездара"
+  }
+},
+{
+  "type": "way",
+  "id": 183357414,
+  "center": {
+    "lat": 44.8070668,
+    "lon": 20.4212187
+  },
+  "tags": {
+    "addr:country": "RS",
+    "addr:housenumber": "3",
+    "addr:postcode": "11070",
+    "addr:street": "Милутина Миланковића",
+    "addr:suburb": "Нови Београд",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "3",
+    "email": "info@medigroup.rs",
+    "healthcare": "hospital",
+    "int_name": "MediGrup",
+    "name": "МедиГруп",
+    "name:en": "MediGroup",
+    "name:sr": "МедиГруп",
+    "name:sr-Latn": "MediGrup",
+    "opening_hours": "24/7",
+    "phone": "+381 11 4040100",
+    "ref:RS:kucni_broj": "3162365",
+    "roof:shape": "flat",
+    "website": "https://www.medigroup.rs"
+  }
+},
+{
+  "type": "way",
+  "id": 201878936,
+  "center": {
+    "lat": 44.7980576,
+    "lon": 20.4588244
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:country": "RS",
+    "addr:housenumber": "2",
+    "addr:postcode": "11000",
+    "addr:street": "Пастерова",
+    "amenity": "hospital",
+    "email": "mediacentar@kcs.ac.rs",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "int_name": "Univerzitetski klinicki centar Srbije",
+    "name": "Универзитетски клинички центар Србије",
+    "name:de": "Klinikzentrum Serbiens",
+    "name:en": "University Clinical Centre of Serbia",
+    "name:sr": "Универзитетски клинички центар Србије",
+    "name:sr-Latn": "Univerzitetski klinički centar Srbije",
+    "operator:type": "government",
+    "phone": "+381113617777;+381113618444",
+    "short_name": "УКЦС",
+    "short_name:sr": "УКЦС",
+    "short_name:sr-Latn": "UKCS",
+    "website": "http://www.kcs.ac.rs/",
+    "wheelchair": "yes",
+    "wikidata": "Q12752817",
+    "wikimedia_commons": "Category:Clinical Center of Serbia building",
+    "wikipedia": "sr:Универзитетски клинички центар Србије"
+  }
+},
+{
+  "type": "way",
+  "id": 202745160,
+  "center": {
+    "lat": 44.8146414,
+    "lon": 20.4116986
+  },
+  "tags": {
+    "addr:housenumber": "29",
+    "addr:street": "Булевар уметности",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "int_name": "Euromedik opsta bolnica",
+    "name": "Еуромедик општа болница",
+    "operator": "Eуромедик",
+    "ref:RS:kucni_broj": "3165574",
+    "website": "https://euromedic.rs/"
+  }
+},
+{
+  "type": "way",
+  "id": 276980656,
+  "center": {
+    "lat": 44.8043486,
+    "lon": 20.3850414
+  },
+  "tags": {
+    "addr:housenumber": "122g",
+    "addr:pak": "192685",
+    "addr:postcode": "11073",
+    "addr:street": "Гандијева",
+    "alt_name": "Дом здравља Еуромедик",
+    "alt_name:sr": "Дом здравља Еуромедик",
+    "alt_name:sr-Latn": "Dom zdravlja Euromedik",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "int_name": "Dom zdravlja „Euromedik”",
+    "name": "Дом здравља „Еуромедик”",
+    "name:sr": "Дом здравља „Еуромедик”",
+    "name:sr-Latn": "Dom zdravlja „Euromedik”",
+    "ref:RS:kucni_broj": "3162340",
+    "short_name": "Еуромедик",
+    "short_name:sr": "Еуромедик",
+    "short_name:sr-Latn": "Euromedik"
+  }
+},
+{
+  "type": "way",
+  "id": 279873770,
+  "center": {
+    "lat": 44.9487128,
+    "lon": 20.4233290
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "int_name": "Klinika za psihijatrijske bolesti Dr Laza Lazarevic",
+    "name": "Клиника за психијатријске болести Др Лаза Лазаревић",
+    "name:sr": "Клиника за психијатријске болести Др Лаза Лазаревић",
+    "name:sr-Latn": "Klinika za psihijatrijske bolesti Dr Laza Lazarević"
+  }
+},
+{
+  "type": "way",
+  "id": 287863215,
+  "center": {
+    "lat": 44.7775281,
+    "lon": 20.4565148
+  },
+  "tags": {
+    "alt_name": "КБЦ Др Драгиша Мишовић - Дедиње Комплекс Б",
+    "alt_name:sr": "КБЦ Др Драгиша Мишовић - Дедиње Комплекс Б",
+    "alt_name:sr-Latn": "KBC Dr Dragiša Mišović - Dedinje Kompleks B",
+    "amenity": "hospital",
+    "barrier": "fence",
+    "healthcare": "hospital",
+    "int_name": "KBC „Dr Dragisa Misovic - Dedinje” Kompleks B",
+    "name": "КБЦ „Др Драгиша Мишовић - Дедиње” Комплекс Б",
+    "name:sr": "КБЦ „Др Драгиша Мишовић - Дедиње” Комплекс Б",
+    "name:sr-Latn": "KBC „Dr Dragiša Mišović - Dedinje” Kompleks B",
+    "wikidata": "Q11109932",
+    "wikipedia": "sr:КБЦ Др Драгиша Мишовић"
+  }
+},
+{
+  "type": "way",
+  "id": 301837951,
+  "center": {
+    "lat": 44.8313050,
+    "lon": 20.3828786
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:country": "RS",
+    "addr:housenumber": "20",
+    "addr:postcode": "11000",
+    "addr:street": "Др Жоржа Матеа",
+    "alt_name": "КБЦ Бежанијска коса",
+    "alt_name:sr": "КБЦ Бежанијска коса",
+    "alt_name:sr-Latn": "KBC Bežanijska kosa",
+    "amenity": "hospital",
+    "barrier": "fence",
+    "beds": "360",
+    "email": "kontakt.sajt@bkosa.edu.rs",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "int_name": "Klinicko-bolnicki centar „Bezanijska kosa”",
+    "name": "Клиничко-болнички центар „Бежанијска коса”",
+    "name:sr": "Клиничко-болнички центар „Бежанијска коса”",
+    "name:sr-Latn": "Kliničko-bolnički centar „Bežanijska kosa”",
+    "opening_hours": "24/7",
+    "operator:type": "government",
+    "phone": "+381113010777",
+    "ref:RS:kucni_broj": "6823191",
+    "short_name": "KBC „Bežanijska kosa“",
+    "short_name:sr": "КБЦ „Бежанијска коса“",
+    "short_name:sr-Latn": "KBC „Bežanijska kosa“",
+    "website": "https://bkosa.rs/",
+    "wheelchair": "yes",
+    "wikidata": "Q2944932",
+    "wikipedia": "sr:Клиничко-болнички центар Бежанијска коса"
+  }
+},
+{
+  "type": "way",
+  "id": 301844418,
+  "center": {
+    "lat": 44.8318134,
+    "lon": 20.4029161
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:country": "RS",
+    "addr:housenumber": "6-8",
+    "addr:postcode": "11070",
+    "addr:street": "Радоја Дакића",
+    "addr:suburb": "Нови Београд",
+    "alt_name": "Институт за мајку и дете",
+    "alt_name:sr": "Институт за мајку и дете",
+    "alt_name:sr-Latn": "Institut za majku i dete",
+    "amenity": "hospital",
+    "email": "info@imd.org.rs",
+    "fax": "+381112697232",
+    "healthcare": "hospital",
+    "int_name": "Institut za zdravstvenu zastitu majke i deteta Srbije „Dr Vukan Cupic”",
+    "name": "Институт за здравствену заштиту мајке и детета Србије „Др Вукан Чупић”",
+    "name:en": "The Institute for Medical Care of Mother and Child of Serbia “Dr Vukan Cupic”",
+    "name:sr": "Институт за здравствену заштиту мајке и детета Србије „Др Вукан Чупић”",
+    "name:sr-Latn": "Institut za zdravstvenu zaštitu majke i deteta Srbije „Dr Vukan Čupić”",
+    "note": "Dežurna ustanova neparnim danima u mesecu",
+    "operator:type": "government",
+    "phone": "+381113108108",
+    "website": "https://www.imd.org.rs/",
+    "wheelchair": "yes",
+    "wikidata": "Q110045772",
+    "wikipedia": "sr:Институт за здравствену заштиту мајке и детета Србије ,,Др Вукан Чупић’’"
+  }
+},
+{
+  "type": "way",
+  "id": 392174276,
+  "center": {
+    "lat": 44.7666439,
+    "lon": 20.4607091
+  },
+  "tags": {
+    "addr:street": "Михаила Аврамовића",
+    "alt_name": "Институт за ортопедско-хируршке болести Бањица",
+    "alt_name:sr": "Институт за ортопедско-хируршке болести Бањица",
+    "alt_name:sr-Latn": "Institut za ortopedsko-hirurške bolesti Banjica",
+    "amenity": "hospital",
+    "email": "info@iohbb.edu.rs",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "int_name": "Institut za ortopedsko-hirurske bolesti „Banjica”",
+    "name": "Институт за ортопедско-хируршке болести „Бањица”",
+    "name:sr": "Институт за ортопедско-хируршке болести „Бањица”",
+    "name:sr-Latn": "Institut za ortopedsko-hirurške bolesti „Banjica”",
+    "operator:type": "government",
+    "phone": "+381116660466",
+    "website": "https://www.iohbb.edu.rs/",
+    "wheelchair": "yes",
+    "wikidata": "Q110046746",
+    "wikipedia": "sr:Институт за ортопедију Бањица"
+  }
+},
+{
+  "type": "way",
+  "id": 392346776,
+  "center": {
+    "lat": 44.7790828,
+    "lon": 20.4611443
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:country": "RS",
+    "addr:housenumber": "17a",
+    "addr:postcode": "11000",
+    "addr:street": "Сокобањска",
+    "alt_name": "Specijalna bolnica za cerebralnu paralizu i razvojnu neurologiju - Paviljon I",
+    "alt_name2": "Specijalna bolnica za cerebralnu paralizu i razvojnu neurologiju - Paviljon 1",
+    "amenity": "hospital",
+    "building": "yes",
+    "email": "office@sbcprn.com",
+    "fax": "+381112668580",
+    "healthcare": "hospital",
+    "int_name": "Specijalna bolnica za cerebralnu paralizu i razvojnu neurologiju",
+    "name": "Специјална болница за церебралну парализу и развојну неурологију",
+    "name:sr": "Специјална болница за церебралну парализу и развојну неурологију",
+    "name:sr-Latn": "Specijalna bolnica za cerebralnu paralizu i razvojnu neurologiju",
+    "operator:type": "government",
+    "phone": "+381112667755",
+    "website": "https://www.sbcprn.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 399198214,
+  "center": {
+    "lat": 44.7809835,
+    "lon": 20.4596294
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Др Иве Поповића Ђанија",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "3",
+    "healthcare": "hospital",
+    "int_name": "Bolnica za neurologiju",
+    "name": "Болница за неурологију",
+    "name:sr": "Болница за неурологију",
+    "name:sr-Latn": "Bolnica za neurologiju"
+  }
+},
+{
+  "type": "way",
+  "id": 403077221,
+  "center": {
+    "lat": 44.8418571,
+    "lon": 20.4069553
+  },
+  "tags": {
+    "addr:city": "Земун",
+    "addr:country": "RS",
+    "addr:housenumber": "9",
+    "addr:postcode": "11080",
+    "addr:street": "Вукова",
+    "alt_name": "КБЦ Земун",
+    "alt_name:sr": "КБЦ Земун",
+    "alt_name:sr-Latn": "KBC Zemun",
+    "amenity": "hospital",
+    "email": "centar@kbczemun.bg.ac.rs",
+    "emergency": "yes",
+    "fax": "+381112107057",
+    "healthcare": "hospital",
+    "int_name": "Klinicko-bolnicki centar Zemun",
+    "loc_name": "Земунска болница",
+    "name": "Клиничко-болнички центар Земун",
+    "name:sr": "Клиничко-болнички центар Земун",
+    "name:sr-Latn": "Kliničko-bolnički centar Zemun",
+    "operator:type": "government",
+    "phone": "+381113772666;+381113772-651;+381112106106",
+    "ref:RS:kucni_broj": "3677488",
+    "website": "http://www.kbczemun.rs/",
+    "wheelchair": "yes",
+    "wikidata": "Q2944930",
+    "wikipedia": "sr:Клиничко-болнички центар Земун"
+  }
+},
+{
+  "type": "way",
+  "id": 403574430,
+  "center": {
+    "lat": 44.7830877,
+    "lon": 20.4798551
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "19",
+    "addr:postcode": "11000",
+    "addr:street": "Војводе Скопљанца",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "int_name": "Opsta bolnica „UNA”",
+    "name": "Општа болница „УНА”",
+    "name:sr": "Општа болница „УНА”",
+    "name:sr-Latn": "Opšta bolnica „UNA”",
+    "phone": "+381 11 309 62 15",
+    "ref:RS:kucni_broj": "3219790",
+    "website": "http://www.unaklinika.rs/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 403574634,
+  "center": {
+    "lat": 44.7835250,
+    "lon": 20.4796340
+  },
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Војводе Скопљанца",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "2",
+    "healthcare": "hospital",
+    "name": "Saint James Hospital",
+    "ref:RS:kucni_broj": "3233961",
+    "roof:levels": "0",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "way",
+  "id": 407817134,
+  "center": {
+    "lat": 44.8134716,
+    "lon": 20.4942215
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Северни булевар",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Vojnomedicinski centar Karaburma",
+    "name": "Војномедицински центар Карабурма",
+    "name:sr": "Војномедицински центар Карабурма",
+    "name:sr-Latn": "Vojnomedicinski centar Karaburma",
+    "opening_hours": "Mo-Fr 07:30-15:30",
+    "phone": "+381 11 3205-012",
+    "short_name": "ВМЦ Карабурма",
+    "short_name:sr": "ВМЦ Карабурма",
+    "short_name:sr-Latn": "VMC Karaburma"
+  }
+},
+{
+  "type": "way",
+  "id": 410758899,
+  "center": {
+    "lat": 44.7898539,
+    "lon": 20.4655902
+  },
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:postcode": "11000",
+    "addr:street": "Сурдуличка",
+    "alt_name": "Болница за пластичну, реконструктивну и естетску хирургију др Цолић",
+    "alt_name:sr": "Болница за пластичну, реконструктивну и естетску хирургију др Цолић",
+    "alt_name:sr-Latn": "Bolnica za plastičnu, rekonstruktivnu i estetsku hirurgiju dr Colić",
+    "amenity": "hospital",
+    "building": "house",
+    "email": "drcolic@eunet.rs",
+    "healthcare": "hospital",
+    "int_name": "Bolnica za plasticnu, rekonstruktivnu i estetsku hirurgiju „dr Colic”",
+    "internet_access": "wlan",
+    "name": "Болница за пластичну, реконструктивну и естетску хирургију „др Цолић”",
+    "name:sr": "Болница за пластичну, реконструктивну и естетску хирургију „др Цолић”",
+    "name:sr-Latn": "Bolnica za plastičnu, rekonstruktivnu i estetsku hirurgiju „dr Colić”",
+    "opening_hours": "24/7",
+    "phone": "+381 11 3699 800",
+    "ref:RS:kucni_broj": "3204687",
+    "website": "https://www.dr-colic.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 431951368,
+  "center": {
+    "lat": 44.8327744,
+    "lon": 20.3972536
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 440420294,
+  "center": {
+    "lat": 44.8166989,
+    "lon": 20.4924874
+  },
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Мије Ковачевића",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Bolnica za pedijatriju „Dr Olga Popovic-Dedijer”",
+    "name": "Болница за педијатрију „Др Олга Поповић-Дедијер”",
+    "name:sr": "Болница за педијатрију „Др Олга Поповић-Дедијер”",
+    "name:sr-Latn": "Bolnica za pedijatriju „Dr Olga Popović-Dedijer”",
+    "ref:RS:kucni_broj": "3175758"
+  }
+},
+{
+  "type": "way",
+  "id": 481557481,
+  "center": {
+    "lat": 44.9406178,
+    "lon": 20.4309648
+  },
+  "tags": {
+    "addr:city": "Padinska Skela",
+    "addr:postcode": "11213",
+    "addr:street": "Дејана Смиљковића",
+    "amenity": "hospital",
+    "building": "yes",
+    "int_name": "Dom zdravlja „Dr Milutin Ivkovic”",
+    "name": "Дом здравља „Др Милутин Ивковић”",
+    "name:sr": "Дом здравља „Др Милутин Ивковић”",
+    "name:sr-Latn": "Dom zdravlja „Dr Milutin Ivković”"
+  }
+},
+{
+  "type": "way",
+  "id": 509108709,
+  "center": {
+    "lat": 44.8060613,
+    "lon": 20.3980333
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Medicina rada",
+    "name": "Медицина рада",
+    "name:sr": "Медицина рада",
+    "name:sr-Latn": "Medicina rada"
+  }
+},
+{
+  "type": "way",
+  "id": 509500520,
+  "center": {
+    "lat": 44.7808334,
+    "lon": 20.4599323
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Др Иве Поповића Ђанија",
+    "amenity": "hospital",
+    "building": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Bolnica za ORL",
+    "name": "Болница за ОРЛ",
+    "name:sr": "Болница за ОРЛ",
+    "name:sr-Latn": "Bolnica za ORL",
+    "ref:RS:kucni_broj": "3204354"
+  }
+},
+{
+  "type": "way",
+  "id": 512046777,
+  "center": {
+    "lat": 44.8113262,
+    "lon": 20.4251764
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "VMC Novi Beograd",
+    "name": "ВМЦ Нови Београд",
+    "name:sr": "ВМЦ Нови Београд",
+    "name:sr-Latn": "VMC Novi Beograd"
+  }
+},
+{
+  "type": "way",
+  "id": 514013331,
+  "center": {
+    "lat": 44.7592276,
+    "lon": 20.4187072
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Dom zdravlja Dr Simo Milosevic - ogranak Zarkovo",
+    "name": "Дом здравља Др Симо Милошевић - огранак Жарково",
+    "name:sr": "Дом здравља Др Симо Милошевић - огранак Жарково",
+    "name:sr-Latn": "Dom zdravlja Dr Simo Milošević - ogranak Žarkovo",
+    "operator": "Дом здравља Др Симо Милошевић",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 517067084,
+  "center": {
+    "lat": 44.8321310,
+    "lon": 20.3775654
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Dom za odrasla invalidna lica",
+    "name": "Дом за одрасла инвалидна лица",
+    "name:sr": "Дом за одрасла инвалидна лица",
+    "name:sr-Latn": "Dom za odrasla invalidna lica"
+  }
+},
+{
+  "type": "way",
+  "id": 549923685,
+  "center": {
+    "lat": 44.8679995,
+    "lon": 20.6532953
+  },
+  "tags": {
+    "addr:country": "RS",
+    "addr:housenumber": "11",
+    "addr:postcode": "26101",
+    "addr:street": "Милоша Требињца",
+    "amenity": "hospital",
+    "email": "opstabolnica@bolnicapancevo.rs",
+    "healthcare": "hospital",
+    "int_name": "Opsta bolnica Pancevo",
+    "name": "Општа болница Панчево",
+    "name:sr": "Општа болница Панчево",
+    "name:sr-Latn": "Opšta bolnica Pančevo",
+    "operator:type": "government",
+    "phone": "013306400",
+    "ref:RS:kucni_broj": "6303686",
+    "website": "https://www.bolnicapancevo.rs/index.html",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 572762604,
+  "center": {
+    "lat": 44.7999153,
+    "lon": 20.4955644
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:housenumber": "33",
+    "addr:postcode": "11000",
+    "addr:street": "Прешевска",
+    "amenity": "hospital",
+    "check_date": "2024-05-04",
+    "healthcare": "hospital",
+    "int_name": "KBC Zvezdara",
+    "name": "КБЦ Звездара",
+    "name:en": "Clinical-Hospital Center Zvezdara",
+    "name:sr": "КБЦ Звездара",
+    "name:sr-Latn": "KBC Zvezdara"
+  }
+},
+{
+  "type": "way",
+  "id": 671860372,
+  "center": {
+    "lat": 44.7799409,
+    "lon": 20.4596871
+  },
+  "tags": {
+    "alt_name": "КБЦ Др Драгиша Мишовић - Дедиње Комплекс А",
+    "alt_name:sr": "КБЦ Др Драгиша Мишовић - Дедиње Комплекс А",
+    "alt_name:sr-Latn": "KBC Dr Dragiša Mišović - Dedinje Kompleks A",
+    "amenity": "hospital",
+    "barrier": "fence",
+    "fixme": "review barrier=fence",
+    "healthcare": "hospital",
+    "int_name": "KBC „Dr Dragisa Misovic - Dedinje” Kompleks A",
+    "name": "КБЦ „Др Драгиша Мишовић - Дедиње” Комплекс А",
+    "name:sr": "КБЦ „Др Драгиша Мишовић - Дедиње” Комплекс А",
+    "name:sr-Latn": "KBC „Dr Dragiša Mišović - Dedinje” Kompleks A",
+    "wikidata": "Q11109932",
+    "wikipedia": "sr:КБЦ Др Драгиша Мишовић"
+  }
+},
+{
+  "type": "way",
+  "id": 687513858,
+  "center": {
+    "lat": 44.7110581,
+    "lon": 20.4437694
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 828429002,
+  "center": {
+    "lat": 44.7771107,
+    "lon": 20.4560818
+  },
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Јована Мариновића",
+    "amenity": "hospital",
+    "building": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Bolnica za decije plucne bolesti i TBC",
+    "name": "Болница за дечије плућне болести и ТБЦ",
+    "name:sr": "Болница за дечије плућне болести и ТБЦ",
+    "name:sr-Latn": "Bolnica za dečije plućne bolesti i TBC",
+    "ref:RS:kucni_broj": "3204333"
+  }
+},
+{
+  "type": "way",
+  "id": 845194820,
+  "center": {
+    "lat": 44.8800606,
+    "lon": 20.3273887
+  },
+  "tags": {
+    "addr:housenumber": "257",
+    "addr:street": "Батајнички друм",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Centar za palijativno zbrinjavanje",
+    "name": "Центар за палијативно збрињавање",
+    "name:sr": "Центар за палијативно збрињавање",
+    "name:sr-Latn": "Centar za palijativno zbrinjavanje",
+    "phone": "+381 11 7755029"
+  }
+},
+{
+  "type": "way",
+  "id": 943670716,
+  "center": {
+    "lat": 44.7798417,
+    "lon": 20.4614396
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 988744889,
+  "center": {
+    "lat": 44.7991459,
+    "lon": 20.4980214
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:country": "RS",
+    "addr:housenumber": "35",
+    "addr:postcode": "11000",
+    "addr:street": "Прешевска",
+    "amenity": "hospital",
+    "email": "pulmodir@yahoo.com",
+    "healthcare": "hospital",
+    "healthcare:speciality": "pulmonology",
+    "int_name": "Gradski zavod za plucne bolesti i tuberkulozu",
+    "name": "Градски завод за плућне болести и туберкулозу",
+    "name:sr": "Градски завод за плућне болести и туберкулозу",
+    "name:sr-Latn": "Gradski zavod za plućne bolesti i tuberkulozu",
+    "opening_hours": "Mo-Fr 07:00-20:00",
+    "operator:type": "government",
+    "phone": "+381113811800",
+    "ref:RS:kucni_broj": "3601589",
+    "website": "http://bolestipluca.org.rs/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1120635508,
+  "center": {
+    "lat": 44.8424353,
+    "lon": 20.4063917
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1314716125,
+  "center": {
+    "lat": 44.7806046,
+    "lon": 20.4853210
+  },
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Браће Јерковић",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "int_name": "Specijalna bolnica za cerebralnu paralizu i razvojnu neurologiju - DNEVNA BOLNICA",
+    "name": "Специјална болница за церебралну парализу и развојну неурологију - ДНЕВНА БОЛНИЦА",
+    "name:sr": "Специјална болница за церебралну парализу и развојну неурологију - ДНЕВНА БОЛНИЦА",
+    "name:sr-Latn": "Specijalna bolnica za cerebralnu paralizu i razvojnu neurologiju - DNEVNA BOLNICA"
+  }
+},
+{
+  "type": "way",
+  "id": 1431748757,
+  "center": {
+    "lat": 44.7590122,
+    "lon": 20.7369466
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1535464055,
+  "center": {
+    "lat": 44.7835519,
+    "lon": 20.4489189
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 1565450368,
+  "center": {
+    "lat": 44.7638788,
+    "lon": 20.4683783
+  },
+  "tags": {
+    "amenity": "hospital",
+    "beds": "1200",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "int_name": "Vojnomedicinska akademija",
+    "name": "Војномедицинска академија",
+    "name:en": "Military - Medical Academy",
+    "name:ru": "Военно-медицинская академия",
+    "name:sr": "Војномедицинска академија",
+    "name:sr-Latn": "Vojnomedicinska akademija",
+    "operator": "Министарство одбране",
+    "operator:type": "government",
+    "phone": "+381 11 2661122",
+    "short_name": "ВМА",
+    "short_name:en": "VMA",
+    "short_name:sr": "ВМА",
+    "short_name:sr-Latn": "VMA",
+    "website": "http://www.vma.mod.gov.rs/",
+    "wikidata": "Q6593183",
+    "wikimedia_commons": "Category:Military Medical Academy of Serbia",
+    "wikipedia": "sr:Војномедицинска академија Универзитета одбране у Београду"
+  }
+},
+{
+  "type": "relation",
+  "id": 2337317,
+  "center": {
+    "lat": 44.8073438,
+    "lon": 20.4567596
+  },
+  "tags": {
+    "addr:city": "Београд",
+    "addr:country": "RS",
+    "addr:housenumber": "2",
+    "addr:postcode": "11000",
+    "addr:street": "Немањина",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "5",
+    "email": "info@svetisava.rs",
+    "fax": "+381116642014",
+    "healthcare": "hospital",
+    "healthcare:speciality": "vascular_surgery",
+    "int_name": "Specijalna bolnica Sveti Sava",
+    "name": "Специјална болница Свети Сава",
+    "name:en": "Specialized Hospital Saint Sava",
+    "name:sr": "Специјална болница Свети Сава",
+    "name:sr-Latn": "Specijalna bolnica Sveti Sava",
+    "operator:type": "government",
+    "phone": "+381112066800",
+    "ref:RS:kucni_broj": "3204172",
+    "start_date": "1932",
+    "type": "multipolygon",
+    "website": "http://www.svetisava.rs",
+    "wikidata": "Q70054155",
+    "wikipedia": "sr:Специјална болница „Свети Сава” Београд",
+    "year_of_construction": "1930..1932"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:44:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 431369336,
+  "lat": 45.0407305,
+  "lon": 20.0864272,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "int_name": "Autobuska stanica Indjija",
+    "name": "Аутобуска станица Инђија",
+    "name:en": "Bus station Inđija",
+    "name:sr": "Аутобуска станица Инђија",
+    "name:sr-Latn": "Autobuska stanica Inđija",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3509933845,
+  "lat": 44.5644246,
+  "lon": 20.4342404,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "node",
+  "id": 11928576730,
+  "lat": 44.6560002,
+  "lon": 20.1979947,
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "check_date": "2024-05-23",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 14335170901,
+  "lat": 44.8028648,
+  "lon": 20.4667541,
+  "tags": {
+    "amenity": "bus_station"
+  }
+},
+{
+  "type": "way",
+  "id": 48866651,
+  "center": {
+    "lat": 44.9853759,
+    "lon": 20.1559753
+  },
+  "tags": {
+    "addr:city": "Стара Пазова",
+    "addr:housenumber": "22",
+    "addr:pak": "340348",
+    "addr:postcode": "22300",
+    "addr:street": "Ћирила и Методија",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "int_name": "Autobuska stanica Stara Pazova",
+    "name": "Аутобуска станица Стара Пазова",
+    "name:sr": "Аутобуска станица Стара Пазова",
+    "name:sr-Latn": "Autobuska stanica Stara Pazova",
+    "operator": "Ласта",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 177851636,
+  "center": {
+    "lat": 44.7838732,
+    "lon": 20.5006724
+  },
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "int_name": "Lasta - Sumice",
+    "name": "Ласта - Шумице",
+    "name:sr": "Ласта - Шумице",
+    "name:sr-Latn": "Lasta - Šumice",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 234388510,
+  "center": {
+    "lat": 44.8059781,
+    "lon": 20.4153146
+  },
+  "tags": {
+    "addr:housenumber": "46-48",
+    "addr:street": "Антифашистичке борбе",
+    "alt_name": "Београдска аутобуска станица",
+    "alt_name:sr": "Београдска аутобуска станица",
+    "alt_name:sr-Latn": "Beogradska autobuska stanica",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "email": "bas@bas.rs",
+    "int_name": "Autobuska stanica Beograd",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Аутобуска станица Београд",
+    "name:de": "Belgrader Busbahnhof",
+    "name:en": "Belgrade Bus Station",
+    "name:ru": "Автовокзал Белград",
+    "name:sr": "Аутобуска станица Београд",
+    "name:sr-Latn": "Autobuska stanica Beograd",
+    "public_transport": "station",
+    "short_name": "БАС",
+    "short_name:sr": "БАС",
+    "short_name:sr-Latn": "BAS",
+    "website": "https://www.bas.rs/",
+    "wikidata": "Q4882636",
+    "wikipedia": "sr:Београдска аутобуска станица"
+  }
+},
+{
+  "type": "way",
+  "id": 395904778,
+  "center": {
+    "lat": 44.8714169,
+    "lon": 20.6484190
+  },
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "int_name": "Autobuska stanica Pancevo",
+    "name": "Аутобуска станица Панчево",
+    "name:sr": "Аутобуска станица Панчево",
+    "name:sr-Latn": "Autobuska stanica Pančevo",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 486229244,
+  "center": {
+    "lat": 44.5801203,
+    "lon": 20.4130299
+  },
+  "tags": {
+    "addr:housenumber": "63",
+    "addr:street": "Светосавска",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "int_name": "Autobuska stanica Barajevo",
+    "name": "Аутобуска станица Барајево",
+    "name:sr": "Аутобуска станица Барајево",
+    "name:sr-Latn": "Autobuska stanica Barajevo",
+    "public_transport": "station",
+    "ref:RS:kucni_broj": "3088427"
+  }
+},
+{
+  "type": "way",
+  "id": 932555075,
+  "center": {
+    "lat": 44.6555895,
+    "lon": 20.1968253
+  },
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "int_name": "Autobuska stanica Obrenovac",
+    "name": "Аутобуска станица Обреновац",
+    "name:sr": "Аутобуска станица Обреновац",
+    "name:sr-Latn": "Autobuska stanica Obrenovac",
+    "phone": "+381118721284",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1460964639,
+  "center": {
+    "lat": 44.7875588,
+    "lon": 20.4725984
+  },
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "int_name": "Autobusko stajaliste „Beograd Jug”",
+    "name": "Аутобуско стајалиште „Београд Југ”",
+    "name:en": "Bus Stop \"Belgrade South\"",
+    "name:sr": "Аутобуско стајалиште „Београд Југ”",
+    "name:sr-Latn": "Autobusko stajalište „Beograd Jug”",
+    "operator": "Београдска Аутобуска станица",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

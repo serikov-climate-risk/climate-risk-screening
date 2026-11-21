@@ -1,0 +1,411 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-21T21:42:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2866117676,
+  "lat": 44.7201005,
+  "lon": 20.1434837,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 3448865538,
+  "lat": 44.7665255,
+  "lon": 20.4900476,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Kumodraški potok"
+  }
+},
+{
+  "type": "node",
+  "id": 3846166284,
+  "lat": 44.8182793,
+  "lon": 20.4967107,
+  "tags": {
+    "man_made": "water_tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 3882606030,
+  "lat": 44.8966414,
+  "lon": 20.6778068,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 4536859349,
+  "lat": 44.8099856,
+  "lon": 20.2397650,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 4537068110,
+  "lat": 44.8159981,
+  "lon": 20.2080626,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 4537068111,
+  "lat": 44.8140386,
+  "lon": 20.2014510,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 5849017429,
+  "lat": 44.8417462,
+  "lon": 20.4086430,
+  "tags": {
+    "drinking_water": "no",
+    "handle": "no",
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7029529886,
+  "lat": 44.8633526,
+  "lon": 20.6634862,
+  "tags": {
+    "amenity": "drinking_water",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 7383497368,
+  "lat": 44.8605260,
+  "lon": 20.7343505,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 9270503958,
+  "lat": 44.8276583,
+  "lon": 20.4124092,
+  "tags": {
+    "drinking_water:signed": "no",
+    "image": "https://photos.app.goo.gl/aWBHJHVZhGCpSsnR9",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 10600964367,
+  "lat": 44.7889636,
+  "lon": 20.2317210,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10733709867,
+  "lat": 44.9152838,
+  "lon": 20.3710084,
+  "tags": {
+    "man_made": "pumping_station"
+  }
+},
+{
+  "type": "node",
+  "id": 11343980496,
+  "lat": 44.9830333,
+  "lon": 20.1576419,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "way",
+  "id": 207821408,
+  "center": {
+    "lat": 44.7594140,
+    "lon": 20.4335182
+  },
+  "tags": {
+    "building": "water_tower",
+    "int_name": "Vodotoranj Kosutnjak",
+    "man_made": "water_tower",
+    "name": "Водоторањ Кошутњак",
+    "name:en": "Watertower Kosutnjak",
+    "name:sr": "Водоторањ Кошутњак",
+    "name:sr-Latn": "Vodotoranj Košutnjak"
+  }
+},
+{
+  "type": "way",
+  "id": 282602013,
+  "center": {
+    "lat": 44.6979163,
+    "lon": 20.1104504
+  },
+  "tags": {
+    "building": "industrial",
+    "man_made": "pumping_station"
+  }
+},
+{
+  "type": "way",
+  "id": 282675466,
+  "center": {
+    "lat": 44.7188997,
+    "lon": 20.1480337
+  },
+  "tags": {
+    "addr:housenumber": "132",
+    "addr:street": "Дванаестог августа",
+    "building": "industrial",
+    "man_made": "pumping_station",
+    "ref:RS:kucni_broj": "3369990"
+  }
+},
+{
+  "type": "way",
+  "id": 283512612,
+  "center": {
+    "lat": 44.6996051,
+    "lon": 20.2996229
+  },
+  "tags": {
+    "building": "service",
+    "man_made": "pumping_station"
+  }
+},
+{
+  "type": "way",
+  "id": 308406475,
+  "center": {
+    "lat": 44.7171815,
+    "lon": 20.2185651
+  },
+  "tags": {
+    "building": "service",
+    "man_made": "pumping_station"
+  }
+},
+{
+  "type": "way",
+  "id": 308406484,
+  "center": {
+    "lat": 44.7162261,
+    "lon": 20.2376353
+  },
+  "tags": {
+    "addr:housenumber": "35",
+    "addr:street": "Рибарска",
+    "building": "service",
+    "man_made": "pumping_station",
+    "ref:RS:kucni_broj": "3371168"
+  }
+},
+{
+  "type": "way",
+  "id": 308431493,
+  "center": {
+    "lat": 44.7310909,
+    "lon": 20.2334163
+  },
+  "tags": {
+    "building": "service",
+    "man_made": "pumping_station"
+  }
+},
+{
+  "type": "way",
+  "id": 495956770,
+  "center": {
+    "lat": 44.6344648,
+    "lon": 20.4105287
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 503649288,
+  "center": {
+    "lat": 44.5927788,
+    "lon": 20.4227784
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "tower:construction": "freestanding"
+  }
+},
+{
+  "type": "way",
+  "id": 679769722,
+  "center": {
+    "lat": 44.8000056,
+    "lon": 20.4465916
+  },
+  "tags": {
+    "building": "water_tower",
+    "disused:railway": "water_tower",
+    "historic": "yes",
+    "image": "https://photos.app.goo.gl/uSQqybpSocgmsy9D6",
+    "int_name": "Vodotoranj stare zeleznicke stanice",
+    "man_made": "water_tower",
+    "name": "Водоторањ старе железничке станице",
+    "name:en": "Waterworks of the old railway station",
+    "name:sr": "Водоторањ старе железничке станице",
+    "name:sr-Latn": "Vodotoranj stare železničke stanice",
+    "tower:construction": "brick"
+  }
+},
+{
+  "type": "way",
+  "id": 757535531,
+  "center": {
+    "lat": 44.9374252,
+    "lon": 20.2295979
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "pumping_station"
+  }
+},
+{
+  "type": "way",
+  "id": 765832815,
+  "center": {
+    "lat": 44.7656288,
+    "lon": 20.4355807
+  },
+  "tags": {
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "way",
+  "id": 846919017,
+  "center": {
+    "lat": 44.7347884,
+    "lon": 20.1903941
+  },
+  "tags": {
+    "addr:housenumber": "113",
+    "addr:street": "Браће Гаврајић",
+    "building": "service",
+    "man_made": "pumping_station",
+    "ref:RS:kucni_broj": "3376317"
+  }
+},
+{
+  "type": "way",
+  "id": 1112573777,
+  "center": {
+    "lat": 44.7690134,
+    "lon": 20.3455746
+  },
+  "tags": {
+    "building": "industrial",
+    "man_made": "pumping_station"
+  }
+},
+{
+  "type": "way",
+  "id": 1220517883,
+  "center": {
+    "lat": 44.7477549,
+    "lon": 20.7011582
+  },
+  "tags": {
+    "addr:housenumber": "280",
+    "addr:street": "Наделска",
+    "building": "service",
+    "man_made": "pumping_station",
+    "ref:RS:kucni_broj": "6804864"
+  }
+},
+{
+  "type": "way",
+  "id": 1223825448,
+  "center": {
+    "lat": 44.7686035,
+    "lon": 20.3450347
+  },
+  "tags": {
+    "building": "industrial",
+    "man_made": "pumping_station"
+  }
+},
+{
+  "type": "way",
+  "id": 1368393926,
+  "center": {
+    "lat": 44.7677303,
+    "lon": 20.6380778
+  },
+  "tags": {
+    "addr:housenumber": "323",
+    "addr:street": "Вајфертова",
+    "building": "service",
+    "int_name": "Marijino polje",
+    "man_made": "pumping_station",
+    "name": "Маријино поље",
+    "name:sr": "Маријино поље",
+    "name:sr-Latn": "Marijino polje",
+    "ref:RS:kucni_broj": "6811793"
+  }
+},
+{
+  "type": "way",
+  "id": 1413245132,
+  "center": {
+    "lat": 44.6649280,
+    "lon": 20.8371982
+  },
+  "tags": {
+    "addr:housenumber": "66",
+    "addr:street": "Милана Ракића",
+    "building": "service",
+    "man_made": "pumping_station",
+    "ref:RS:kucni_broj": "6243413"
+  }
+},
+{
+  "type": "way",
+  "id": 1485399386,
+  "center": {
+    "lat": 44.7874108,
+    "lon": 20.3198162
+  },
+  "tags": {
+    "building": "service",
+    "man_made": "pumping_station"
+  }
+}
+
+  ]
+}
