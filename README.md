@@ -56,6 +56,17 @@ ERA5 1991-2020 has 8.3 days. The models differ strongly in their own historical 
 
 Checksums of all raw files are in `data/manifest.csv`.
 
+## Relation to the EBRD approach (read in the EBRD Sustainability Report 2023, chapter Paris alignment, 23 Nov 2026)
+The report states that since the start of 2023 all new EBRD investment projects have been aligned with the Paris Agreement under the joint MDB framework of six building blocks (mitigation and adaptation alignment of investments, scaling climate finance, policy engagement, reporting, internal activities). For adaptation, the Bank ensures that the project or the counterparty has identified and addressed physical climate risks and that its activities do not undermine climate resilience in the operating context; projects needing a further assessment go through a three-step method: (1) potential material physical climate risks, (2) assessment of existing mitigants or inherent resilience, (3) whether there may be an impact on systemic climate resilience, with appropriate measures where risks or impacts are material. How the screen of this repository maps onto it:
+
+| EBRD step | This repository | Covered |
+|---|---|---|
+| 1. Potential material physical climate risk | Exposure at the asset (1-in-100 depth of 0.1 m or 1-in-500 depth of 0.5 m) and expected annual loss above 0.05% of value (`tagging.paris_screen`) for flood; days above 35 C for heat at portfolio level | flood at asset level; heat only as a portfolio scenario |
+| 2. Existing mitigants and inherent resilience | Residual loss after the selected measure below 0.05% of value (`aligned if the measure is in the project scope`) | flood only, thresholds set in this study |
+| 3. Impact on systemic climate resilience | Not modelled: assets are screened one by one, without the network or the community they serve | no |
+
+The thresholds are screening rules of this study, not those of the EBRD, whose methodology and thresholds were not read.
+
 ## Limits
 - The values, depth-damage curves, measure costs, loss rate per hot day and scenario factors are assumptions. Flood frequency factors (1.3 and 2.0) are stress factors, not projections. The heat scenarios use three CMIP6 models, one member each and 20-year windows, one grid cell of 50 to 200 km near Belgrade; the median is not a probabilistic projection and the models differ by up to 10 days a year.
 - The flood maps are riverine only (no surface water or coastal flooding), historical climate, 90 m resolution, with known artefacts in channels; 23 assets were excluded for that reason and need a site review.
