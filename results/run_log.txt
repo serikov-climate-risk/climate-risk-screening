@@ -3,8 +3,8 @@
   "total_value_meur": 2460.0,
   "heat_days_per_year": {
     "baseline": 8.266666666666667,
-    "moderate": 16.0,
-    "high": 25.833333333333332
+    "moderate": 23.8,
+    "high": 28.533333333333335
   },
   "flood_eal_meur": {
     "baseline": 4.688841639920062,
@@ -13,8 +13,8 @@
   },
   "heat_eal_meur": {
     "baseline": 4.368933333333334,
-    "moderate": 8.456,
-    "high": 13.652916666666666
+    "moderate": 12.5783,
+    "high": 15.07986666666667
   },
   "n_exposed_rp100": 18,
   "n_excluded_in_channel": 23,

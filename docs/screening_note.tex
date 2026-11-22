@@ -21,8 +21,8 @@ This note shows how a project portfolio can be screened for physical climate ris
 \setlength\itemsep{1pt}
 \item \textbf{Exposure.} Flood depth at each asset from the JRC / CEMS GloFAS river flood hazard maps (3 arc seconds, return periods 10, 50, 100, 200 and 500 years). Of the 331 assets, 23 sit in or on the bank of a river channel that the 90 m grid cannot resolve (1-in-10 depth of at least 2 m); they are excluded from the totals and listed for site review. 308 assets with an assumed value of 2,460 million EUR remain.
 \item \textbf{Expected annual loss.} Depth-damage curve per asset class times assumed value, integrated over exceedance probability. Damage from floods more frequent than the 1-in-10 flood is set to zero, so the flood loss is a lower bound.
-\item \textbf{Heat.} Days above 35~\textdegree C from ERA5 daily maxima 1991--2020 at the grid point near Belgrade, shifted by a uniform warming (delta method), times an assumed loss rate per day.
-\item \textbf{Scenarios.} Baseline, moderate (flood frequency $\times$1.3, +1.5 K) and high ($\times$2.0, +3.0 K). These are stress factors, not projections.
+\item \textbf{Heat.} Days above 35~\textdegree C from ERA5 daily maxima 1991--2020 at the grid point near Belgrade, shifted by the change of three CMIP6 models between 1995--2014 and 2041--2060 per quantile of daily maximum temperature (quantile delta method), times an assumed loss rate per day.
+\item \textbf{Scenarios.} Baseline, moderate (flood frequency $\times$1.3, heat of SSP2-4.5) and high ($\times$2.0, heat of SSP5-8.5; median of three models). The flood factors are stress factors, not projections.
 \item \textbf{Measures.} A local barrier (0.5 m), a flood wall (1.5 m) and elevation of critical equipment (3 m), with cost shares of asset value, annualised at 6\% over 30 years. The plan is chosen per scenario and by minimax regret across scenarios; the value of knowing the scenario (EVPI) is computed.
 \item \textbf{Tagging and alignment.} Each chosen measure is tagged by a three-step rule (vulnerability, intent, direct link) and each asset is screened against a simplified alignment rule.
 \end{enumerate}
@@ -35,13 +35,13 @@ This note shows how a project portfolio can be screened for physical climate ris
  & Baseline & Moderate & High\\
 \midrule
 Expected annual flood loss, million EUR & 4.7 & 6.1 & 9.4\\
-Days per year above 35~\textdegree C & 8.3 & 16.0 & 25.8\\
-Expected annual heat loss (assumed rate), million EUR & 4.4 & 8.5 & 13.7\\
+Days per year above 35~\textdegree C & 8.3 & 23.8 & 28.5\\
+Expected annual heat loss (assumed rate), million EUR & 4.4 & 12.6 & 15.1\\
 Net benefit of the minimax-regret plan, million EUR/yr & 3.05 & 4.34 & 7.35\\
 \bottomrule
 \end{tabular}
 \end{table}
-Only 18 of the 308 assets have a 1-in-100 flood depth of at least 0.1 m. Transmission substations carry 48\% of the baseline flood loss, water works 20\% and pumping stations 16\%. The flood loss doubles in the high scenario and the heat loss triples, so the heat loss matters as much as the flood loss, although its rate is an assumption.
+Only 18 of the 308 assets have a 1-in-100 flood depth of at least 0.1 m. Transmission substations carry 48\% of the baseline flood loss, water works 20\% and pumping stations 16\%. The flood loss doubles in the high scenario and the heat loss more than triples, so the heat loss matters as much as the flood loss, although its rate is an assumption.
 
 \begin{figure}[H]
 \centering
@@ -74,5 +74,5 @@ The simplified alignment screen has four outcomes. 284 assets are aligned becaus
 \end{enumerate}
 
 \section*{6. Limits}
-Values, damage curves, measure costs, the heat loss rate and the scenario factors are assumptions. The flood maps are riverine only, for the historical climate, with known artefacts in channels; a 3\,$\times$\,3 pixel window maximum doubles the portfolio loss (9.1 against 4.7 million EUR), which shows the sensitivity to position error. The asset set is an OpenStreetMap sample, not an inventory. The heat scenarios use a uniform warming shift because the CMIP6 data licence has not been accepted in the data account; the download script is in the repository. Code, data manifest and tests: \url{https://github.com/serikov-climate-risk/climate-risk-screening} (to be published).
+Values, damage curves, measure costs, the heat loss rate and the scenario factors are assumptions. The flood maps are riverine only, for the historical climate, with known artefacts in channels; a 3\,$\times$\,3 pixel window maximum doubles the portfolio loss (9.1 against 4.7 million EUR), which shows the sensitivity to position error. The asset set is an OpenStreetMap sample, not an inventory. The heat scenarios use three CMIP6 models (one member each, 20-year windows, one grid cell near Belgrade), so the models differ by up to 10 days a year and the median is not a projection. Code, data manifest and tests: \url{https://github.com/serikov-climate-risk/climate-risk-screening}.
 \end{document}

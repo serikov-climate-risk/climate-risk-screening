@@ -36,7 +36,10 @@ assets_all = assets
 assets = assets[~assets.qc_in_channel_flag].copy()
 
 tmax, years = load_tmax()
-heat_days = {s: risk.heat_days_per_year(tmax, years, v["warming_k"], HEAT_THRESHOLD_C) for s, v in SCENARIOS.items()}
+from crscreen import cmip6
+heat_table = cmip6.heat_days_table(tmax, years, HEAT_THRESHOLD_C)
+heat_table.to_csv(RES / "heat_days_cmip6.csv", index=False)
+heat_days = cmip6.scenario_days(heat_table) if len(cmip6.models_complete()) >= 2 else {s: risk.heat_days_per_year(tmax, years, v["warming_k"], HEAT_THRESHOLD_C) for s, v in SCENARIOS.items()}
 
 t = risk.asset_scenario_table(assets, depth_cols, heat_days)
 reg, plans, summary = risk.regret_plans(t)

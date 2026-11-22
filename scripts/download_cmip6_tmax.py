@@ -1,5 +1,6 @@
 """Download CMIP6 daily maximum near-surface air temperature for the Belgrade area from the CDS (historical, SSP2-4.5, SSP5-8.5)."""
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 import cdsapi
@@ -37,6 +38,10 @@ def fetch(job):
     except Exception as e:
         print("FAILED", job[:2], e, file=sys.stderr)
 
-with ThreadPoolExecutor(3) as ex:
-    list(ex.map(fetch, JOBS))
+for j in JOBS:   # the CDS accepts few queued requests per dataset: one at a time, retry when rejected
+    for attempt in range(40):
+        fetch(j)
+        if (out / f"tmax_{j[0]}_{j[1]}_{j[2][0]}_{j[2][-1]}.zip").exists():
+            break
+        time.sleep(180)
 print("done")
