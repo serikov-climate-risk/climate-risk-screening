@@ -7,3 +7,6 @@ __pycache__/
 .pytest_cache/
 data/raw/cmip6_pangeo/pangeo-cmip6.csv
 cmip6_pangeo.log
+docs/*.aux
+docs/*.log
+docs/*.out

@@ -5,7 +5,7 @@ from pathlib import Path
 root = Path(__file__).resolve().parents[1]
 rows = ["path,bytes,sha256"]
 for p in sorted((root / "data" / "raw").rglob("*")):
-    if p.is_file() and p.suffix in {".tif", ".json", ".zip", ".txt", ".geojson"} and "log" not in p.name:
+    if p.is_file() and p.suffix in {".tif", ".json", ".zip", ".txt", ".geojson", ".csv"} and "log" not in p.name and p.name != "pangeo-cmip6.csv":
         h = hashlib.sha256(p.read_bytes()).hexdigest()
         rows.append(f"{p.relative_to(root).as_posix()},{p.stat().st_size},{h}")
 (root / "data" / "manifest.csv").write_text("\n".join(rows) + "\n", encoding="utf-8")
