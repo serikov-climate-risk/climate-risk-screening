@@ -13,8 +13,8 @@ How does an adaptation analyst screen an investment portfolio for physical clima
 | Assets with 1-in-100 flood depth of at least 0.1 m | 18 |
 | Expected annual flood loss, baseline / moderate / high (flood frequency x1.0 / x1.3 / x2.0) | 4.7 / 6.1 / 9.4 million EUR |
 | Share of the baseline flood loss in transmission substations / water works / pumping stations | 48% / 20% / 16% |
-| Days per year above 35 C at the ERA5 grid point: 1991-2020 baseline / moderate (SSP2-4.5, 2041-2060) / high (SSP5-8.5, 2041-2060), median of three CMIP6 models by the quantile delta method (range over the models 20.1 to 30.5 and 25.8 to 33.8) | 8.3 / 23.8 / 28.5 |
-| Expected annual heat loss with the assumed loss rate, same scenarios (the earlier uniform +1.5 K and +3.0 K gave 8.5 and 13.7) | 4.4 / 12.6 / 15.1 million EUR |
+| Days per year above 35 C at the ERA5 grid point: 1991-2020 baseline / moderate (SSP2-4.5, 2041-2060) / high (SSP5-8.5, 2041-2060), median of four CMIP6 models by the quantile delta method (range over the models 20.1 to 30.5 and 21.1 to 33.8) | 8.3 / 22.2 / 27.2 |
+| Expected annual heat loss with the assumed loss rate, same scenarios (the earlier uniform +1.5 K and +3.0 K gave 8.5 and 13.7) | 4.4 / 11.7 / 14.4 million EUR |
 | Minimax-regret plan | 17 of 308 assets get a measure (10 equipment elevation of 3 m, 5 flood walls of 1.5 m, 2 local barriers of 0.5 m), capital cost 15.1 million EUR |
 | Net benefit of that plan, baseline / moderate / high | 3.05 / 4.34 / 7.35 million EUR per year |
 | Maximum regret over the three scenarios, plan optimised for baseline / for high / minimax regret | 0.101 / 0.049 / 0.026 million EUR per year |
@@ -43,8 +43,10 @@ Reading of the results: the flood risk is concentrated in a few river-side asset
 | AWI-CM-1-1-MR | ssp585 | 25.6 | 2.27 | 25.8 |
 | BCC-CSM2-MR | ssp245 | 16.2 | 1.90 | 23.8 |
 | BCC-CSM2-MR | ssp585 | 16.2 | 2.95 | 33.8 |
+| CAMS-CSM1-0 | ssp245 | 10.2 | 1.88 | 20.6 |
+| CAMS-CSM1-0 | ssp585 | 10.2 | 1.72 | 21.1 |
 
-ERA5 1991-2020 has 8.3 days. The models differ strongly in their own historical hot days (0.4 to 25.6 per year at the nearest cell), which is why the shift is applied to ERA5 and not the model value taken as it is. Warming under SSP2-4.5 can exceed warming under SSP5-8.5 for one model (ACCESS-CM2: 3.16 and 3.06 K): one ensemble member and 20 years carry internal variability of that size, which is also why three models give a median, not a projection. The flood plans, the minimax-regret choice (17 assets) and the value of knowing the scenario (0.010 million EUR a year) do not change, because the adaptation measures in this screening act on flood only; the heat scenarios change the heat loss, which is the same for every plan.
+ERA5 1991-2020 has 8.3 days. The models differ strongly in their own historical hot days (0.4 to 25.6 per year at the nearest cell), which is why the shift is applied to ERA5 and not the model value taken as it is. Warming under SSP2-4.5 can exceed warming under SSP5-8.5 for a model (ACCESS-CM2: 3.16 and 3.06 K; CAMS-CSM1-0: 1.88 and 1.72 K): one ensemble member and 20 years carry internal variability of that size, which is also why four models give a median, not a projection. The flood plans, the minimax-regret choice (17 assets) and the value of knowing the scenario (0.010 million EUR a year) do not change, because the adaptation measures in this screening act on flood only; the heat scenarios change the heat loss, which is the same for every plan.
 
 ## Data
 | Data | Source | Licence |
@@ -52,7 +54,7 @@ ERA5 1991-2020 has 8.3 days. The models differ strongly in their own historical 
 | Flood depth | JRC / CEMS GloFAS global river flood hazard maps v2.1.2, tile ID134_N50_E20 | CC BY 4.0 |
 | Assets | OpenStreetMap via Overpass, queried 21 Nov 2026 | ODbL |
 | Temperature | ERA5 hourly 2 m temperature 1991-2020 at 44.75 N 20.5 E, Copernicus Climate Data Store | Copernicus licence |
-| Climate change | CMIP6 daily maximum near-surface air temperature, historical 1995-2014 and SSP2-4.5 and SSP5-8.5 2041-2060 at the nearest cell, Pangeo CMIP6 cloud archive (`scripts/download_cmip6_pangeo.py`): ACCESS-CM2, AWI-CM-1-1-MR, BCC-CSM2-MR (BCC historical is member r2i1p1f1, its scenarios r1i1p1f1) | licence per model, not checked here |
+| Climate change | CMIP6 daily maximum near-surface air temperature, historical 1995-2014 and SSP2-4.5 and SSP5-8.5 2041-2060 at the nearest cell, Pangeo CMIP6 cloud archive (`scripts/download_cmip6_pangeo.py`): ACCESS-CM2, AWI-CM-1-1-MR, BCC-CSM2-MR, CAMS-CSM1-0 (BCC historical is member r2i1p1f1, its scenarios r1i1p1f1) | licence per model, not checked here |
 
 Checksums of all raw files are in `data/manifest.csv`.
 
@@ -68,7 +70,7 @@ The report states that since the start of 2023 all new EBRD investment projects 
 The thresholds are screening rules of this study, not those of the EBRD, whose methodology and thresholds were not read.
 
 ## Limits
-- The values, depth-damage curves, measure costs, loss rate per hot day and scenario factors are assumptions. Flood frequency factors (1.3 and 2.0) are stress factors, not projections. The heat scenarios use three CMIP6 models, one member each and 20-year windows, one grid cell of 50 to 200 km near Belgrade; the median is not a probabilistic projection and the models differ by up to 10 days a year.
+- The values, depth-damage curves, measure costs, loss rate per hot day and scenario factors are assumptions. Flood frequency factors (1.3 and 2.0) are stress factors, not projections. The heat scenarios use four CMIP6 models, one member each and 20-year windows, one grid cell of 50 to 200 km near Belgrade; the median is not a probabilistic projection and the models differ by up to 13 days a year.
 - The flood maps are riverine only (no surface water or coastal flooding), historical climate, 90 m resolution, with known artefacts in channels; 23 assets were excluded for that reason and need a site review.
 - OpenStreetMap coverage and tags are incomplete; the asset set is a sample for the method, not an inventory of Belgrade.
 - Below the 1-in-10 flood the damage is set to zero, so the flood loss is a lower bound. Heat loss is a single linear rate per class.
